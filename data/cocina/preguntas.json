@@ -1,0 +1,365 @@
+{
+  "catalogo": "cocina",
+  "preguntas": [
+    {
+      "id": "cocina-01",
+      "pregunta": "¿Cuál es el tiempo de cocción de la carne 10:1?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-02",
+      "pregunta": "¿Cuál es el tiempo de cocción de la carne 4:1?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-03",
+      "pregunta": "¿Cuál es el tiempo de cocción de la carne 3:1?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-04",
+      "pregunta": "¿Cuál es el tiempo de cocción del tocino?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-05",
+      "pregunta": "¿Cuál es el tiempo de cocción de las grilles?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-06",
+      "pregunta": "¿Cuál es el gap de la carne 10:1?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-07",
+      "pregunta": "¿Cuál es el gap de la carne 4:1?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-08",
+      "pregunta": "¿Cuál es el gap de la carne 3:1?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-09",
+      "pregunta": "¿Cuál es el gap del derretido y tostado?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-10",
+      "pregunta": "¿Cada cuánto se evaporan las parrillas?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-11",
+      "pregunta": "¿Qué es lo que espera el cliente de las carnes?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-12",
+      "pregunta": "¿Cuál es el rango de temperatura de los auxiliares?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-13",
+      "pregunta": "¿A qué temperatura deben cocinarse las carnes?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-14",
+      "pregunta": "¿Cuál es el tiempo máximo para sacar las carnes?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-15",
+      "pregunta": "¿Cuál es el tiempo de la carne en el UHC?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-16",
+      "pregunta": "¿Cuál es el tiempo máximo para colocar las carnes?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-17",
+      "pregunta": "¿Cuál es la vida útil de las tortas grilles?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-18",
+      "pregunta": "¿Cuál es la vida útil de las crispy?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-19",
+      "pregunta": "¿Cuál es la vida útil de los nuggets en el UHC?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-20",
+      "pregunta": "¿Cuál es la vida útil de las M pollos en el UHC?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-21",
+      "pregunta": "¿Cuál es el tiempo de vida útil de la crispy USA en el UHC?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-22",
+      "pregunta": "¿Cuál es el tiempo de cocción de los nuggets?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-23",
+      "pregunta": "¿Cuál es el tiempo de cocción de la M pollo?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-24",
+      "pregunta": "¿Cuál es el tiempo de cocción de la crispy?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-25",
+      "pregunta": "¿Cuál es el tiempo de cocción de la cebolla empanizada?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-26",
+      "pregunta": "¿Cuál es el tiempo de cocción de los plátanos?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-27",
+      "pregunta": "¿Cuál es el tiempo de cocción de los huevos muffin?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-28",
+      "pregunta": "¿Cuál es el tiempo de cocción del huevo revuelto?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-29",
+      "pregunta": "¿Cuál es el tiempo de cocción del huevo del huerto?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-30",
+      "pregunta": "¿Cuál es el tiempo de cocción del huevo doblados?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-31",
+      "pregunta": "¿Cuál es la temperatura de las parrillas?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-32",
+      "pregunta": "¿Cuál es la temperatura de las parrillas del desayuno?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-33",
+      "pregunta": "¿Cuál es el tiempo de cocción del jamón?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-34",
+      "pregunta": "¿Cuál es el tiempo de vida de los huevos en el UHC?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-35",
+      "pregunta": "¿Cuál es el tiempo de vida de los panes muffins en el UHC?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-36",
+      "pregunta": "¿Cuál es el tiempo de cocción de los panes muffins?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-37",
+      "pregunta": "¿Cuánto tarda en calentarse la tostadora universal?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-38",
+      "pregunta": "¿Cuánto tarda en calentarse las parrillas clamshell?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-39",
+      "pregunta": "¿Qué es la regla 24/2?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-40",
+      "pregunta": "¿Cuál es el tiempo de cocción de las salchichas?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-41",
+      "pregunta": "¿Cuál es la temperatura de la plancha de los hot cake?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-42",
+      "pregunta": "¿Cuál es el tiempo máximo para batir la mezcla de los hot cake?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-43",
+      "pregunta": "¿Cuántas onzas rinde un lote de hot cake?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-44",
+      "pregunta": "¿Qué cantidad de agua se le aplica a la mezcla de hot cake?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-45",
+      "pregunta": "¿Cuáles son los utensilios para hacer mezcla de hot cake?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-46",
+      "pregunta": "¿Qué espera el cliente de los hot cake?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-47",
+      "pregunta": "¿Cuál es el diámetro de los hot cake?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-48",
+      "pregunta": "¿Cuánto debe rendir una bolsa de hot cake?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-49",
+      "pregunta": "¿Qué espera el invitado de las carnes?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-50",
+      "pregunta": "¿Cuáles son las características de calidad de la carne?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-51",
+      "pregunta": "¿Cuáles son las características de la carne deshidratada?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-52",
+      "pregunta": "¿Cuál es la zona de temperatura de peligro?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-53",
+      "pregunta": "¿Cuál es la temperatura del baño maría de los topping?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-54",
+      "pregunta": "¿Cuál es la temperatura de las topineras?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-55",
+      "pregunta": "¿Por cuánto se deben batir un McFlurry?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-56",
+      "pregunta": "¿Qué se usa como guía para abastecer el área de servicio?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-57",
+      "pregunta": "¿Cuál es la temperatura de la payera?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-58",
+      "pregunta": "¿Qué espera el invitado de un buen pan?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-59",
+      "pregunta": "¿Qué hay que hacer en caso de que el pan esté lastimado?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-60",
+      "pregunta": "¿Cuál es la temperatura de la placa A de la tostadora modelo HEBT-5V?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-61",
+      "pregunta": "¿Cuál es la temperatura de la placa B de la tostadora modelo HEBT-5V?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-62",
+      "pregunta": "¿Cuál es la temperatura de la placa C de la tostadora modelo HEBT-5V?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-63",
+      "pregunta": "¿Cuál es el tiempo de caramelizado del pan en la tostadora?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-64",
+      "pregunta": "¿Cuánto es el tiempo de calentamiento de la tostadora HEBT-5V?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-65",
+      "pregunta": "¿Cuánto es el tiempo de reacción al ver una orden en el KVS?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-66",
+      "pregunta": "¿En qué modo debe estar la parrilla para realizar su limpieza?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-67",
+      "pregunta": "¿A qué temperatura debe estar la parrilla en el clean mode para poder realizar su limpieza?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-68",
+      "pregunta": "¿Dónde se debe depositar la grasa del canal de la parrilla?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-69",
+      "pregunta": "¿Con qué se debe limpiar los teflones de la parrilla?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-70",
+      "pregunta": "¿Qué se debe hacer con los utensilios de parrilla cuando se desarma para su limpieza?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-71",
+      "pregunta": "¿El raspador de parrilla se puede usar para la parte superior?",
+      "campo": "cocina"
+    },
+    {
+      "id": "cocina-72",
+      "pregunta": "¿El raspador de parrilla se puede usar para la parte inferior?",
+      "campo": "cocina"
+    }
+  ]
+}

@@ -1,0 +1,1373 @@
+{
+  "catalogo": "mc-cafe",
+  "preguntas": [
+    {
+      "id": "mc-cafe-smoothie-temperatura",
+      "producto": "Smothie (varios)",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el smothie?"
+    },
+    {
+      "id": "mc-cafe-smoothie-tiempo_primario",
+      "producto": "Smothie (varios)",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del smothie?"
+    },
+    {
+      "id": "mc-cafe-smoothie-despues_abierto",
+      "producto": "Smothie (varios)",
+      "campo": "despues_abierto",
+      "pregunta": "¿Cuál es el tiempo de vida después de abierto del smothie?"
+    },
+    {
+      "id": "mc-cafe-topping-fresa-temperatura",
+      "producto": "Topping fresa",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el topping de fresa?"
+    },
+    {
+      "id": "mc-cafe-topping-fresa-tiempo_primario",
+      "producto": "Topping fresa",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del topping de fresa?"
+    },
+    {
+      "id": "mc-cafe-topping-fresa-tiempo_secundario",
+      "producto": "Topping fresa",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del topping de fresa?"
+    },
+    {
+      "id": "mc-cafe-topping-dulce-leche-temperatura",
+      "producto": "Topping dulce de leche",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el topping de dulce de leche?"
+    },
+    {
+      "id": "mc-cafe-topping-dulce-leche-tiempo_primario",
+      "producto": "Topping dulce de leche",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del topping de dulce de leche?"
+    },
+    {
+      "id": "mc-cafe-topping-dulce-leche-tiempo_secundario",
+      "producto": "Topping dulce de leche",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del topping de dulce de leche?"
+    },
+    {
+      "id": "mc-cafe-topping-mora-temperatura",
+      "producto": "Topping mora",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el topping de mora?"
+    },
+    {
+      "id": "mc-cafe-topping-mora-tiempo_primario",
+      "producto": "Topping mora",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del topping de mora?"
+    },
+    {
+      "id": "mc-cafe-topping-mora-tiempo_secundario",
+      "producto": "Topping mora",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del topping de mora?"
+    },
+    {
+      "id": "mc-cafe-galleta-oreo-temperatura",
+      "producto": "Galleta oreo",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el galleta de oreo?"
+    },
+    {
+      "id": "mc-cafe-galleta-oreo-tiempo_secundario",
+      "producto": "Galleta oreo",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del galleta de oreo?"
+    },
+    {
+      "id": "mc-cafe-cafe-descafeinado-temperatura",
+      "producto": "Café Descafeinado",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el café descafeinado?"
+    },
+    {
+      "id": "mc-cafe-cafe-descafeinado-tiempo_primario",
+      "producto": "Café Descafeinado",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del café descafeinado?"
+    },
+    {
+      "id": "mc-cafe-cafe-descafeinado-tiempo_secundario",
+      "producto": "Café Descafeinado",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del café descafeinado?"
+    },
+    {
+      "id": "mc-cafe-cafe-moro-temperatura",
+      "producto": "Café moro",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el café moro?"
+    },
+    {
+      "id": "mc-cafe-cafe-moro-tiempo_primario",
+      "producto": "Café moro",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del café moro?"
+    },
+    {
+      "id": "mc-cafe-cafe-moro-tiempo_secundario",
+      "producto": "Café moro",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del café moro?"
+    },
+    {
+      "id": "mc-cafe-cafe-moro-despues_abierto",
+      "producto": "Café moro",
+      "campo": "despues_abierto",
+      "pregunta": "¿Cuál es el tiempo de vida después de abierto del café moro?"
+    },
+    {
+      "id": "mc-cafe-cafe-region-temperatura",
+      "producto": "Café región",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el café región?"
+    },
+    {
+      "id": "mc-cafe-cafe-region-tiempo_primario",
+      "producto": "Café región",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del café región?"
+    },
+    {
+      "id": "mc-cafe-cafe-region-tiempo_secundario",
+      "producto": "Café región",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del café región?"
+    },
+    {
+      "id": "mc-cafe-cafe-region-despues_abierto",
+      "producto": "Café región",
+      "campo": "despues_abierto",
+      "pregunta": "¿Cuál es el tiempo de vida después de abierto del café región?"
+    },
+    {
+      "id": "mc-cafe-leche-melita-temperatura",
+      "producto": "Leche para melita",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el leche de la milita?"
+    },
+    {
+      "id": "mc-cafe-leche-melita-tiempo_primario",
+      "producto": "Leche para melita",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del leche de la milita?"
+    },
+    {
+      "id": "mc-cafe-leche-melita-tiempo_secundario",
+      "producto": "Leche para melita",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del leche de la milita?"
+    },
+    {
+      "id": "mc-cafe-bebida-soja-temperatura",
+      "producto": "Bebida de soja",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el bebida de soja?"
+    },
+    {
+      "id": "mc-cafe-bebida-soja-tiempo_primario",
+      "producto": "Bebida de soja",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del bebida de soja?"
+    },
+    {
+      "id": "mc-cafe-leche-temperatura",
+      "producto": "Leche",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el leche para mc café?"
+    },
+    {
+      "id": "mc-cafe-leche-tiempo_primario",
+      "producto": "Leche",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del leche para mc café?"
+    },
+    {
+      "id": "mc-cafe-leche-tiempo_secundario",
+      "producto": "Leche",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del leche para mc café?"
+    },
+    {
+      "id": "mc-cafe-jarabe-vainilla-temperatura",
+      "producto": "Jarabe vainilla",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el jarabe de vainilla?"
+    },
+    {
+      "id": "mc-cafe-jarabe-vainilla-tiempo_primario",
+      "producto": "Jarabe vainilla",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del jarabe de vainilla?"
+    },
+    {
+      "id": "mc-cafe-jarabe-vainilla-tiempo_secundario",
+      "producto": "Jarabe vainilla",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del jarabe de vainilla?"
+    },
+    {
+      "id": "mc-cafe-jarabe-vainilla-sugar-temperatura",
+      "producto": "Jarabe vainilla sugar",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el vainilla sugar free?"
+    },
+    {
+      "id": "mc-cafe-jarabe-vainilla-sugar-tiempo_primario",
+      "producto": "Jarabe vainilla sugar",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del vainilla sugar free?"
+    },
+    {
+      "id": "mc-cafe-jarabe-vainilla-sugar-tiempo_secundario",
+      "producto": "Jarabe vainilla sugar",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del vainilla sugar free?"
+    },
+    {
+      "id": "mc-cafe-jarabe-caramelo-temperatura",
+      "producto": "Jarabe caramelo",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el jarabe de caramelo?"
+    },
+    {
+      "id": "mc-cafe-jarabe-caramelo-tiempo_primario",
+      "producto": "Jarabe caramelo",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del jarabe de caramelo?"
+    },
+    {
+      "id": "mc-cafe-jarabe-caramelo-tiempo_secundario",
+      "producto": "Jarabe caramelo",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del jarabe de caramelo?"
+    },
+    {
+      "id": "mc-cafe-azucar-liquida-temperatura",
+      "producto": "Azúcar liquida",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el azúcar liquida?"
+    },
+    {
+      "id": "mc-cafe-azucar-liquida-tiempo_primario",
+      "producto": "Azúcar liquida",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del azúcar liquida?"
+    },
+    {
+      "id": "mc-cafe-azucar-liquida-tiempo_secundario",
+      "producto": "Azúcar liquida",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del azúcar liquida?"
+    },
+    {
+      "id": "mc-cafe-azucar-glass-temperatura",
+      "producto": "Azúcar glass",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el azúcar glass?"
+    },
+    {
+      "id": "mc-cafe-azucar-glass-tiempo_primario",
+      "producto": "Azúcar glass",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del azúcar glass?"
+    },
+    {
+      "id": "mc-cafe-azucar-glass-despues_abierto",
+      "producto": "Azúcar glass",
+      "campo": "despues_abierto",
+      "pregunta": "¿Cuál es el tiempo de vida después de abierto del azúcar glass?"
+    },
+    {
+      "id": "mc-cafe-te-guatemalteco-temperatura",
+      "producto": "Te Guatemalteco",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el té guatemalteco?"
+    },
+    {
+      "id": "mc-cafe-te-guatemalteco-tiempo_primario",
+      "producto": "Te Guatemalteco",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del té guatemalteco?"
+    },
+    {
+      "id": "mc-cafe-te-guatemalteco-tiempo_secundario",
+      "producto": "Te Guatemalteco",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del té guatemalteco?"
+    },
+    {
+      "id": "mc-cafe-te-chai-temperatura",
+      "producto": "Te chai (varios)",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el té chai?"
+    },
+    {
+      "id": "mc-cafe-te-chai-tiempo_primario",
+      "producto": "Te chai (varios)",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del té chai?"
+    },
+    {
+      "id": "mc-cafe-te-chai-tiempo_secundario",
+      "producto": "Te chai (varios)",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del té chai?"
+    },
+    {
+      "id": "mc-cafe-mcpops-avellana-tiempo_primario",
+      "producto": "McPops Avellana",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del mc pops de avellana?"
+    },
+    {
+      "id": "mc-cafe-mcpops-avellana-tiempo_secundario",
+      "producto": "McPops Avellana",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del mc pops de avellana?"
+    },
+    {
+      "id": "mc-cafe-mcpops-chocolate-blanco-temperatura",
+      "producto": "McPops Chocolate Blanco",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el mc pops de chocolate?"
+    },
+    {
+      "id": "mc-cafe-mcpops-chocolate-blanco-tiempo_primario",
+      "producto": "McPops Chocolate Blanco",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del mc pops de chocolate?"
+    },
+    {
+      "id": "mc-cafe-mcpops-chocolate-blanco-tiempo_secundario",
+      "producto": "McPops Chocolate Blanco",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del mc pops de chocolate?"
+    },
+    {
+      "id": "mc-cafe-dots-chocolate-temperatura",
+      "producto": "Dots de chocolate",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el dots de chocolate?"
+    },
+    {
+      "id": "mc-cafe-dots-chocolate-tiempo_primario",
+      "producto": "Dots de chocolate",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del dots de chocolate?"
+    },
+    {
+      "id": "mc-cafe-dots-chocolate-tiempo_secundario",
+      "producto": "Dots de chocolate",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del dots de chocolate?"
+    },
+    {
+      "id": "mc-cafe-dots-fresa-temperatura",
+      "producto": "Dots de fresa",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el dots de fresa?"
+    },
+    {
+      "id": "mc-cafe-dots-fresa-tiempo_primario",
+      "producto": "Dots de fresa",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del dots de fresa?"
+    },
+    {
+      "id": "mc-cafe-dots-fresa-tiempo_secundario",
+      "producto": "Dots de fresa",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del dots de fresa?"
+    },
+    {
+      "id": "mc-cafe-cheesecake-temperatura",
+      "producto": "Cheesecake",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el cheesecake?"
+    },
+    {
+      "id": "mc-cafe-cheesecake-tiempo_primario",
+      "producto": "Cheesecake",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del cheesecake?"
+    },
+    {
+      "id": "mc-cafe-cheesecake-tiempo_secundario",
+      "producto": "Cheesecake",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del cheesecake?"
+    },
+    {
+      "id": "mc-cafe-macadamia-temperatura",
+      "producto": "Pastel macadamia",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el macadamia?"
+    },
+    {
+      "id": "mc-cafe-macadamia-tiempo_primario",
+      "producto": "Pastel macadamia",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del macadamia?"
+    },
+    {
+      "id": "mc-cafe-macadamia-tiempo_secundario",
+      "producto": "Pastel macadamia",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del macadamia?"
+    },
+    {
+      "id": "mc-cafe-pastel-elote-temperatura",
+      "producto": "Pastel de elote",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el elote?"
+    },
+    {
+      "id": "mc-cafe-pastel-elote-tiempo_primario",
+      "producto": "Pastel de elote",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del elote?"
+    },
+    {
+      "id": "mc-cafe-pastel-elote-tiempo_secundario",
+      "producto": "Pastel de elote",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del elote?"
+    },
+    {
+      "id": "mc-cafe-pastel-zanahoria-temperatura",
+      "producto": "Pastel de zanahoria",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el zanahoria?"
+    },
+    {
+      "id": "mc-cafe-pastel-zanahoria-tiempo_primario",
+      "producto": "Pastel de zanahoria",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del zanahoria?"
+    },
+    {
+      "id": "mc-cafe-pastel-zanahoria-tiempo_secundario",
+      "producto": "Pastel de zanahoria",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del zanahoria?"
+    },
+    {
+      "id": "mc-cafe-pastel-chocolate-temperatura",
+      "producto": "Pastel de chocolate",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el pastel de chocolate?"
+    },
+    {
+      "id": "mc-cafe-pastel-chocolate-tiempo_primario",
+      "producto": "Pastel de chocolate",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del pastel de chocolate?"
+    },
+    {
+      "id": "mc-cafe-pastel-chocolate-tiempo_secundario",
+      "producto": "Pastel de chocolate",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del pastel de chocolate?"
+    },
+    {
+      "id": "mc-cafe-tres-leches-temperatura",
+      "producto": "Tres leches",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el tres leches?"
+    },
+    {
+      "id": "mc-cafe-tres-leches-tiempo_primario",
+      "producto": "Tres leches",
+      "campo": "tiempo_primario",
+      "pregunta": "¿Cuál es el tiempo de vida primario del tres leches?"
+    },
+    {
+      "id": "mc-cafe-tres-leches-tiempo_secundario",
+      "producto": "Tres leches",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del tres leches?"
+    },
+    {
+      "id": "mc-cafe-chocolate-caliente-temperatura",
+      "producto": "Chocolate caliente",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el chocolate caliente?"
+    },
+    {
+      "id": "mc-cafe-chocolate-caliente-despues_abierto",
+      "producto": "Chocolate caliente",
+      "campo": "despues_abierto",
+      "pregunta": "¿Cuál es el tiempo de vida después de abierto del chocolate caliente?"
+    },
+    {
+      "id": "mc-cafe-mezcla-frape-temperatura",
+      "producto": "Mezcla de espresso para frape",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el mezcla de expreso para frape?"
+    },
+    {
+      "id": "mc-cafe-mezcla-frape-tiempo_secundario",
+      "producto": "Mezcla de espresso para frape",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del mezcla de expreso para frape?"
+    },
+    {
+      "id": "mc-cafe-mezcla-iced-cafe-temperatura",
+      "producto": "Mezcla de iced café",
+      "campo": "temperatura",
+      "pregunta": "¿Qué temperatura debe tener el mezcla de iced café?"
+    },
+    {
+      "id": "mc-cafe-mezcla-iced-cafe-tiempo_secundario",
+      "producto": "Mezcla de iced café",
+      "campo": "tiempo_secundario",
+      "pregunta": "¿Cuál es el tiempo de vida secundario del mezcla de iced café?"
+    },
+    {
+      "id": "mc-cafe-temp-bebida-espresso",
+      "producto": "Bebida",
+      "campo": "temperatura_servicio",
+      "pregunta": "¿Cuál es la temperatura de una bebida de espresso?"
+    },
+    {
+      "id": "mc-cafe-temp-bebida-cappuccino-latte",
+      "producto": "Bebida",
+      "campo": "temperatura_servicio",
+      "pregunta": "¿Cuál es la temperatura de una bebida de cappuccino/latte y otras bebidas?"
+    },
+    {
+      "id": "mc-cafe-temp-bebida-agua-caliente",
+      "producto": "Bebida",
+      "campo": "temperatura_servicio",
+      "pregunta": "¿Cuál es la temperatura de una bebida de agua caliente de la máquina?"
+    },
+    {
+      "id": "mc-cafe-temp-bebida-vitrina",
+      "producto": "Bebida",
+      "campo": "temperatura_servicio",
+      "pregunta": "¿Qué temperatura debe tener la vitrina?"
+    },
+    {
+      "id": "mc-cafe-temp-bebida-leche",
+      "producto": "Bebida",
+      "campo": "temperatura_servicio",
+      "pregunta": "¿Qué temperatura debe tener la leche?"
+    },
+    {
+      "id": "mc-cafe-temp-bebida-te-chai",
+      "producto": "Bebida",
+      "campo": "temperatura_servicio",
+      "pregunta": "¿Qué temperatura debe tener un Te chai?"
+    },
+    {
+      "id": "mc-cafe-temp-bebida-guatemalteco",
+      "producto": "Bebida",
+      "campo": "temperatura_servicio",
+      "pregunta": "¿Qué temperatura debe tener un Guatemalteco?"
+    },
+    {
+      "id": "mc-cafe-temp-bebida-te-caliente",
+      "producto": "Bebida",
+      "campo": "temperatura_servicio",
+      "pregunta": "¿Qué temperatura debe tener un Té caliente?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-original-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un iced café original de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-original-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un iced café original de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-original-16-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántos disparos de azúcar lleva un iced café original de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-original-20-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un iced café original de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-original-20-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un iced café original de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-original-20-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántos disparos de azúcar lleva un iced café original de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-sabor-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un iced café saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-sabor-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un iced café saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-sabor-16-sabor",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántos disparos de saborizante lleva un iced café saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-sabor-20-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un iced café saborizado de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-sabor-20-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un iced café saborizado de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-iced-sabor-20-sabor",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántos disparos de saborizante lleva un iced café saborizado de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-original-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un frappe original de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-original-16-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de azúcar lleva un frappe original de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-original-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un frappe original de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-original-16-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un frappe original de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-original-20-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un frappe original de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-original-20-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de azúcar lleva un frappe original de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-original-20-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un frappe original de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-original-20-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un frappe original de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-sabor-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un frappe saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-sabor-16-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de azúcar lleva un frappe saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-sabor-16-syrup",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de syrup lleva un frappe saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-sabor-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un frappe saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-sabor-16-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un frappe saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-sabor-20-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un frappe saborizado de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-sabor-20-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de azúcar lleva un frappe saborizado de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-sabor-20-syrup",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de syrup lleva un frappe saborizado de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-sabor-20-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un frappe saborizado de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-sabor-20-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un frappe saborizado de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un frappe oreo de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-16-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de azúcar lleva un frappe oreo de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-16-chocolate",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de chocolate lleva un frappe oreo de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-16-oreo",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de oreo lleva un frappe oreo de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un frappe oreo de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-16-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un frappe oreo de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-20-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un frappe oreo de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-20-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de azúcar lleva un frappe oreo de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-20-chocolate",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de chocolate lleva un frappe oreo de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-20-oreo",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de oreo lleva un frappe oreo de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-20-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un frappe oreo de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-oreo-20-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un frappe oreo de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-smoothie-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un smothie de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-smoothie-16-agua",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de agua/leche lleva un smothie de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-smoothie-16-fruta",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de base de fruta lleva un smothie de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-smoothie-20-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un smothie de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-smoothie-20-agua",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de agua/leche lleva un smothie de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-smoothie-20-fruta",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de base de fruta lleva un smothie de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un frappe chai de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-16-chai",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántos cucharones de te chai lleva un frappe chai de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-16-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de azúcar lleva un frappe chai de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un frappe chai de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-20-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un frappe chai de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-20-chai",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántos cucharones de te chai lleva un frappe chai de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-20-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de azúcar lleva un frappe chai de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-20-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un frappe chai de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-sf-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un frappe chai sugar free de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-sf-16-chai",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántos cucharones de te chai lleva un frappe chai sugar free de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-sf-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un frappe chai sugar free de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-sf-20-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un frappe chai sugar free de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-sf-20-chai",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántos cucharones de te chai lleva un frappe chai sugar free de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-frappe-chai-sf-20-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un frappe chai sugar free de 20 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-8-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un latte de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-8-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un latte de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-8-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un latte de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-12-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un latte de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-12-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un latte de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-12-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un latte de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un latte de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un latte de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-16-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un latte de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-capuchino-8-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un capuchino de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-capuchino-8-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un capuchino de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-capuchino-8-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un capuchino de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-capuchino-12-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un capuchino de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-capuchino-12-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un capuchino de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-capuchino-12-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un capuchino de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-capuchino-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un capuchino de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-capuchino-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un capuchino de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-capuchino-16-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un capuchino de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-8-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un latte o capuchino saborizado de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-8-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un latte o capuchino saborizado de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-8-syrup",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de syrup lleva un latte o capuchino saborizado de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-8-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un latte o capuchino saborizado de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-12-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un latte o capuchino saborizado de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-12-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un latte o capuchino saborizado de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-12-syrup",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de syrup lleva un latte o capuchino saborizado de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-12-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un latte o capuchino saborizado de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un latte o capuchino saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un latte o capuchino saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-16-syrup",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de syrup lleva un latte o capuchino saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-latte-cap-sabor-16-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un latte o capuchino saborizado de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-guatemalteco-8-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un guatemalteco de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-guatemalteco-8-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un guatemalteco de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-guatemalteco-12-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un guatemalteco de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-guatemalteco-12-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un guatemalteco de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-guatemalteco-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un guatemalteco de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-guatemalteco-16-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un guatemalteco de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-8-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un moca de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-8-chocolate",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de chocolate lleva un moca de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-8-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un moca de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-8-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un moca de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-12-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un moca de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-12-chocolate",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de chocolate lleva un moca de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-12-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un moca de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-12-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un moca de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un moca de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-16-chocolate",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de chocolate lleva un moca de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un moca de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-moca-16-expreso",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de expreso lleva un moca de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-chocolate-8-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un chocolate de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-chocolate-8-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un chocolate de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-chocolate-8-chocolate",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de chocolate lleva un chocolate de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-chocolate-12-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un chocolate de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-chocolate-12-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un chocolate de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-chocolate-12-chocolate",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de chocolate lleva un chocolate de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-chocolate-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un chocolate de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-chocolate-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un chocolate de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-chocolate-16-chocolate",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de chocolate lleva un chocolate de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-8-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un te chai caliente de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-8-chai",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántos cucharon de chai lleva un te chai caliente de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-8-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de azúcar lleva un te chai caliente de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-8-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un te chai caliente de 8 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-12-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un te chai caliente de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-12-chai",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántos cucharon de chai lleva un te chai caliente de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-12-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de azúcar lleva un te chai caliente de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-12-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un te chai caliente de 12 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-16-medida",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuánto es la medida correcta para un te chai caliente de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-16-chai",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántos cucharon de chai lleva un te chai caliente de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-16-azucar",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de azúcar lleva un te chai caliente de 16 Oz.?"
+    },
+    {
+      "id": "mc-cafe-medida-te-chai-caliente-16-leche",
+      "producto": "Recetas Mc Café",
+      "campo": "medida_receta",
+      "pregunta": "¿Cuántas Oz. de leche lleva un te chai caliente de 16 Oz.?"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Por qué es importante el horario de desayuno?",
+      "opciones": ["No importa", "Los clientes esperan productos frescos en la mañana", "Solo es decoración", "Para cerrar temprano"],
+      "correcta": 1,
+      "explicacion": "El desayuno tiene estándares de frescura y tiempos específicos."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Qué acompañamiento va típicamente con huevos en el menú?",
+      "opciones": ["Solo agua", "Pan, hash browns o fruta según el menú", "Helado", "Sopa"],
+      "correcta": 1,
+      "explicacion": "Conoce las combinaciones del menú de desayuno de tu local."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Qué hacer si se acaban los muffins durante el desayuno?",
+      "opciones": ["Decir que no existen", "Informar al cliente y ofrecer alternativa", "Dar cualquier cosa", "Ignorar el pedido"],
+      "correcta": 1,
+      "explicacion": "Comunica con honestidad y ofrece otra opción del menú."
+    }
+  ]
+}

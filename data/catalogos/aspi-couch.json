@@ -1,0 +1,25 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué representa 'Aspi Couch' en el equipo?",
+      "opciones": ["Un descanso sin reglas", "Un espacio de aprendizaje y mejora continua", "Solo para gerentes", "Una zona de comida"],
+      "correcta": 1,
+      "explicacion": "Es un espacio para crecer, practicar y apoyarse como equipo."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuál es la actitud correcta ante un error en el quiz?",
+      "opciones": ["Rendirse", "Aprender de la explicación y seguir", "Copiar respuestas", "Saltar todo"],
+      "correcta": 1,
+      "explicacion": "Los errores son oportunidades para mejorar, ¡como en Duolingo!"
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Qué valor es clave en el trabajo en equipo?",
+      "opciones": ["Competir siempre", "Comunicación y respeto", "Trabajar solo", "Evitar ayudar"],
+      "correcta": 1,
+      "explicacion": "Un buen equipo se comunica y se respeta mutuamente."
+    }
+  ]
+}

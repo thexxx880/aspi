@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>McDonald's Quiz — Aspi Couch</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="bg-layer" aria-hidden="true">
+    <div class="bg-glow bg-glow--yellow"></div>
+    <div class="bg-glow bg-glow--red"></div>
+    <div class="bg-pattern"></div>
+  </div>
+
+  <div id="app">
+    <header class="top-bar">
+      <div class="logo">
+        <img src="assets/mcdonalds-logo.png" alt="McDonald's" class="logo-img" width="42" height="42">
+        <div class="logo-text">
+          McDonald's
+          <span>Quiz Training</span>
+        </div>
+      </div>
+      <div class="stats-row" id="global-stats">
+        <div class="stat-pill" title="Experiencia total">
+          <span class="icon">⚡</span>
+          <span class="xp-val" id="total-xp">0</span> XP
+        </div>
+        <div class="stat-pill" title="Racha de aciertos">
+          <span class="icon">🔥</span>
+          <span id="best-streak">0</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Pantalla de inicio -->
+    <section id="screen-home" class="screen">
+      <div class="home-hero card-glass">
+        <div class="home-hero__content">
+          <img src="assets/mcdonalds-logo.png" alt="McDonald's" class="hero-logo" width="96" height="96">
+          <div class="home-hero__text">
+            <p class="home-hero__badge">Aspi Couch · Entrenamiento</p>
+            <h1>Domina cada área del restaurante</h1>
+            <p class="home-hero__desc">Practica estándares McDonald's por módulos. Gana XP, mantén tu racha y avanza en cada catálogo.</p>
+          </div>
+        </div>
+        <div class="home-hero__stats" id="home-summary">
+          <div class="summary-tile">
+            <span class="summary-tile__val" id="home-total-xp">0</span>
+            <span class="summary-tile__lbl">XP total</span>
+          </div>
+          <div class="summary-tile">
+            <span class="summary-tile__val" id="home-catalogs-done">0</span>
+            <span class="summary-tile__lbl">Catálogos iniciados</span>
+          </div>
+          <div class="summary-tile">
+            <span class="summary-tile__val" id="home-best-streak">0</span>
+            <span class="summary-tile__lbl">Mejor racha</span>
+          </div>
+        </div>
+      </div>
+
+      <nav class="home-nav" aria-label="Ir a sección">
+        <a href="#seccion-cafe" class="home-nav__link">☕ Mc Café</a>
+        <a href="#seccion-operaciones" class="home-nav__link">🍔 Operaciones</a>
+        <a href="#seccion-equipo" class="home-nav__link">🛋️ Equipo</a>
+        <a href="#seccion-como-jugar" class="home-nav__link">❓ Cómo jugar</a>
+      </nav>
+
+      <div id="home-sections" class="home-sections"></div>
+
+      <aside id="seccion-como-jugar" class="home-tips card-glass">
+        <h2>¿Cómo jugar?</h2>
+        <ul class="tips-list">
+          <li><strong>Elige un catálogo</strong> según el área que quieras practicar.</li>
+          <li><strong>Responde antes del tiempo</strong> — tienes 15 segundos por pregunta.</li>
+          <li><strong>Cuida tus 3 vidas</strong> — cada error te quita un corazón.</li>
+          <li><strong>Gana XP y rachas</strong> — acierta seguido para bonus extra.</li>
+        </ul>
+      </aside>
+    </section>
+
+    <!-- Pantalla del quiz -->
+    <section id="screen-quiz" class="screen hidden">
+      <div class="quiz-toolbar">
+        <button type="button" class="btn-back" id="btn-quiz-back" aria-label="Volver al inicio">← Inicio</button>
+        <div class="hearts" id="hearts-display" aria-label="Vidas restantes"></div>
+        <div class="timer-ring" id="timer-ring" title="Tiempo restante">
+          <svg width="48" height="48" viewBox="0 0 48 48">
+            <circle class="bg" cx="24" cy="24" r="20"></circle>
+            <circle class="fg" id="timer-circle" cx="24" cy="24" r="20"
+              stroke-dasharray="125.6" stroke-dashoffset="0"></circle>
+          </svg>
+          <span class="timer-text" id="timer-text">15</span>
+        </div>
+      </div>
+
+      <div class="quiz-header">
+        <div class="progress-track">
+          <div class="progress-bar" id="quiz-progress"></div>
+        </div>
+        <div class="question-meta">
+          <span id="catalog-label">Catálogo</span>
+          <span id="question-counter">1 / 5</span>
+        </div>
+      </div>
+
+      <div class="question-card card-glass">
+        <p class="question-text" id="question-text">Cargando pregunta...</p>
+      </div>
+
+      <div class="options-grid" id="options-grid"></div>
+    </section>
+
+    <!-- Pantalla de resultados -->
+    <section id="screen-results" class="screen hidden">
+      <div class="results-card card-glass">
+        <div class="results-emoji" id="results-emoji">🏆</div>
+        <h2 id="results-title">¡Excelente!</h2>
+        <p id="results-subtitle" class="results-subtitle">Completaste el catálogo</p>
+        <div class="results-score" id="results-score">0%</div>
+        <div class="results-stats">
+          <div class="result-stat">
+            <span class="val" id="stat-correct">0</span>
+            <span class="lbl">Correctas</span>
+          </div>
+          <div class="result-stat">
+            <span class="val" id="stat-xp">+0</span>
+            <span class="lbl">XP ganados</span>
+          </div>
+          <div class="result-stat">
+            <span class="val" id="stat-streak">0</span>
+            <span class="lbl">Mejor racha</span>
+          </div>
+        </div>
+        <div class="results-actions">
+          <button class="btn-primary" id="btn-retry">🔄 Repetir catálogo</button>
+          <button class="btn-secondary" id="btn-home">← Volver al inicio</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Cargando -->
+    <section id="screen-loading" class="screen">
+      <div class="loading card-glass">
+        <div class="spinner"></div>
+        <p>Cargando preguntas...</p>
+      </div>
+    </section>
+  </div>
+
+  <div id="feedback-panel" class="feedback-panel" role="dialog" aria-live="polite">
+    <div class="feedback-inner">
+      <div class="feedback-title" id="feedback-title">¡Correcto!</div>
+      <p class="feedback-explanation" id="feedback-explanation"></p>
+      <button class="btn-continue" id="btn-continue">Continuar</button>
+    </div>
+  </div>
+
+  <div id="streak-toast" class="streak-toast" aria-live="polite"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

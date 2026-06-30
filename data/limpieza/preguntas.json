@@ -1,0 +1,55 @@
+{
+  "catalogo": "limpieza",
+  "preguntas": [
+    {
+      "id": "limpieza-01",
+      "pregunta": "¿Cada cuánto deben limpiarse las superficies de contacto?",
+      "campo": "limpieza"
+    },
+    {
+      "id": "limpieza-02",
+      "pregunta": "¿Qué color de paño usar para áreas de comida?",
+      "campo": "limpieza"
+    },
+    {
+      "id": "limpieza-03",
+      "pregunta": "¿Dónde va el trapo sucio después de usarlo?",
+      "campo": "limpieza"
+    },
+    {
+      "id": "limpieza-parrilla-01",
+      "pregunta": "¿En qué modo debe estar la parrilla para realizar su limpieza?",
+      "campo": "limpieza"
+    },
+    {
+      "id": "limpieza-parrilla-02",
+      "pregunta": "¿A qué temperatura debe estar la parrilla en el clean mode para poder realizar su limpieza?",
+      "campo": "limpieza"
+    },
+    {
+      "id": "limpieza-parrilla-03",
+      "pregunta": "¿Dónde se debe depositar la grasa del canal de la parrilla?",
+      "campo": "limpieza"
+    },
+    {
+      "id": "limpieza-parrilla-04",
+      "pregunta": "¿Con qué se debe limpiar los teflones de la parrilla?",
+      "campo": "limpieza"
+    },
+    {
+      "id": "limpieza-parrilla-05",
+      "pregunta": "¿Qué se debe hacer con los utensilios de parrilla cuando se desarma para su limpieza?",
+      "campo": "limpieza"
+    },
+    {
+      "id": "limpieza-parrilla-06",
+      "pregunta": "¿El raspador de parrilla se puede usar para la parte superior?",
+      "campo": "limpieza"
+    },
+    {
+      "id": "limpieza-parrilla-07",
+      "pregunta": "¿El raspador de parrilla se puede usar para la parte inferior?",
+      "campo": "limpieza"
+    }
+  ]
+}

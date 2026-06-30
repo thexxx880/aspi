@@ -1,0 +1,25 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué revisar antes de sentar a un cliente?",
+      "opciones": ["Nada", "Mesa limpia, sillas ordenadas y menú disponible", "Solo la mesa", "El clima nada más"],
+      "correcta": 1,
+      "explicacion": "La mesa debe estar impecable y lista para recibir al cliente."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuándo se debe limpiar una mesa después del cliente?",
+      "opciones": ["Al día siguiente", "Inmediatamente después de que se retiren", "Cuando haya tiempo", "Solo los viernes"],
+      "correcta": 1,
+      "explicacion": "Limpia y desinfecta la mesa en cuanto el cliente se vaya."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Qué hacer si hay un derrame en el salón?",
+      "opciones": ["Esperar", "Señalizar y limpiar de inmediato", "Pasar de largo", "Pedir al cliente que lo limpie"],
+      "correcta": 1,
+      "explicacion": "Señaliza el área y limpia rápido para evitar accidentes."
+    }
+  ]
+}

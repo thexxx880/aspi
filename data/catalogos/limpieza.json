@@ -1,0 +1,25 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cada cuánto deben limpiarse las superficies de contacto?",
+      "opciones": ["Una vez al mes", "Según el cronograma (varias veces al día)", "Nunca", "Solo si hay suciedad visible"],
+      "correcta": 1,
+      "explicacion": "Las superficies de alto contacto requieren limpieza frecuente."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Qué color de paño usar para áreas de comida?",
+      "opciones": ["El que haya", "El designado para alimentos (según código de colores)", "Paño de baño", "Cualquiera"],
+      "correcta": 1,
+      "explicacion": "Respeta el código de colores para evitar contaminación cruzada."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Dónde va el trapo sucio después de usarlo?",
+      "opciones": ["En el piso", "Al área de lavado designada", "En la basura de clientes", "Guardado en el bolsillo"],
+      "correcta": 1,
+      "explicacion": "Los trapos sucios van al área de lavado, nunca mezclados con limpios."
+    }
+  ]
+}

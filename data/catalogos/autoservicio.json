@@ -1,0 +1,32 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué hacer si un kiosco no responde?",
+      "opciones": ["Golpearlo", "Reiniciar según protocolo y avisar al equipo", "Dejarlo así", "Desconectarlo permanentemente"],
+      "correcta": 1,
+      "explicacion": "Sigue el protocolo de reinicio y reporta si persiste el fallo."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cómo ayudar a un cliente mayor con el kiosco?",
+      "opciones": ["Decirle que no puede", "Guiarlo con paciencia paso a paso", "Hacer el pedido sin preguntar", "Ignorarlo"],
+      "correcta": 1,
+      "explicacion": "Ofrece ayuda amable y guía al cliente con calma."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Dónde debe entregarse un pedido de autoservicio?",
+      "opciones": ["En cualquier lado", "En el área de retiro designada", "En la cocina", "En el baño"],
+      "correcta": 1,
+      "explicacion": "Los pedidos digitales se entregan en el punto de retiro indicado."
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Qué verificar antes de entregar un pedido móvil?",
+      "opciones": ["Nada", "Número de orden y productos completos", "Solo el nombre", "El color del bolso"],
+      "correcta": 1,
+      "explicacion": "Confirma número y contenido para evitar errores."
+    }
+  ]
+}

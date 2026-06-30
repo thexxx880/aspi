@@ -1,0 +1,397 @@
+{
+  "catalogo": "mc-cafe",
+  "titulo": "Normas de almacenamiento Mc Café",
+  "productos": [
+    {
+      "id": "smoothie",
+      "nombre": "Smothie (varios)",
+      "nombre_pregunta": "smothie",
+      "campos_quiz": ["temperatura", "tiempo_primario", "despues_abierto"],
+      "temperatura": "34°F a 40°F",
+      "lugar": "Cuarto frio",
+      "tiempo_primario": "6 meses",
+      "tiempo_secundario": "N/A",
+      "despues_abierto": "7 dias"
+    },
+    {
+      "id": "topping-fresa",
+      "nombre": "Topping fresa",
+      "nombre_pregunta": "topping de fresa",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "120 dias",
+      "tiempo_secundario": "7 dias",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "topping-dulce-leche",
+      "nombre": "Topping dulce de leche",
+      "nombre_pregunta": "topping de dulce de leche",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "90 dias",
+      "tiempo_secundario": "7 dias",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "topping-mora",
+      "nombre": "Topping mora",
+      "nombre_pregunta": "topping de mora",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "90 dias",
+      "tiempo_secundario": "7 dias",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "galleta-oreo",
+      "nombre": "Galleta oreo",
+      "nombre_pregunta": "galleta de oreo",
+      "campos_quiz": ["temperatura", "tiempo_secundario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "N/A",
+      "tiempo_secundario": "3 dias",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "cafe-descafeinado",
+      "nombre": "Café Descafeinado",
+      "nombre_pregunta": "café descafeinado",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "30 dias",
+      "tiempo_secundario": "15 dias",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "cafe-moro",
+      "nombre": "Café moro",
+      "nombre_pregunta": "café moro",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario", "despues_abierto"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "2 meses",
+      "tiempo_secundario": "6 horas",
+      "despues_abierto": "3 dias"
+    },
+    {
+      "id": "cafe-region",
+      "nombre": "Café región",
+      "nombre_pregunta": "café región",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario", "despues_abierto"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "2 meses",
+      "tiempo_secundario": "6 horas",
+      "despues_abierto": "3 dias"
+    },
+    {
+      "id": "leche-melita",
+      "nombre": "Leche para melita",
+      "nombre_pregunta": "leche de la milita",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "34°F a 40°F",
+      "lugar": "Cuarto frio",
+      "tiempo_primario": "180 dias",
+      "tiempo_secundario": "48 horas",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "bebida-soja",
+      "nombre": "Bebida de soja",
+      "nombre_pregunta": "bebida de soja",
+      "campos_quiz": ["temperatura", "tiempo_primario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "180 dias",
+      "tiempo_secundario": "N/A",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "leche",
+      "nombre": "Leche",
+      "nombre_pregunta": "leche para mc café",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "34°F a 40°F",
+      "lugar": "Cuarto frio",
+      "tiempo_primario": "180 dias",
+      "tiempo_secundario": "5 dias",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "jarabe-vainilla",
+      "nombre": "Jarabe vainilla",
+      "nombre_pregunta": "jarabe de vainilla",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "3 años",
+      "tiempo_secundario": "90 dias",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "jarabe-vainilla-sugar",
+      "nombre": "Jarabe vainilla sugar",
+      "nombre_pregunta": "vainilla sugar free",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "3 años",
+      "tiempo_secundario": "90 dias",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "jarabe-caramelo",
+      "nombre": "Jarabe caramelo",
+      "nombre_pregunta": "jarabe de caramelo",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "3 años",
+      "tiempo_secundario": "90 dias",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "azucar-liquida",
+      "nombre": "Azúcar liquida",
+      "nombre_pregunta": "azúcar liquida",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "180 dias",
+      "tiempo_secundario": "7 dias",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "azucar-glass",
+      "nombre": "Azúcar glass",
+      "nombre_pregunta": "azúcar glass",
+      "campos_quiz": ["temperatura", "tiempo_primario", "despues_abierto"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "6 meses",
+      "tiempo_secundario": "N/A",
+      "despues_abierto": "7 dias"
+    },
+    {
+      "id": "te-guatemalteco",
+      "nombre": "Te Guatemalteco",
+      "nombre_pregunta": "té guatemalteco",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "60 dias",
+      "tiempo_secundario": "1 mes",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "te-chai",
+      "nombre": "Te chai (varios)",
+      "nombre_pregunta": "té chai",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "2 años",
+      "tiempo_secundario": "6 meses",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "mcpops-avellana",
+      "nombre": "McPops Avellana",
+      "nombre_pregunta": "mc pops de avellana",
+      "campos_quiz": ["tiempo_primario", "tiempo_secundario"],
+      "temperatura": "N/A",
+      "lugar": "Congelador",
+      "tiempo_primario": "542 dias",
+      "tiempo_secundario": "12 horas",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "mcpops-chocolate-blanco",
+      "nombre": "McPops Chocolate Blanco",
+      "nombre_pregunta": "mc pops de chocolate",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "0°F a -10°F",
+      "lugar": "Congelador",
+      "tiempo_primario": "540 dias",
+      "tiempo_secundario": "12 horas",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "dots-chocolate",
+      "nombre": "Dots de chocolate",
+      "nombre_pregunta": "dots de chocolate",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "0°F a -10°F",
+      "lugar": "Congelador",
+      "tiempo_primario": "365 dias",
+      "tiempo_secundario": "12 horas",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "dots-fresa",
+      "nombre": "Dots de fresa",
+      "nombre_pregunta": "dots de fresa",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "0°F a -10°F",
+      "lugar": "Congelador",
+      "tiempo_primario": "365 dias",
+      "tiempo_secundario": "12 horas",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "cheesecake",
+      "nombre": "Cheesecake",
+      "nombre_pregunta": "cheesecake",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "0°F a -10°F",
+      "lugar": "Congelador",
+      "tiempo_primario": "60 dias",
+      "tiempo_secundario": "96 horas",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "macadamia",
+      "nombre": "Pastel macadamia",
+      "nombre_pregunta": "macadamia",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "0°F a -10°F",
+      "lugar": "Congelador",
+      "tiempo_primario": "60 dias",
+      "tiempo_secundario": "96 horas",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "pastel-elote",
+      "nombre": "Pastel de elote",
+      "nombre_pregunta": "elote",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "0°F a -10°F",
+      "lugar": "Congelador",
+      "tiempo_primario": "60 dias",
+      "tiempo_secundario": "96 horas",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "pastel-zanahoria",
+      "nombre": "Pastel de zanahoria",
+      "nombre_pregunta": "zanahoria",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "0°F a -10°F",
+      "lugar": "Congelador",
+      "tiempo_primario": "60 dias",
+      "tiempo_secundario": "96 horas",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "pastel-chocolate",
+      "nombre": "Pastel de chocolate",
+      "nombre_pregunta": "pastel de chocolate",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "0°F a -10°F",
+      "lugar": "Congelador",
+      "tiempo_primario": "60 dias",
+      "tiempo_secundario": "96 horas",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "tres-leches",
+      "nombre": "Tres leches",
+      "nombre_pregunta": "tres leches",
+      "campos_quiz": ["temperatura", "tiempo_primario", "tiempo_secundario"],
+      "temperatura": "0°F a -10°F",
+      "lugar": "Congelador",
+      "tiempo_primario": "60 dias",
+      "tiempo_secundario": "96 horas",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "chocolate-caliente",
+      "nombre": "Chocolate caliente",
+      "nombre_pregunta": "chocolate caliente",
+      "campos_quiz": ["temperatura", "despues_abierto"],
+      "temperatura": "Ambiente",
+      "lugar": "Bodega seca",
+      "tiempo_primario": "N/A",
+      "tiempo_secundario": "N/A",
+      "despues_abierto": "7 dias"
+    },
+    {
+      "id": "mezcla-frape",
+      "nombre": "Mezcla de espresso para frape",
+      "nombre_pregunta": "mezcla de expreso para frape",
+      "campos_quiz": ["temperatura", "tiempo_secundario"],
+      "temperatura": "34°F a 40°F",
+      "lugar": "Cooler",
+      "tiempo_primario": "N/A",
+      "tiempo_secundario": "48 horas incluyendo 1 de enfriamiento",
+      "despues_abierto": "N/A"
+    },
+    {
+      "id": "mezcla-iced-cafe",
+      "nombre": "Mezcla de iced café",
+      "nombre_pregunta": "mezcla de iced café",
+      "campos_quiz": ["temperatura", "tiempo_secundario"],
+      "temperatura": "34°F a 40°F",
+      "lugar": "Cooler",
+      "tiempo_primario": "N/A",
+      "tiempo_secundario": "12 horas",
+      "despues_abierto": "N/A"
+    }
+  ],
+  "bebidas_servicio": [
+    {
+      "id": "temp-bebida-espresso",
+      "pregunta": "¿Cuál es la temperatura de una bebida de espresso?",
+      "respuesta": "Arriba de 170°F",
+      "explicacion": "La bebida de espresso debe servirse arriba de 170°F."
+    },
+    {
+      "id": "temp-bebida-cappuccino-latte",
+      "pregunta": "¿Cuál es la temperatura de una bebida de cappuccino/latte y otras bebidas?",
+      "respuesta": "165°F +/- 5°F",
+      "explicacion": "Cappuccino, latte y bebidas similares se sirven a 165°F +/- 5°F."
+    },
+    {
+      "id": "temp-bebida-agua-caliente",
+      "pregunta": "¿Cuál es la temperatura de una bebida de agua caliente de la máquina?",
+      "respuesta": "195°F +/- 5°F",
+      "explicacion": "El agua caliente de la máquina debe estar a 195°F +/- 5°F."
+    },
+    {
+      "id": "temp-bebida-vitrina",
+      "pregunta": "¿Qué temperatura debe tener la vitrina?",
+      "respuesta": "34°F a 40°F",
+      "explicacion": "La vitrina debe mantenerse de 34°F a 40°F."
+    },
+    {
+      "id": "temp-bebida-leche",
+      "pregunta": "¿Qué temperatura debe tener la leche?",
+      "respuesta": "150°F a 170°F",
+      "explicacion": "La leche debe estar de 150°F a 170°F según el estándar de servicio."
+    },
+    {
+      "id": "temp-bebida-te-chai",
+      "pregunta": "¿Qué temperatura debe tener un Te chai?",
+      "respuesta": "160°F +/- 5°F",
+      "explicacion": "El té chai se prepara a 160°F +/- 5°F."
+    },
+    {
+      "id": "temp-bebida-guatemalteco",
+      "pregunta": "¿Qué temperatura debe tener un Guatemalteco?",
+      "respuesta": "190°F +/- 5°F",
+      "explicacion": "El Guatemalteco se sirve a 190°F +/- 5°F."
+    },
+    {
+      "id": "temp-bebida-te-caliente",
+      "pregunta": "¿Qué temperatura debe tener un Té caliente?",
+      "respuesta": "190°F +/- 5°F",
+      "explicacion": "El té caliente se prepara a 190°F +/- 5°F."
+    }
+  ]
+}

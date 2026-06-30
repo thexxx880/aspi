@@ -1,0 +1,32 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿A qué temperatura interna debe llegar la carne de pollo?",
+      "opciones": ["50°C", "74°C mínimo", "30°C", "100°C exactos"],
+      "correcta": 1,
+      "explicacion": "El pollo debe alcanzar al menos 74°C para ser seguro."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Qué significa FIFO en cocina?",
+      "opciones": ["Cocinar rápido", "Primero en entrar, primero en salir", "Freír en aceite", "Filtrar ingredientes"],
+      "correcta": 1,
+      "explicacion": "FIFO asegura usar primero los productos más antiguos."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Dónde deben lavarse las manos en cocina?",
+      "opciones": ["En el fregadero de platos", "En el lavamanos designado con jabón", "Con servilletas", "No es necesario"],
+      "correcta": 1,
+      "explicacion": "Usa siempre el lavamanos correcto antes de manipular alimentos."
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Qué hacer si un producto está vencido?",
+      "opciones": ["Usarlo igual", "Desecharlo según protocolo", "Venderlo con descuento", "Mezclarlo con fresco"],
+      "correcta": 1,
+      "explicacion": "Nunca uses productos vencidos; la seguridad del cliente es primero."
+    }
+  ]
+}

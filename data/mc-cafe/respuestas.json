@@ -1,0 +1,2285 @@
+{
+  "catalogo": "mc-cafe",
+  "respuestas": {
+    "mc-cafe-smoothie-temperatura": {
+      "correcta": 0,
+      "opciones": [
+        "34°F a 40°F",
+        "Congelador",
+        "Cuarto frio",
+        "34 a 40 F"
+      ],
+      "explicacion": "Para smothie, la temperatura correcto es: 34°F a 40°F. Lugar de almacenamiento: Cuarto frio."
+    },
+    "mc-cafe-smoothie-tiempo_primario": {
+      "correcta": 2,
+      "opciones": [
+        "3 años",
+        "540 dias",
+        "6 meses",
+        "N/A"
+      ],
+      "explicacion": "Para smothie, el tiempo de vida primario correcto es: 6 meses. Lugar de almacenamiento: Cuarto frio."
+    },
+    "mc-cafe-smoothie-despues_abierto": {
+      "correcta": 2,
+      "opciones": [
+        "90 dias",
+        "12 horas",
+        "7 dias",
+        "1 mes"
+      ],
+      "explicacion": "Para smothie, el tiempo de vida después de abierto correcto es: 7 dias. Lugar de almacenamiento: Cuarto frio."
+    },
+    "mc-cafe-topping-fresa-temperatura": {
+      "correcta": 1,
+      "opciones": [
+        "Cuarto frio",
+        "Ambiente",
+        "Cooler",
+        "34 a 40 F"
+      ],
+      "explicacion": "Para topping de fresa, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-topping-fresa-tiempo_primario": {
+      "correcta": 1,
+      "opciones": [
+        "N/A",
+        "120 dias",
+        "540 dias",
+        "30 dias"
+      ],
+      "explicacion": "Para topping de fresa, el tiempo de vida primario correcto es: 120 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-topping-fresa-tiempo_secundario": {
+      "correcta": 1,
+      "opciones": [
+        "72 horas",
+        "7 dias",
+        "15 dias",
+        "6 meses"
+      ],
+      "explicacion": "Para topping de fresa, el tiempo de vida secundario correcto es: 7 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-topping-dulce-leche-temperatura": {
+      "correcta": 2,
+      "opciones": [
+        "34 a 40 F",
+        "N/A",
+        "Ambiente",
+        "0°F a -10°F"
+      ],
+      "explicacion": "Para topping de dulce de leche, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-topping-dulce-leche-tiempo_primario": {
+      "correcta": 3,
+      "opciones": [
+        "120 dias",
+        "N/A",
+        "30 dias",
+        "90 dias"
+      ],
+      "explicacion": "Para topping de dulce de leche, el tiempo de vida primario correcto es: 90 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-topping-dulce-leche-tiempo_secundario": {
+      "correcta": 1,
+      "opciones": [
+        "48 horas",
+        "7 dias",
+        "12 horas",
+        "3 dias"
+      ],
+      "explicacion": "Para topping de dulce de leche, el tiempo de vida secundario correcto es: 7 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-topping-mora-temperatura": {
+      "correcta": 0,
+      "opciones": [
+        "Ambiente",
+        "N/A",
+        "34 a 40 F",
+        "34°F o 40°F"
+      ],
+      "explicacion": "Para topping de mora, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-topping-mora-tiempo_primario": {
+      "correcta": 0,
+      "opciones": [
+        "90 dias",
+        "180 dias",
+        "6 meses",
+        "2 meses"
+      ],
+      "explicacion": "Para topping de mora, el tiempo de vida primario correcto es: 90 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-topping-mora-tiempo_secundario": {
+      "correcta": 0,
+      "opciones": [
+        "7 dias",
+        "96 horas",
+        "5 dias",
+        "6 meses"
+      ],
+      "explicacion": "Para topping de mora, el tiempo de vida secundario correcto es: 7 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-galleta-oreo-temperatura": {
+      "correcta": 0,
+      "opciones": [
+        "Ambiente",
+        "34°F a 40°F",
+        "Cooler",
+        "34 a 40 F"
+      ],
+      "explicacion": "Para galleta de oreo, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-galleta-oreo-tiempo_secundario": {
+      "correcta": 0,
+      "opciones": [
+        "3 dias",
+        "12 horas",
+        "5 dias",
+        "48 horas"
+      ],
+      "explicacion": "Para galleta de oreo, el tiempo de vida secundario correcto es: 3 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-cafe-descafeinado-temperatura": {
+      "correcta": 2,
+      "opciones": [
+        "34°F a 40°F",
+        "Cooler",
+        "Ambiente",
+        "0°F a -10°F"
+      ],
+      "explicacion": "Para café descafeinado, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-cafe-descafeinado-tiempo_primario": {
+      "correcta": 0,
+      "opciones": [
+        "30 dias",
+        "6 meses",
+        "365 dias",
+        "2 años"
+      ],
+      "explicacion": "Para café descafeinado, el tiempo de vida primario correcto es: 30 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-cafe-descafeinado-tiempo_secundario": {
+      "correcta": 3,
+      "opciones": [
+        "72 horas",
+        "3 dias",
+        "90 dias",
+        "15 dias"
+      ],
+      "explicacion": "Para café descafeinado, el tiempo de vida secundario correcto es: 15 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-cafe-moro-temperatura": {
+      "correcta": 2,
+      "opciones": [
+        "Cuarto frio",
+        "0°F a -10°F",
+        "Ambiente",
+        "Cooler"
+      ],
+      "explicacion": "Para café moro, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-cafe-moro-tiempo_primario": {
+      "correcta": 0,
+      "opciones": [
+        "2 meses",
+        "6 meses",
+        "120 dias",
+        "365 dias"
+      ],
+      "explicacion": "Para café moro, el tiempo de vida primario correcto es: 2 meses. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-cafe-moro-tiempo_secundario": {
+      "correcta": 2,
+      "opciones": [
+        "48 horas incluyendo 1 de enfriamiento",
+        "7 dias",
+        "6 horas",
+        "90 dias"
+      ],
+      "explicacion": "Para café moro, el tiempo de vida secundario correcto es: 6 horas. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-cafe-moro-despues_abierto": {
+      "correcta": 3,
+      "opciones": [
+        "90 dias",
+        "12 horas",
+        "N/A",
+        "3 dias"
+      ],
+      "explicacion": "Para café moro, el tiempo de vida después de abierto correcto es: 3 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-cafe-region-temperatura": {
+      "correcta": 2,
+      "opciones": [
+        "Congelador",
+        "34°F o 40°F",
+        "Ambiente",
+        "Cuarto frio"
+      ],
+      "explicacion": "Para café región, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-cafe-region-tiempo_primario": {
+      "correcta": 3,
+      "opciones": [
+        "540 dias",
+        "542 dias",
+        "60 dias",
+        "2 meses"
+      ],
+      "explicacion": "Para café región, el tiempo de vida primario correcto es: 2 meses. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-cafe-region-tiempo_secundario": {
+      "correcta": 0,
+      "opciones": [
+        "6 horas",
+        "48 horas",
+        "6 meses",
+        "N/A"
+      ],
+      "explicacion": "Para café región, el tiempo de vida secundario correcto es: 6 horas. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-cafe-region-despues_abierto": {
+      "correcta": 1,
+      "opciones": [
+        "1 mes",
+        "3 dias",
+        "7 dias",
+        "12 horas"
+      ],
+      "explicacion": "Para café región, el tiempo de vida después de abierto correcto es: 3 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-leche-melita-temperatura": {
+      "correcta": 0,
+      "opciones": [
+        "34°F a 40°F",
+        "Congelador",
+        "Cuarto frio",
+        "0°F a -10°F"
+      ],
+      "explicacion": "Para leche de la milita, la temperatura correcto es: 34°F a 40°F. Lugar de almacenamiento: Cuarto frio."
+    },
+    "mc-cafe-leche-melita-tiempo_primario": {
+      "correcta": 2,
+      "opciones": [
+        "90 dias",
+        "540 dias",
+        "180 dias",
+        "2 años"
+      ],
+      "explicacion": "Para leche de la milita, el tiempo de vida primario correcto es: 180 dias. Lugar de almacenamiento: Cuarto frio."
+    },
+    "mc-cafe-leche-melita-tiempo_secundario": {
+      "correcta": 0,
+      "opciones": [
+        "48 horas",
+        "3 dias",
+        "12 horas",
+        "15 dias"
+      ],
+      "explicacion": "Para leche de la milita, el tiempo de vida secundario correcto es: 48 horas. Lugar de almacenamiento: Cuarto frio."
+    },
+    "mc-cafe-bebida-soja-temperatura": {
+      "correcta": 3,
+      "opciones": [
+        "Cooler",
+        "34 a 40 F",
+        "Congelador",
+        "Ambiente"
+      ],
+      "explicacion": "Para bebida de soja, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-bebida-soja-tiempo_primario": {
+      "correcta": 0,
+      "opciones": [
+        "180 dias",
+        "540 dias",
+        "N/A",
+        "3 años"
+      ],
+      "explicacion": "Para bebida de soja, el tiempo de vida primario correcto es: 180 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-leche-temperatura": {
+      "correcta": 0,
+      "opciones": [
+        "34°F a 40°F",
+        "0 a -10 F",
+        "34 a 40 F",
+        "N/A"
+      ],
+      "explicacion": "Para leche para mc café, la temperatura correcto es: 34°F a 40°F. Lugar de almacenamiento: Cuarto frio."
+    },
+    "mc-cafe-leche-tiempo_primario": {
+      "correcta": 3,
+      "opciones": [
+        "365 dias",
+        "N/A",
+        "60 dias",
+        "180 dias"
+      ],
+      "explicacion": "Para leche para mc café, el tiempo de vida primario correcto es: 180 dias. Lugar de almacenamiento: Cuarto frio."
+    },
+    "mc-cafe-leche-tiempo_secundario": {
+      "correcta": 0,
+      "opciones": [
+        "5 dias",
+        "1 mes",
+        "90 dias",
+        "6 horas"
+      ],
+      "explicacion": "Para leche para mc café, el tiempo de vida secundario correcto es: 5 dias. Lugar de almacenamiento: Cuarto frio."
+    },
+    "mc-cafe-jarabe-vainilla-temperatura": {
+      "correcta": 1,
+      "opciones": [
+        "Cuarto frio",
+        "Ambiente",
+        "34 a 40 F",
+        "34°F a 40°F"
+      ],
+      "explicacion": "Para jarabe de vainilla, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-jarabe-vainilla-tiempo_primario": {
+      "correcta": 0,
+      "opciones": [
+        "3 años",
+        "180 dias",
+        "542 dias",
+        "30 dias"
+      ],
+      "explicacion": "Para jarabe de vainilla, el tiempo de vida primario correcto es: 3 años. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-jarabe-vainilla-tiempo_secundario": {
+      "correcta": 2,
+      "opciones": [
+        "12 horas",
+        "N/A",
+        "90 dias",
+        "6 horas"
+      ],
+      "explicacion": "Para jarabe de vainilla, el tiempo de vida secundario correcto es: 90 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-jarabe-vainilla-sugar-temperatura": {
+      "correcta": 3,
+      "opciones": [
+        "Cooler",
+        "0 a -10 F",
+        "0°F a -10°F",
+        "Ambiente"
+      ],
+      "explicacion": "Para vainilla sugar free, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-jarabe-vainilla-sugar-tiempo_primario": {
+      "correcta": 3,
+      "opciones": [
+        "N/A",
+        "60 dias",
+        "30 dias",
+        "3 años"
+      ],
+      "explicacion": "Para vainilla sugar free, el tiempo de vida primario correcto es: 3 años. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-jarabe-vainilla-sugar-tiempo_secundario": {
+      "correcta": 1,
+      "opciones": [
+        "15 dias",
+        "90 dias",
+        "6 horas",
+        "3 dias"
+      ],
+      "explicacion": "Para vainilla sugar free, el tiempo de vida secundario correcto es: 90 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-jarabe-caramelo-temperatura": {
+      "correcta": 1,
+      "opciones": [
+        "0 a -10 F",
+        "Ambiente",
+        "34°F o 40°F",
+        "Cooler"
+      ],
+      "explicacion": "Para jarabe de caramelo, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-jarabe-caramelo-tiempo_primario": {
+      "correcta": 1,
+      "opciones": [
+        "180 dias",
+        "3 años",
+        "60 dias",
+        "542 dias"
+      ],
+      "explicacion": "Para jarabe de caramelo, el tiempo de vida primario correcto es: 3 años. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-jarabe-caramelo-tiempo_secundario": {
+      "correcta": 1,
+      "opciones": [
+        "3 dias",
+        "90 dias",
+        "48 horas",
+        "72 horas"
+      ],
+      "explicacion": "Para jarabe de caramelo, el tiempo de vida secundario correcto es: 90 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-azucar-liquida-temperatura": {
+      "correcta": 0,
+      "opciones": [
+        "Ambiente",
+        "34°F o 40°F",
+        "0°F a -10°F",
+        "Cooler"
+      ],
+      "explicacion": "Para azúcar liquida, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-azucar-liquida-tiempo_primario": {
+      "correcta": 3,
+      "opciones": [
+        "2 años",
+        "365 dias",
+        "N/A",
+        "180 dias"
+      ],
+      "explicacion": "Para azúcar liquida, el tiempo de vida primario correcto es: 180 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-azucar-liquida-tiempo_secundario": {
+      "correcta": 3,
+      "opciones": [
+        "48 horas",
+        "90 dias",
+        "1 mes",
+        "7 dias"
+      ],
+      "explicacion": "Para azúcar liquida, el tiempo de vida secundario correcto es: 7 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-azucar-glass-temperatura": {
+      "correcta": 3,
+      "opciones": [
+        "34°F a 40°F",
+        "Cooler",
+        "0 a -10 F",
+        "Ambiente"
+      ],
+      "explicacion": "Para azúcar glass, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-azucar-glass-tiempo_primario": {
+      "correcta": 1,
+      "opciones": [
+        "60 dias",
+        "6 meses",
+        "365 dias",
+        "540 dias"
+      ],
+      "explicacion": "Para azúcar glass, el tiempo de vida primario correcto es: 6 meses. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-azucar-glass-despues_abierto": {
+      "correcta": 1,
+      "opciones": [
+        "12 horas",
+        "7 dias",
+        "5 dias",
+        "3 dias"
+      ],
+      "explicacion": "Para azúcar glass, el tiempo de vida después de abierto correcto es: 7 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-te-guatemalteco-temperatura": {
+      "correcta": 1,
+      "opciones": [
+        "34°F a 40°F",
+        "Ambiente",
+        "0 a -10 F",
+        "0°F a -10°F"
+      ],
+      "explicacion": "Para té guatemalteco, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-te-guatemalteco-tiempo_primario": {
+      "correcta": 1,
+      "opciones": [
+        "6 meses",
+        "60 dias",
+        "N/A",
+        "90 dias"
+      ],
+      "explicacion": "Para té guatemalteco, el tiempo de vida primario correcto es: 60 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-te-guatemalteco-tiempo_secundario": {
+      "correcta": 2,
+      "opciones": [
+        "48 horas incluyendo 1 de enfriamiento",
+        "N/A",
+        "1 mes",
+        "3 dias"
+      ],
+      "explicacion": "Para té guatemalteco, el tiempo de vida secundario correcto es: 1 mes. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-te-chai-temperatura": {
+      "correcta": 1,
+      "opciones": [
+        "Cooler",
+        "Ambiente",
+        "N/A",
+        "34°F a 40°F"
+      ],
+      "explicacion": "Para té chai, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-te-chai-tiempo_primario": {
+      "correcta": 0,
+      "opciones": [
+        "2 años",
+        "N/A",
+        "542 dias",
+        "60 dias"
+      ],
+      "explicacion": "Para té chai, el tiempo de vida primario correcto es: 2 años. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-te-chai-tiempo_secundario": {
+      "correcta": 3,
+      "opciones": [
+        "3 dias",
+        "48 horas incluyendo 1 de enfriamiento",
+        "6 horas",
+        "6 meses"
+      ],
+      "explicacion": "Para té chai, el tiempo de vida secundario correcto es: 6 meses. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-mcpops-avellana-tiempo_primario": {
+      "correcta": 3,
+      "opciones": [
+        "3 años",
+        "6 meses",
+        "120 dias",
+        "542 dias"
+      ],
+      "explicacion": "Para mc pops de avellana, el tiempo de vida primario correcto es: 542 dias. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-mcpops-avellana-tiempo_secundario": {
+      "correcta": 2,
+      "opciones": [
+        "96 horas",
+        "15 dias",
+        "12 horas",
+        "90 dias"
+      ],
+      "explicacion": "Para mc pops de avellana, el tiempo de vida secundario correcto es: 12 horas. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-mcpops-chocolate-blanco-temperatura": {
+      "correcta": 0,
+      "opciones": [
+        "0°F a -10°F",
+        "N/A",
+        "Ambiente",
+        "34°F a 40°F"
+      ],
+      "explicacion": "Para mc pops de chocolate, la temperatura correcto es: 0°F a -10°F. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-mcpops-chocolate-blanco-tiempo_primario": {
+      "correcta": 2,
+      "opciones": [
+        "120 dias",
+        "90 dias",
+        "540 dias",
+        "542 dias"
+      ],
+      "explicacion": "Para mc pops de chocolate, el tiempo de vida primario correcto es: 540 dias. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-mcpops-chocolate-blanco-tiempo_secundario": {
+      "correcta": 3,
+      "opciones": [
+        "N/A",
+        "7 dias",
+        "96 horas",
+        "12 horas"
+      ],
+      "explicacion": "Para mc pops de chocolate, el tiempo de vida secundario correcto es: 12 horas. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-dots-chocolate-temperatura": {
+      "correcta": 2,
+      "opciones": [
+        "Cuarto frio",
+        "0 a -10 F",
+        "0°F a -10°F",
+        "34°F a 40°F"
+      ],
+      "explicacion": "Para dots de chocolate, la temperatura correcto es: 0°F a -10°F. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-dots-chocolate-tiempo_primario": {
+      "correcta": 3,
+      "opciones": [
+        "90 dias",
+        "60 dias",
+        "540 dias",
+        "365 dias"
+      ],
+      "explicacion": "Para dots de chocolate, el tiempo de vida primario correcto es: 365 dias. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-dots-chocolate-tiempo_secundario": {
+      "correcta": 1,
+      "opciones": [
+        "6 meses",
+        "12 horas",
+        "1 mes",
+        "48 horas"
+      ],
+      "explicacion": "Para dots de chocolate, el tiempo de vida secundario correcto es: 12 horas. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-dots-fresa-temperatura": {
+      "correcta": 3,
+      "opciones": [
+        "34°F a 40°F",
+        "N/A",
+        "34 a 40 F",
+        "0°F a -10°F"
+      ],
+      "explicacion": "Para dots de fresa, la temperatura correcto es: 0°F a -10°F. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-dots-fresa-tiempo_primario": {
+      "correcta": 0,
+      "opciones": [
+        "365 dias",
+        "540 dias",
+        "2 meses",
+        "N/A"
+      ],
+      "explicacion": "Para dots de fresa, el tiempo de vida primario correcto es: 365 dias. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-dots-fresa-tiempo_secundario": {
+      "correcta": 2,
+      "opciones": [
+        "15 dias",
+        "72 horas",
+        "12 horas",
+        "6 horas"
+      ],
+      "explicacion": "Para dots de fresa, el tiempo de vida secundario correcto es: 12 horas. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-cheesecake-temperatura": {
+      "correcta": 0,
+      "opciones": [
+        "0°F a -10°F",
+        "0 a -10 F",
+        "34 a 40 F",
+        "34°F a 40°F"
+      ],
+      "explicacion": "Para cheesecake, la temperatura correcto es: 0°F a -10°F. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-cheesecake-tiempo_primario": {
+      "correcta": 3,
+      "opciones": [
+        "540 dias",
+        "542 dias",
+        "365 dias",
+        "60 dias"
+      ],
+      "explicacion": "Para cheesecake, el tiempo de vida primario correcto es: 60 dias. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-cheesecake-tiempo_secundario": {
+      "correcta": 1,
+      "opciones": [
+        "90 dias",
+        "96 horas",
+        "72 horas",
+        "12 horas"
+      ],
+      "explicacion": "Para cheesecake, el tiempo de vida secundario correcto es: 96 horas. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-macadamia-temperatura": {
+      "correcta": 3,
+      "opciones": [
+        "Cooler",
+        "0 a -10 F",
+        "Ambiente",
+        "0°F a -10°F"
+      ],
+      "explicacion": "Para macadamia, la temperatura correcto es: 0°F a -10°F. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-macadamia-tiempo_primario": {
+      "correcta": 2,
+      "opciones": [
+        "542 dias",
+        "3 años",
+        "60 dias",
+        "120 dias"
+      ],
+      "explicacion": "Para macadamia, el tiempo de vida primario correcto es: 60 dias. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-macadamia-tiempo_secundario": {
+      "correcta": 3,
+      "opciones": [
+        "5 dias",
+        "6 horas",
+        "12 horas",
+        "96 horas"
+      ],
+      "explicacion": "Para macadamia, el tiempo de vida secundario correcto es: 96 horas. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-pastel-elote-temperatura": {
+      "correcta": 3,
+      "opciones": [
+        "0 a -10 F",
+        "Congelador",
+        "34°F o 40°F",
+        "0°F a -10°F"
+      ],
+      "explicacion": "Para elote, la temperatura correcto es: 0°F a -10°F. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-pastel-elote-tiempo_primario": {
+      "correcta": 2,
+      "opciones": [
+        "365 dias",
+        "90 dias",
+        "60 dias",
+        "2 años"
+      ],
+      "explicacion": "Para elote, el tiempo de vida primario correcto es: 60 dias. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-pastel-elote-tiempo_secundario": {
+      "correcta": 1,
+      "opciones": [
+        "15 dias",
+        "96 horas",
+        "48 horas incluyendo 1 de enfriamiento",
+        "90 dias"
+      ],
+      "explicacion": "Para elote, el tiempo de vida secundario correcto es: 96 horas. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-pastel-zanahoria-temperatura": {
+      "correcta": 0,
+      "opciones": [
+        "0°F a -10°F",
+        "34°F a 40°F",
+        "N/A",
+        "34°F o 40°F"
+      ],
+      "explicacion": "Para zanahoria, la temperatura correcto es: 0°F a -10°F. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-pastel-zanahoria-tiempo_primario": {
+      "correcta": 3,
+      "opciones": [
+        "2 años",
+        "30 dias",
+        "90 dias",
+        "60 dias"
+      ],
+      "explicacion": "Para zanahoria, el tiempo de vida primario correcto es: 60 dias. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-pastel-zanahoria-tiempo_secundario": {
+      "correcta": 0,
+      "opciones": [
+        "96 horas",
+        "3 dias",
+        "48 horas",
+        "90 dias"
+      ],
+      "explicacion": "Para zanahoria, el tiempo de vida secundario correcto es: 96 horas. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-pastel-chocolate-temperatura": {
+      "correcta": 0,
+      "opciones": [
+        "0°F a -10°F",
+        "N/A",
+        "0 a -10 F",
+        "34°F a 40°F"
+      ],
+      "explicacion": "Para pastel de chocolate, la temperatura correcto es: 0°F a -10°F. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-pastel-chocolate-tiempo_primario": {
+      "correcta": 2,
+      "opciones": [
+        "2 años",
+        "365 dias",
+        "60 dias",
+        "180 dias"
+      ],
+      "explicacion": "Para pastel de chocolate, el tiempo de vida primario correcto es: 60 dias. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-pastel-chocolate-tiempo_secundario": {
+      "correcta": 1,
+      "opciones": [
+        "15 dias",
+        "96 horas",
+        "90 dias",
+        "48 horas incluyendo 1 de enfriamiento"
+      ],
+      "explicacion": "Para pastel de chocolate, el tiempo de vida secundario correcto es: 96 horas. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-tres-leches-temperatura": {
+      "correcta": 2,
+      "opciones": [
+        "0 a -10 F",
+        "Cuarto frio",
+        "0°F a -10°F",
+        "N/A"
+      ],
+      "explicacion": "Para tres leches, la temperatura correcto es: 0°F a -10°F. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-tres-leches-tiempo_primario": {
+      "correcta": 0,
+      "opciones": [
+        "60 dias",
+        "6 meses",
+        "542 dias",
+        "2 meses"
+      ],
+      "explicacion": "Para tres leches, el tiempo de vida primario correcto es: 60 dias. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-tres-leches-tiempo_secundario": {
+      "correcta": 3,
+      "opciones": [
+        "15 dias",
+        "48 horas incluyendo 1 de enfriamiento",
+        "3 dias",
+        "96 horas"
+      ],
+      "explicacion": "Para tres leches, el tiempo de vida secundario correcto es: 96 horas. Lugar de almacenamiento: Congelador."
+    },
+    "mc-cafe-chocolate-caliente-temperatura": {
+      "correcta": 3,
+      "opciones": [
+        "34°F o 40°F",
+        "0°F a -10°F",
+        "Cooler",
+        "Ambiente"
+      ],
+      "explicacion": "Para chocolate caliente, la temperatura correcto es: Ambiente. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-chocolate-caliente-despues_abierto": {
+      "correcta": 2,
+      "opciones": [
+        "12 horas",
+        "5 dias",
+        "7 dias",
+        "90 dias"
+      ],
+      "explicacion": "Para chocolate caliente, el tiempo de vida después de abierto correcto es: 7 dias. Lugar de almacenamiento: Bodega seca."
+    },
+    "mc-cafe-mezcla-frape-temperatura": {
+      "correcta": 0,
+      "opciones": [
+        "34°F a 40°F",
+        "Ambiente",
+        "34 a 40 F",
+        "Cuarto frio"
+      ],
+      "explicacion": "Para mezcla de expreso para frape, la temperatura correcto es: 34°F a 40°F. Lugar de almacenamiento: Cooler."
+    },
+    "mc-cafe-mezcla-frape-tiempo_secundario": {
+      "correcta": 2,
+      "opciones": [
+        "1 mes",
+        "15 dias",
+        "48 horas incluyendo 1 de enfriamiento",
+        "12 horas"
+      ],
+      "explicacion": "Para mezcla de expreso para frape, el tiempo de vida secundario correcto es: 48 horas incluyendo 1 de enfriamiento. Lugar de almacenamiento: Cooler."
+    },
+    "mc-cafe-mezcla-iced-cafe-temperatura": {
+      "correcta": 2,
+      "opciones": [
+        "Cuarto frio",
+        "Congelador",
+        "34°F a 40°F",
+        "0°F a -10°F"
+      ],
+      "explicacion": "Para mezcla de iced café, la temperatura correcto es: 34°F a 40°F. Lugar de almacenamiento: Cooler."
+    },
+    "mc-cafe-mezcla-iced-cafe-tiempo_secundario": {
+      "correcta": 0,
+      "opciones": [
+        "12 horas",
+        "96 horas",
+        "1 mes",
+        "72 horas"
+      ],
+      "explicacion": "Para mezcla de iced café, el tiempo de vida secundario correcto es: 12 horas. Lugar de almacenamiento: Cooler."
+    },
+    "mc-cafe-temp-bebida-espresso": {
+      "correcta": 1,
+      "opciones": [
+        "150 a 170°F",
+        "Arriba de 170°F",
+        "190°F +/- 5°F",
+        "0 a -10 F"
+      ],
+      "explicacion": "La bebida de espresso debe servirse arriba de 170°F."
+    },
+    "mc-cafe-temp-bebida-cappuccino-latte": {
+      "correcta": 3,
+      "opciones": [
+        "0 a -10 F",
+        "34 a 40 F",
+        "150°F o 170°F",
+        "165°F +/- 5°F"
+      ],
+      "explicacion": "Cappuccino, latte y bebidas similares se sirven a 165°F +/- 5°F."
+    },
+    "mc-cafe-temp-bebida-agua-caliente": {
+      "correcta": 2,
+      "opciones": [
+        "150 a 170 F",
+        "34 a 40 F",
+        "195°F +/- 5°F",
+        "34°F o 40°F"
+      ],
+      "explicacion": "El agua caliente de la máquina debe estar a 195°F +/- 5°F."
+    },
+    "mc-cafe-temp-bebida-vitrina": {
+      "correcta": 2,
+      "opciones": [
+        "4°C",
+        "0 a -10 F",
+        "34°F a 40°F",
+        "150 a 170°F"
+      ],
+      "explicacion": "La vitrina debe mantenerse de 34°F a 40°F."
+    },
+    "mc-cafe-temp-bebida-leche": {
+      "correcta": 1,
+      "opciones": [
+        "150°F o 170°F",
+        "150°F a 170°F",
+        "150 a 170 F",
+        "34°F o 40°F"
+      ],
+      "explicacion": "La leche debe estar de 150°F a 170°F según el estándar de servicio."
+    },
+    "mc-cafe-temp-bebida-te-chai": {
+      "correcta": 1,
+      "opciones": [
+        "150°F o 170°F",
+        "160°F +/- 5°F",
+        "4°C",
+        "34 a 40 F"
+      ],
+      "explicacion": "El té chai se prepara a 160°F +/- 5°F."
+    },
+    "mc-cafe-temp-bebida-guatemalteco": {
+      "correcta": 1,
+      "opciones": [
+        "195°F +/- 5°F",
+        "190°F +/- 5°F",
+        "150°F o 170°F",
+        "150 a 170°F"
+      ],
+      "explicacion": "El Guatemalteco se sirve a 190°F +/- 5°F."
+    },
+    "mc-cafe-temp-bebida-te-caliente": {
+      "correcta": 1,
+      "opciones": [
+        "34 a 40 F",
+        "190°F +/- 5°F",
+        "34°F o 40°F",
+        "150 a 170 F"
+      ],
+      "explicacion": "El té caliente se prepara a 190°F +/- 5°F."
+    },
+    "mc-cafe-medida-iced-original-16-medida": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 1.5 Oz. de azúcar, 1 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 3 Oz. de expreso",
+        "lleva 2 Oz. de leche y 3 disparos de 1.5 Oz. de azúcar",
+        "lleva 7 Oz. de leche y 1.5 Oz. de expreso",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 8 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: lleva 2 Oz. de leche y 3 disparos de 1.5 Oz. de azúcar."
+    },
+    "mc-cafe-medida-iced-original-16-leche": {
+      "correcta": 1,
+      "opciones": [
+        "1.5 Oz.",
+        "2 Oz. de leche",
+        "6 Oz. de leche",
+        "3 disparos de 1.5 Oz."
+      ],
+      "explicacion": "La medida correcta es: 2 Oz. de leche."
+    },
+    "mc-cafe-medida-iced-original-16-azucar": {
+      "correcta": 0,
+      "opciones": [
+        "3 disparos de 1.5 Oz.",
+        "10 Oz. de leche",
+        "1.5 Oz.",
+        "2 Oz."
+      ],
+      "explicacion": "La medida correcta es: 3 disparos de 1.5 Oz.."
+    },
+    "mc-cafe-medida-iced-original-20-medida": {
+      "correcta": 0,
+      "opciones": [
+        "lleva 3 Oz. de leche y 4 disparos de 2 Oz. de azúcar",
+        "2 Oz. de leche",
+        "1.5 Oz. de azúcar",
+        "lleva 1 Oz. de azúcar, 1.5 Oz. de syrup, 2 Oz. de leche y 3 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 3 Oz. de leche y 4 disparos de 2 Oz. de azúcar."
+    },
+    "mc-cafe-medida-iced-original-20-leche": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 10 Oz. de leche, 2 Oz. de syrup y 2 Oz. de expreso",
+        "1 Oz. de expreso",
+        "lleva 1.5 Oz. de chocolate, 6 Oz. de leche y 1.5 Oz. de expreso",
+        "3 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 3 Oz. de leche."
+    },
+    "mc-cafe-medida-iced-original-20-azucar": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 4 cucharones de te chai y 6 Oz. de leche",
+        "4 disparos de 2 Oz.",
+        "8 Oz.",
+        "2 Oz. de chocolate"
+      ],
+      "explicacion": "La medida correcta es: 4 disparos de 2 Oz.."
+    },
+    "mc-cafe-medida-iced-sabor-16-medida": {
+      "correcta": 3,
+      "opciones": [
+        "5 Oz. de base de fruta",
+        "1 Oz. de chocolate",
+        "lleva 2 Oz. de chocolate, 10 Oz. de leche y 2 Oz. de expreso",
+        "lleva 2 Oz. de leche y 5 disparos de 1.25 Oz. de saborizante"
+      ],
+      "explicacion": "La medida correcta es: lleva 2 Oz. de leche y 5 disparos de 1.25 Oz. de saborizante."
+    },
+    "mc-cafe-medida-iced-sabor-16-leche": {
+      "correcta": 1,
+      "opciones": [
+        "6 Oz. de leche",
+        "2 Oz. de leche",
+        "8 Oz. de leche",
+        "6 Oz."
+      ],
+      "explicacion": "La medida correcta es: 2 Oz. de leche."
+    },
+    "mc-cafe-medida-iced-sabor-16-sabor": {
+      "correcta": 2,
+      "opciones": [
+        "10 Oz. de leche",
+        "1 Oz. de chocolate",
+        "5 disparos de 1.25 Oz.",
+        "lleva 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 5 disparos de 1.25 Oz.."
+    },
+    "mc-cafe-medida-iced-sabor-20-medida": {
+      "correcta": 3,
+      "opciones": [
+        "8 Oz. de leche",
+        "1 cucharon",
+        "lleva 2 Oz. de expreso",
+        "lleva 3 Oz. de leche y 8 disparos de 2 Oz. de saborizante"
+      ],
+      "explicacion": "La medida correcta es: lleva 3 Oz. de leche y 8 disparos de 2 Oz. de saborizante."
+    },
+    "mc-cafe-medida-iced-sabor-20-leche": {
+      "correcta": 2,
+      "opciones": [
+        "4 Oz. de base de fruta",
+        "2 Oz. de oreo",
+        "3 Oz. de leche",
+        "lleva 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 3 Oz. de leche."
+    },
+    "mc-cafe-medida-iced-sabor-20-sabor": {
+      "correcta": 0,
+      "opciones": [
+        "8 disparos de 2 Oz.",
+        "lleva 2 Oz. de leche y 3 disparos de 1.5 Oz. de azúcar",
+        "lleva 4 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "2 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 8 disparos de 2 Oz.."
+    },
+    "mc-cafe-medida-frappe-original-16-medida": {
+      "correcta": 0,
+      "opciones": [
+        "lleva 1.5 Oz. de azúcar, 2 Oz. de leche y 3 Oz. de expreso",
+        "lleva 6 Oz. de leche, 1.5 Oz. de syrup y 1.5 Oz. de expreso",
+        "4 cucharones",
+        "5 cucharones"
+      ],
+      "explicacion": "La medida correcta es: lleva 1.5 Oz. de azúcar, 2 Oz. de leche y 3 Oz. de expreso."
+    },
+    "mc-cafe-medida-frappe-original-16-azucar": {
+      "correcta": 1,
+      "opciones": [
+        "1 Oz.",
+        "1.5 Oz. de azúcar",
+        "lleva 5 cucharones de te chai y 6 Oz. de leche",
+        "2 Oz. de oreo"
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz. de azúcar."
+    },
+    "mc-cafe-medida-frappe-original-16-leche": {
+      "correcta": 3,
+      "opciones": [
+        "3 Oz. de expreso",
+        "8 Oz. de leche",
+        "lleva 1 Oz. de azúcar, 1 Oz. de syrup, 2 Oz. de leche y 2 Oz. de expreso",
+        "2 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-original-16-expreso": {
+      "correcta": 0,
+      "opciones": [
+        "3 Oz. de expreso",
+        "lleva 3 Oz. de leche y 8 disparos de 2 Oz. de saborizante",
+        "lleva 3 Oz. de leche y 4 disparos de 2 Oz. de azúcar",
+        "5 disparos de 1.25 Oz."
+      ],
+      "explicacion": "La medida correcta es: 3 Oz. de expreso."
+    },
+    "mc-cafe-medida-frappe-original-20-medida": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 1.5 Oz. de expreso",
+        "3 Oz. de leche",
+        "lleva 1.5 Oz. de azúcar, 2 Oz. de leche y 4 Oz. de expreso",
+        "lleva 1 cucharon de chai, 1 Oz. de azúcar y 10 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: lleva 1.5 Oz. de azúcar, 2 Oz. de leche y 4 Oz. de expreso."
+    },
+    "mc-cafe-medida-frappe-original-20-azucar": {
+      "correcta": 0,
+      "opciones": [
+        "1.5 Oz. de azúcar",
+        "1 Oz. de azúcar",
+        "lleva 3 Oz. de leche y 8 disparos de 2 Oz. de saborizante",
+        "6 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz. de azúcar."
+    },
+    "mc-cafe-medida-frappe-original-20-leche": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 8 Oz. de leche y 1.5 Oz. de chocolate",
+        "2 Oz. de syrup",
+        "2 Oz. de leche",
+        "lleva 2 Oz. de leche y 5 disparos de 1.25 Oz. de saborizante"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-original-20-expreso": {
+      "correcta": 1,
+      "opciones": [
+        "4 Oz. de leche",
+        "4 Oz. de expreso",
+        "8 disparos de 2 Oz.",
+        "lleva 4 cucharones de te chai y 6 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 4 Oz. de expreso."
+    },
+    "mc-cafe-medida-frappe-sabor-16-medida": {
+      "correcta": 0,
+      "opciones": [
+        "lleva 1 Oz. de azúcar, 1 Oz. de syrup, 2 Oz. de leche y 2 Oz. de expreso",
+        "1 Oz. de expreso",
+        "1 Oz.",
+        "4 Oz. de base de fruta"
+      ],
+      "explicacion": "La medida correcta es: lleva 1 Oz. de azúcar, 1 Oz. de syrup, 2 Oz. de leche y 2 Oz. de expreso."
+    },
+    "mc-cafe-medida-frappe-sabor-16-azucar": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 4 cucharones de te chai y 6 Oz. de leche",
+        "6 Oz. de leche",
+        "lleva 2 Oz. de leche y 3 disparos de 1.5 Oz. de azúcar",
+        "1 Oz. de azúcar"
+      ],
+      "explicacion": "La medida correcta es: 1 Oz. de azúcar."
+    },
+    "mc-cafe-medida-frappe-sabor-16-syrup": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 1.5 Oz. de chocolate, 6 Oz. de leche y 1.5 Oz. de expreso",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 8 Oz. de leche",
+        "1 Oz. de syrup",
+        "2 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 1 Oz. de syrup."
+    },
+    "mc-cafe-medida-frappe-sabor-16-leche": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 1.5 Oz. de azúcar, 2 Oz. de leche y 3 Oz. de expreso",
+        "lleva 2 Oz. de leche y 3 disparos de 1.5 Oz. de azúcar",
+        "lleva 10 Oz. de leche y 2 Oz. de expreso",
+        "2 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-sabor-16-expreso": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 10 Oz. de leche y 2 Oz. de chocolate",
+        "0.75 Oz.",
+        "2 Oz. de expreso",
+        "6 Oz."
+      ],
+      "explicacion": "La medida correcta es: 2 Oz. de expreso."
+    },
+    "mc-cafe-medida-frappe-sabor-20-medida": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 8 Oz. de leche y 1.5 Oz. de chocolate",
+        "1 Oz. de chocolate",
+        "0.75 Oz.",
+        "lleva 1 Oz. de azúcar, 1.5 Oz. de syrup, 2 Oz. de leche y 3 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 1 Oz. de azúcar, 1.5 Oz. de syrup, 2 Oz. de leche y 3 Oz. de expreso."
+    },
+    "mc-cafe-medida-frappe-sabor-20-azucar": {
+      "correcta": 0,
+      "opciones": [
+        "1 Oz. de azúcar",
+        "lleva 2 Oz. de chocolate, 10 Oz. de leche y 2 Oz. de expreso",
+        "lleva 1 Oz. de azúcar, 1 Oz. de syrup, 2 Oz. de leche y 2 Oz. de expreso",
+        "1 Oz. de syrup"
+      ],
+      "explicacion": "La medida correcta es: 1 Oz. de azúcar."
+    },
+    "mc-cafe-medida-frappe-sabor-20-syrup": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 8 Oz. de leche",
+        "3 Oz. de leche",
+        "1 Oz. de chocolate",
+        "1.5 Oz. de syrup"
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz. de syrup."
+    },
+    "mc-cafe-medida-frappe-sabor-20-leche": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 1.5 Oz. de azúcar, 1.5 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 4 Oz. de expreso",
+        "2 Oz. de leche",
+        "lleva 1 cucharon de chai, 1 Oz. de azúcar y 10 Oz. de leche",
+        "lleva 1.5 Oz. de azúcar, 2 Oz. de leche y 4 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-sabor-20-expreso": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 8 Oz. de leche",
+        "3 Oz. de expreso",
+        "lleva 3 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "lleva 3 Oz. de leche y 8 disparos de 2 Oz. de saborizante"
+      ],
+      "explicacion": "La medida correcta es: 3 Oz. de expreso."
+    },
+    "mc-cafe-medida-frappe-oreo-16-medida": {
+      "correcta": 2,
+      "opciones": [
+        "2 Oz. de expreso",
+        "1.5 Oz. de syrup",
+        "lleva 1.5 Oz. de azúcar, 1 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 3 Oz. de expreso",
+        "lleva 1 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 1.5 Oz. de azúcar, 1 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 3 Oz. de expreso."
+    },
+    "mc-cafe-medida-frappe-oreo-16-azucar": {
+      "correcta": 0,
+      "opciones": [
+        "1.5 Oz. de azúcar",
+        "lleva 3 Oz. de leche y 4 disparos de 2 Oz. de azúcar",
+        "lleva 4 Oz. de agua/leche y 4 Oz. de base de fruta",
+        "10 Oz."
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz. de azúcar."
+    },
+    "mc-cafe-medida-frappe-oreo-16-chocolate": {
+      "correcta": 1,
+      "opciones": [
+        "1.5 Oz. de chocolate",
+        "1 Oz. de chocolate",
+        "lleva 1 Oz. de azúcar, 1.5 Oz. de syrup, 2 Oz. de leche y 3 Oz. de expreso",
+        "lleva 3 Oz. de leche y 4 disparos de 2 Oz. de azúcar"
+      ],
+      "explicacion": "La medida correcta es: 1 Oz. de chocolate."
+    },
+    "mc-cafe-medida-frappe-oreo-16-oreo": {
+      "correcta": 1,
+      "opciones": [
+        "1 Oz. de syrup",
+        "2 Oz. de oreo",
+        "lleva 2 Oz. de leche y 5 disparos de 1.25 Oz. de saborizante",
+        "lleva 3 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz. de oreo."
+    },
+    "mc-cafe-medida-frappe-oreo-16-leche": {
+      "correcta": 1,
+      "opciones": [
+        "1.5 Oz. de syrup",
+        "2 Oz. de leche",
+        "lleva 2 Oz. de leche y 3 disparos de 1.5 Oz. de azúcar",
+        "lleva 4 Oz. de leche, 0.75 Oz. de syrup y 1 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-oreo-16-expreso": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 6 Oz. de leche, 1.5 Oz. de syrup y 1.5 Oz. de expreso",
+        "4 Oz.",
+        "3 Oz. de expreso",
+        "4 disparos de 2 Oz."
+      ],
+      "explicacion": "La medida correcta es: 3 Oz. de expreso."
+    },
+    "mc-cafe-medida-frappe-oreo-20-medida": {
+      "correcta": 2,
+      "opciones": [
+        "5 Oz. de base de fruta",
+        "lleva 4 cucharones de te chai y 6 Oz. de leche",
+        "lleva 1.5 Oz. de azúcar, 1.5 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 4 Oz. de expreso",
+        "lleva 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 1.5 Oz. de azúcar, 1.5 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 4 Oz. de expreso."
+    },
+    "mc-cafe-medida-frappe-oreo-20-azucar": {
+      "correcta": 1,
+      "opciones": [
+        "2 Oz. de oreo",
+        "1.5 Oz. de azúcar",
+        "lleva 1.5 Oz. de azúcar, 2 Oz. de leche y 4 Oz. de expreso",
+        "1 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz. de azúcar."
+    },
+    "mc-cafe-medida-frappe-oreo-20-chocolate": {
+      "correcta": 2,
+      "opciones": [
+        "8 disparos de 2 Oz.",
+        "5 Oz. de base de fruta",
+        "1.5 Oz. de chocolate",
+        "lleva 1 Oz. de chocolate, 4 Oz. de leche y 1 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz. de chocolate."
+    },
+    "mc-cafe-medida-frappe-oreo-20-oreo": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 10 Oz. de leche y 2 Oz. de chocolate",
+        "1 Oz. de azúcar",
+        "1 Oz. de syrup",
+        "2 Oz. de oreo"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz. de oreo."
+    },
+    "mc-cafe-medida-frappe-oreo-20-leche": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 2 Oz. de expreso",
+        "lleva 10 Oz. de leche y 2 Oz. de expreso",
+        "8 Oz. de leche",
+        "2 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-oreo-20-expreso": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 4 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "lleva 1.5 Oz. de azúcar, 1 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 3 Oz. de expreso",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 6 Oz. de leche",
+        "4 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 4 Oz. de expreso."
+    },
+    "mc-cafe-medida-smoothie-16-medida": {
+      "correcta": 3,
+      "opciones": [
+        "1.5 Oz. de azúcar",
+        "1.5 Oz. de syrup",
+        "4 Oz. de base de fruta",
+        "lleva 4 Oz. de agua/leche y 4 Oz. de base de fruta"
+      ],
+      "explicacion": "La medida correcta es: lleva 4 Oz. de agua/leche y 4 Oz. de base de fruta."
+    },
+    "mc-cafe-medida-smoothie-16-agua": {
+      "correcta": 0,
+      "opciones": [
+        "4 Oz. de agua/leche",
+        "lleva 8 Oz. de leche y 1.5 Oz. de expreso",
+        "3 disparos de 1.5 Oz.",
+        "2 Oz. de syrup"
+      ],
+      "explicacion": "La medida correcta es: 4 Oz. de agua/leche."
+    },
+    "mc-cafe-medida-smoothie-16-fruta": {
+      "correcta": 0,
+      "opciones": [
+        "4 Oz. de base de fruta",
+        "lleva 2 Oz. de expreso",
+        "3 Oz. de leche",
+        "8 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 4 Oz. de base de fruta."
+    },
+    "mc-cafe-medida-smoothie-20-medida": {
+      "correcta": 1,
+      "opciones": [
+        "1.5 Oz. de expreso",
+        "lleva 4 Oz. de agua/leche y 5 Oz. de base de fruta",
+        "10 Oz. de leche",
+        "2 Oz. de chocolate"
+      ],
+      "explicacion": "La medida correcta es: lleva 4 Oz. de agua/leche y 5 Oz. de base de fruta."
+    },
+    "mc-cafe-medida-smoothie-20-agua": {
+      "correcta": 0,
+      "opciones": [
+        "4 Oz. de agua/leche",
+        "lleva 3 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "8 disparos de 2 Oz.",
+        "3 disparos de 1.5 Oz."
+      ],
+      "explicacion": "La medida correcta es: 4 Oz. de agua/leche."
+    },
+    "mc-cafe-medida-smoothie-20-fruta": {
+      "correcta": 3,
+      "opciones": [
+        "1.5 Oz. de chocolate",
+        "lleva 1 Oz. de chocolate, 4 Oz. de leche y 1 Oz. de expreso",
+        "1 Oz. de azúcar",
+        "5 Oz. de base de fruta"
+      ],
+      "explicacion": "La medida correcta es: 5 Oz. de base de fruta."
+    },
+    "mc-cafe-medida-frappe-chai-16-medida": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 4 Oz. de agua/leche y 4 Oz. de base de fruta",
+        "lleva 3 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "1.5 Oz. de chocolate",
+        "1 Oz."
+      ],
+      "explicacion": "La medida correcta es: lleva 3 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-chai-16-chai": {
+      "correcta": 0,
+      "opciones": [
+        "3 cucharones",
+        "lleva 1 Oz. de azúcar, 1.5 Oz. de syrup, 2 Oz. de leche y 3 Oz. de expreso",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 6 Oz. de leche",
+        "2 Oz. de chocolate"
+      ],
+      "explicacion": "La medida correcta es: 3 cucharones."
+    },
+    "mc-cafe-medida-frappe-chai-16-azucar": {
+      "correcta": 2,
+      "opciones": [
+        "3 cucharones",
+        "lleva 2 Oz. de chocolate, 10 Oz. de leche y 2 Oz. de expreso",
+        "1 Oz. de azúcar",
+        "1 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 1 Oz. de azúcar."
+    },
+    "mc-cafe-medida-frappe-chai-16-leche": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 2 Oz. de expreso",
+        "6 Oz. de leche",
+        "2 Oz. de chocolate",
+        "3 cucharones"
+      ],
+      "explicacion": "La medida correcta es: 6 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-chai-20-medida": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 10 Oz. de leche y 2 Oz. de chocolate",
+        "0.75 Oz.",
+        "4 Oz.",
+        "lleva 4 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: lleva 4 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-chai-20-chai": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 1.5 Oz. de chocolate, 6 Oz. de leche y 1.5 Oz. de expreso",
+        "3 Oz. de leche",
+        "1.5 Oz. de azúcar",
+        "4 cucharones"
+      ],
+      "explicacion": "La medida correcta es: 4 cucharones."
+    },
+    "mc-cafe-medida-frappe-chai-20-azucar": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 1.5 Oz. de expreso",
+        "4 Oz. de agua/leche",
+        "1 Oz. de azúcar",
+        "4 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 1 Oz. de azúcar."
+    },
+    "mc-cafe-medida-frappe-chai-20-leche": {
+      "correcta": 2,
+      "opciones": [
+        "10 Oz.",
+        "2 Oz.",
+        "6 Oz. de leche",
+        "1/2 Oz. de azúcar"
+      ],
+      "explicacion": "La medida correcta es: 6 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-chai-sf-16-medida": {
+      "correcta": 3,
+      "opciones": [
+        "6 Oz. de leche",
+        "1 Oz.",
+        "10 Oz.",
+        "lleva 4 cucharones de te chai y 6 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: lleva 4 cucharones de te chai y 6 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-chai-sf-16-chai": {
+      "correcta": 3,
+      "opciones": [
+        "3 cucharones",
+        "1.5 Oz. de chocolate",
+        "0.75 Oz. de syrup",
+        "4 cucharones"
+      ],
+      "explicacion": "La medida correcta es: 4 cucharones."
+    },
+    "mc-cafe-medida-frappe-chai-sf-16-leche": {
+      "correcta": 2,
+      "opciones": [
+        "5 Oz. de base de fruta",
+        "8 disparos de 2 Oz.",
+        "6 Oz. de leche",
+        "1 cucharon"
+      ],
+      "explicacion": "La medida correcta es: 6 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-chai-sf-20-medida": {
+      "correcta": 0,
+      "opciones": [
+        "lleva 5 cucharones de te chai y 6 Oz. de leche",
+        "4 cucharones",
+        "lleva 1.5 Oz. de chocolate, 6 Oz. de leche y 1.5 Oz. de expreso",
+        "4 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 5 cucharones de te chai y 6 Oz. de leche."
+    },
+    "mc-cafe-medida-frappe-chai-sf-20-chai": {
+      "correcta": 2,
+      "opciones": [
+        "4 disparos de 2 Oz.",
+        "lleva 10 Oz. de leche y 2 Oz. de chocolate",
+        "5 cucharones",
+        "lleva 4 cucharones de te chai y 6 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 5 cucharones."
+    },
+    "mc-cafe-medida-frappe-chai-sf-20-leche": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 1.5 Oz. de expreso",
+        "6 Oz. de leche",
+        "8 Oz.",
+        "lleva 2 Oz. de leche y 3 disparos de 1.5 Oz. de azúcar"
+      ],
+      "explicacion": "La medida correcta es: 6 Oz. de leche."
+    },
+    "mc-cafe-medida-latte-8-medida": {
+      "correcta": 3,
+      "opciones": [
+        "2 Oz. de expreso",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 6 Oz. de leche",
+        "4 Oz.",
+        "lleva 6 Oz. de leche y 1 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 6 Oz. de leche y 1 Oz. de expreso."
+    },
+    "mc-cafe-medida-latte-8-leche": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 1.5 Oz. de azúcar, 2 Oz. de leche y 4 Oz. de expreso",
+        "6 Oz.",
+        "1.5 Oz. de azúcar",
+        "lleva 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 6 Oz.."
+    },
+    "mc-cafe-medida-latte-8-expreso": {
+      "correcta": 2,
+      "opciones": [
+        "4 Oz. de base de fruta",
+        "4 Oz.",
+        "1 Oz.",
+        "8 Oz."
+      ],
+      "explicacion": "La medida correcta es: 1 Oz.."
+    },
+    "mc-cafe-medida-latte-12-medida": {
+      "correcta": 1,
+      "opciones": [
+        "8 Oz.",
+        "lleva 8 Oz. de leche y 1.5 Oz. de expreso",
+        "lleva 1 Oz. de chocolate, 4 Oz. de leche y 1 Oz. de expreso",
+        "5 Oz."
+      ],
+      "explicacion": "La medida correcta es: lleva 8 Oz. de leche y 1.5 Oz. de expreso."
+    },
+    "mc-cafe-medida-latte-12-leche": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 1 Oz. de expreso",
+        "3 disparos de 1.5 Oz.",
+        "lleva 4 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "8 Oz."
+      ],
+      "explicacion": "La medida correcta es: 8 Oz.."
+    },
+    "mc-cafe-medida-latte-12-expreso": {
+      "correcta": 3,
+      "opciones": [
+        "1 Oz. de syrup",
+        "4 Oz. de agua/leche",
+        "lleva 1 Oz. de expreso",
+        "1.5 Oz."
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz.."
+    },
+    "mc-cafe-medida-latte-16-medida": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 3 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "7 Oz.",
+        "lleva 10 Oz. de leche y 2 Oz. de expreso",
+        "3 disparos de 1.5 Oz."
+      ],
+      "explicacion": "La medida correcta es: lleva 10 Oz. de leche y 2 Oz. de expreso."
+    },
+    "mc-cafe-medida-latte-16-leche": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 6 Oz. de leche y 1 Oz. de chocolate",
+        "10 Oz.",
+        "lleva 10 Oz. de leche y 2 Oz. de chocolate",
+        "lleva 1 cucharon de chai, 1 Oz. de azúcar y 10 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 10 Oz.."
+    },
+    "mc-cafe-medida-latte-16-expreso": {
+      "correcta": 1,
+      "opciones": [
+        "3 disparos de 1.5 Oz.",
+        "2 Oz.",
+        "1 Oz. de chocolate",
+        "lleva 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz.."
+    },
+    "mc-cafe-medida-capuchino-8-medida": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 7 Oz. de leche y 1.5 Oz. de expreso",
+        "1 cucharon",
+        "lleva 5 Oz. de leche y 1 Oz. de expreso",
+        "5 disparos de 1.25 Oz."
+      ],
+      "explicacion": "La medida correcta es: lleva 5 Oz. de leche y 1 Oz. de expreso."
+    },
+    "mc-cafe-medida-capuchino-8-leche": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 1.5 Oz. de chocolate, 6 Oz. de leche y 1.5 Oz. de expreso",
+        "1.5 Oz. de syrup",
+        "5 Oz.",
+        "lleva 3 Oz. de leche y 4 disparos de 2 Oz. de azúcar"
+      ],
+      "explicacion": "La medida correcta es: 5 Oz.."
+    },
+    "mc-cafe-medida-capuchino-8-expreso": {
+      "correcta": 0,
+      "opciones": [
+        "1 Oz.",
+        "lleva 8 Oz. de leche y 1.5 Oz. de chocolate",
+        "1.5 Oz. de azúcar",
+        "lleva 6 Oz. de leche, 1.5 Oz. de syrup y 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 1 Oz.."
+    },
+    "mc-cafe-medida-capuchino-12-medida": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 4 Oz. de leche, 0.75 Oz. de syrup y 1 Oz. de expreso",
+        "lleva 1.5 Oz. de chocolate, 6 Oz. de leche y 1.5 Oz. de expreso",
+        "lleva 7 Oz. de leche y 1.5 Oz. de expreso",
+        "1/2 Oz. de azúcar"
+      ],
+      "explicacion": "La medida correcta es: lleva 7 Oz. de leche y 1.5 Oz. de expreso."
+    },
+    "mc-cafe-medida-capuchino-12-leche": {
+      "correcta": 3,
+      "opciones": [
+        "0.75 Oz.",
+        "lleva 1 Oz. de azúcar, 1 Oz. de syrup, 2 Oz. de leche y 2 Oz. de expreso",
+        "5 cucharones",
+        "7 Oz."
+      ],
+      "explicacion": "La medida correcta es: 7 Oz.."
+    },
+    "mc-cafe-medida-capuchino-12-expreso": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 6 Oz. de leche y 1 Oz. de chocolate",
+        "1 Oz. de chocolate",
+        "lleva 8 Oz. de leche y 1.5 Oz. de chocolate",
+        "1.5 Oz."
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz.."
+    },
+    "mc-cafe-medida-capuchino-16-medida": {
+      "correcta": 0,
+      "opciones": [
+        "lleva 10 Oz. de leche y 2 Oz. de expreso",
+        "lleva 1.5 Oz. de azúcar, 1 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 3 Oz. de expreso",
+        "lleva 1.5 Oz. de azúcar, 1.5 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 4 Oz. de expreso",
+        "1.5 Oz. de azúcar"
+      ],
+      "explicacion": "La medida correcta es: lleva 10 Oz. de leche y 2 Oz. de expreso."
+    },
+    "mc-cafe-medida-capuchino-16-leche": {
+      "correcta": 1,
+      "opciones": [
+        "2 Oz. de chocolate",
+        "10 Oz.",
+        "2 Oz.",
+        "lleva 6 Oz. de leche, 1.5 Oz. de syrup y 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 10 Oz.."
+    },
+    "mc-cafe-medida-capuchino-16-expreso": {
+      "correcta": 1,
+      "opciones": [
+        "1.5 Oz. de syrup",
+        "2 Oz.",
+        "2 Oz. de leche",
+        "lleva 5 cucharones de te chai y 6 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz.."
+    },
+    "mc-cafe-medida-latte-cap-sabor-8-medida": {
+      "correcta": 0,
+      "opciones": [
+        "lleva 4 Oz. de leche, 0.75 Oz. de syrup y 1 Oz. de expreso",
+        "lleva 1.5 Oz. de expreso",
+        "lleva 4 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "6 Oz."
+      ],
+      "explicacion": "La medida correcta es: lleva 4 Oz. de leche, 0.75 Oz. de syrup y 1 Oz. de expreso."
+    },
+    "mc-cafe-medida-latte-cap-sabor-8-leche": {
+      "correcta": 1,
+      "opciones": [
+        "4 Oz. de expreso",
+        "4 Oz.",
+        "lleva 5 Oz. de leche y 1 Oz. de expreso",
+        "lleva 7 Oz. de leche y 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 4 Oz.."
+    },
+    "mc-cafe-medida-latte-cap-sabor-8-syrup": {
+      "correcta": 3,
+      "opciones": [
+        "1.5 Oz. de azúcar",
+        "lleva 4 Oz. de agua/leche y 5 Oz. de base de fruta",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 6 Oz. de leche",
+        "0.75 Oz."
+      ],
+      "explicacion": "La medida correcta es: 0.75 Oz.."
+    },
+    "mc-cafe-medida-latte-cap-sabor-8-expreso": {
+      "correcta": 3,
+      "opciones": [
+        "2 Oz.",
+        "1.5 Oz. de chocolate",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 8 Oz. de leche",
+        "1 Oz."
+      ],
+      "explicacion": "La medida correcta es: 1 Oz.."
+    },
+    "mc-cafe-medida-latte-cap-sabor-12-medida": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 1.5 Oz. de expreso",
+        "lleva 1.5 Oz. de azúcar, 1 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 3 Oz. de expreso",
+        "1/2 Oz. de azúcar",
+        "lleva 6 Oz. de leche, 1.5 Oz. de syrup y 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 6 Oz. de leche, 1.5 Oz. de syrup y 1.5 Oz. de expreso."
+    },
+    "mc-cafe-medida-latte-cap-sabor-12-leche": {
+      "correcta": 0,
+      "opciones": [
+        "6 Oz.",
+        "lleva 1.5 Oz. de azúcar, 2 Oz. de leche y 3 Oz. de expreso",
+        "lleva 4 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "lleva 2 Oz. de leche y 3 disparos de 1.5 Oz. de azúcar"
+      ],
+      "explicacion": "La medida correcta es: 6 Oz.."
+    },
+    "mc-cafe-medida-latte-cap-sabor-12-syrup": {
+      "correcta": 3,
+      "opciones": [
+        "10 Oz. de leche",
+        "4 cucharones",
+        "lleva 2 Oz. de expreso",
+        "1.5 Oz."
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz.."
+    },
+    "mc-cafe-medida-latte-cap-sabor-12-expreso": {
+      "correcta": 0,
+      "opciones": [
+        "1.5 Oz.",
+        "lleva 1 cucharon de chai, 1 Oz. de azúcar y 10 Oz. de leche",
+        "10 Oz.",
+        "lleva 3 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz.."
+    },
+    "mc-cafe-medida-latte-cap-sabor-16-medida": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 4 Oz. de leche, 0.75 Oz. de syrup y 1 Oz. de expreso",
+        "lleva 4 cucharones de te chai y 6 Oz. de leche",
+        "5 cucharones",
+        "lleva 10 Oz. de leche, 2 Oz. de syrup y 2 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 10 Oz. de leche, 2 Oz. de syrup y 2 Oz. de expreso."
+    },
+    "mc-cafe-medida-latte-cap-sabor-16-leche": {
+      "correcta": 0,
+      "opciones": [
+        "10 Oz.",
+        "6 Oz.",
+        "0.75 Oz.",
+        "2 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 10 Oz.."
+    },
+    "mc-cafe-medida-latte-cap-sabor-16-syrup": {
+      "correcta": 0,
+      "opciones": [
+        "2 Oz.",
+        "4 Oz. de base de fruta",
+        "lleva 4 Oz. de leche, 0.75 Oz. de syrup y 1 Oz. de expreso",
+        "4 Oz. de agua/leche"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz.."
+    },
+    "mc-cafe-medida-latte-cap-sabor-16-expreso": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 2 Oz. de leche y 3 disparos de 1.5 Oz. de azúcar",
+        "4 disparos de 2 Oz.",
+        "lleva 4 cucharones de te chai y 6 Oz. de leche",
+        "2 Oz."
+      ],
+      "explicacion": "La medida correcta es: 2 Oz.."
+    },
+    "mc-cafe-medida-guatemalteco-8-medida": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 10 Oz. de leche, 2 Oz. de syrup y 2 Oz. de expreso",
+        "lleva 10 Oz. de leche y 2 Oz. de chocolate",
+        "lleva 1 Oz. de expreso",
+        "lleva 1.5 Oz. de chocolate, 6 Oz. de leche y 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 1 Oz. de expreso."
+    },
+    "mc-cafe-medida-guatemalteco-8-expreso": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 8 Oz. de leche y 1.5 Oz. de chocolate",
+        "3 Oz. de expreso",
+        "1 Oz. de azúcar",
+        "1 Oz."
+      ],
+      "explicacion": "La medida correcta es: 1 Oz.."
+    },
+    "mc-cafe-medida-guatemalteco-12-medida": {
+      "correcta": 3,
+      "opciones": [
+        "4 Oz.",
+        "lleva 6 Oz. de leche y 1 Oz. de chocolate",
+        "1 Oz. de expreso",
+        "lleva 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 1.5 Oz. de expreso."
+    },
+    "mc-cafe-medida-guatemalteco-12-expreso": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 4 Oz. de agua/leche y 4 Oz. de base de fruta",
+        "1.5 Oz.",
+        "lleva 8 Oz. de leche y 1.5 Oz. de chocolate",
+        "lleva 6 Oz. de leche y 1 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz.."
+    },
+    "mc-cafe-medida-guatemalteco-16-medida": {
+      "correcta": 3,
+      "opciones": [
+        "6 Oz. de leche",
+        "lleva 1.5 Oz. de azúcar, 1 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 3 Oz. de expreso",
+        "2 Oz. de oreo",
+        "lleva 2 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 2 Oz. de expreso."
+    },
+    "mc-cafe-medida-guatemalteco-16-expreso": {
+      "correcta": 3,
+      "opciones": [
+        "0.75 Oz. de syrup",
+        "1.5 Oz.",
+        "3 Oz. de expreso",
+        "2 Oz."
+      ],
+      "explicacion": "La medida correcta es: 2 Oz.."
+    },
+    "mc-cafe-medida-moca-8-medida": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 10 Oz. de leche y 2 Oz. de chocolate",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 8 Oz. de leche",
+        "3 cucharones",
+        "lleva 1 Oz. de chocolate, 4 Oz. de leche y 1 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 1 Oz. de chocolate, 4 Oz. de leche y 1 Oz. de expreso."
+    },
+    "mc-cafe-medida-moca-8-chocolate": {
+      "correcta": 2,
+      "opciones": [
+        "5 disparos de 1.25 Oz.",
+        "1.5 Oz. de azúcar",
+        "1 Oz.",
+        "lleva 1.5 Oz. de azúcar, 1 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 3 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 1 Oz.."
+    },
+    "mc-cafe-medida-moca-8-leche": {
+      "correcta": 2,
+      "opciones": [
+        "2 Oz. de leche",
+        "0.75 Oz.",
+        "4 Oz.",
+        "1 Oz. de chocolate"
+      ],
+      "explicacion": "La medida correcta es: 4 Oz.."
+    },
+    "mc-cafe-medida-moca-8-expreso": {
+      "correcta": 2,
+      "opciones": [
+        "3 disparos de 1.5 Oz.",
+        "6 Oz. de leche",
+        "1 Oz.",
+        "lleva 8 Oz. de leche y 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 1 Oz.."
+    },
+    "mc-cafe-medida-moca-12-medida": {
+      "correcta": 3,
+      "opciones": [
+        "5 disparos de 1.25 Oz.",
+        "6 Oz. de leche",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 6 Oz. de leche",
+        "lleva 1.5 Oz. de chocolate, 6 Oz. de leche y 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 1.5 Oz. de chocolate, 6 Oz. de leche y 1.5 Oz. de expreso."
+    },
+    "mc-cafe-medida-moca-12-chocolate": {
+      "correcta": 3,
+      "opciones": [
+        "5 disparos de 1.25 Oz.",
+        "1/2 Oz. de azúcar",
+        "lleva 4 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "1.5 Oz."
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz.."
+    },
+    "mc-cafe-medida-moca-12-leche": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 10 Oz. de leche, 2 Oz. de syrup y 2 Oz. de expreso",
+        "3 Oz. de expreso",
+        "5 Oz.",
+        "6 Oz."
+      ],
+      "explicacion": "La medida correcta es: 6 Oz.."
+    },
+    "mc-cafe-medida-moca-12-expreso": {
+      "correcta": 0,
+      "opciones": [
+        "1.5 Oz.",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 8 Oz. de leche",
+        "lleva 4 Oz. de leche, 0.75 Oz. de syrup y 1 Oz. de expreso",
+        "2 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz.."
+    },
+    "mc-cafe-medida-moca-16-medida": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 1.5 Oz. de azúcar, 1 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 3 Oz. de expreso",
+        "lleva 2 Oz. de chocolate, 10 Oz. de leche y 2 Oz. de expreso",
+        "lleva 10 Oz. de leche y 2 Oz. de chocolate",
+        "8 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: lleva 2 Oz. de chocolate, 10 Oz. de leche y 2 Oz. de expreso."
+    },
+    "mc-cafe-medida-moca-16-chocolate": {
+      "correcta": 0,
+      "opciones": [
+        "2 Oz.",
+        "lleva 5 cucharones de te chai y 6 Oz. de leche",
+        "2 Oz. de leche",
+        "8 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz.."
+    },
+    "mc-cafe-medida-moca-16-leche": {
+      "correcta": 3,
+      "opciones": [
+        "lleva 4 Oz. de agua/leche y 5 Oz. de base de fruta",
+        "lleva 1.5 Oz. de expreso",
+        "4 disparos de 2 Oz.",
+        "10 Oz."
+      ],
+      "explicacion": "La medida correcta es: 10 Oz.."
+    },
+    "mc-cafe-medida-moca-16-expreso": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 8 Oz. de leche",
+        "2 Oz.",
+        "lleva 3 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "lleva 3 Oz. de leche y 4 disparos de 2 Oz. de azúcar"
+      ],
+      "explicacion": "La medida correcta es: 2 Oz.."
+    },
+    "mc-cafe-medida-chocolate-8-medida": {
+      "correcta": 1,
+      "opciones": [
+        "1.5 Oz. de azúcar",
+        "lleva 6 Oz. de leche y 1 Oz. de chocolate",
+        "2 Oz. de chocolate",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 6 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: lleva 6 Oz. de leche y 1 Oz. de chocolate."
+    },
+    "mc-cafe-medida-chocolate-8-leche": {
+      "correcta": 0,
+      "opciones": [
+        "6 Oz.",
+        "lleva 3 Oz. de leche y 4 disparos de 2 Oz. de azúcar",
+        "lleva 1 cucharon de chai, 1 Oz. de azúcar y 10 Oz. de leche",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 6 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 6 Oz.."
+    },
+    "mc-cafe-medida-chocolate-8-chocolate": {
+      "correcta": 2,
+      "opciones": [
+        "8 Oz.",
+        "5 Oz.",
+        "1 Oz.",
+        "3 cucharones"
+      ],
+      "explicacion": "La medida correcta es: 1 Oz.."
+    },
+    "mc-cafe-medida-chocolate-12-medida": {
+      "correcta": 2,
+      "opciones": [
+        "5 Oz. de base de fruta",
+        "lleva 6 Oz. de leche y 1 Oz. de expreso",
+        "lleva 8 Oz. de leche y 1.5 Oz. de chocolate",
+        "lleva 4 Oz. de agua/leche y 4 Oz. de base de fruta"
+      ],
+      "explicacion": "La medida correcta es: lleva 8 Oz. de leche y 1.5 Oz. de chocolate."
+    },
+    "mc-cafe-medida-chocolate-12-leche": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 10 Oz. de leche, 2 Oz. de syrup y 2 Oz. de expreso",
+        "8 Oz.",
+        "lleva 1.5 Oz. de azúcar, 1.5 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 4 Oz. de expreso",
+        "lleva 6 Oz. de leche y 1 Oz. de chocolate"
+      ],
+      "explicacion": "La medida correcta es: 8 Oz.."
+    },
+    "mc-cafe-medida-chocolate-12-chocolate": {
+      "correcta": 0,
+      "opciones": [
+        "1.5 Oz.",
+        "lleva 7 Oz. de leche y 1.5 Oz. de expreso",
+        "2 Oz. de expreso",
+        "lleva 10 Oz. de leche y 2 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 1.5 Oz.."
+    },
+    "mc-cafe-medida-chocolate-16-medida": {
+      "correcta": 1,
+      "opciones": [
+        "10 Oz. de leche",
+        "lleva 10 Oz. de leche y 2 Oz. de chocolate",
+        "lleva 2 Oz. de leche y 3 disparos de 1.5 Oz. de azúcar",
+        "lleva 1 Oz. de azúcar, 1 Oz. de syrup, 2 Oz. de leche y 2 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: lleva 10 Oz. de leche y 2 Oz. de chocolate."
+    },
+    "mc-cafe-medida-chocolate-16-leche": {
+      "correcta": 0,
+      "opciones": [
+        "10 Oz.",
+        "lleva 3 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "4 cucharones",
+        "lleva 6 Oz. de leche, 1.5 Oz. de syrup y 1.5 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 10 Oz.."
+    },
+    "mc-cafe-medida-chocolate-16-chocolate": {
+      "correcta": 3,
+      "opciones": [
+        "4 Oz. de base de fruta",
+        "5 Oz. de base de fruta",
+        "lleva 1 Oz. de expreso",
+        "2 Oz."
+      ],
+      "explicacion": "La medida correcta es: 2 Oz.."
+    },
+    "mc-cafe-medida-te-chai-caliente-8-medida": {
+      "correcta": 2,
+      "opciones": [
+        "1.5 Oz. de azúcar",
+        "lleva 1 cucharon de chai, 1 Oz. de azúcar y 10 Oz. de leche",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 6 Oz. de leche",
+        "3 disparos de 1.5 Oz."
+      ],
+      "explicacion": "La medida correcta es: lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 6 Oz. de leche."
+    },
+    "mc-cafe-medida-te-chai-caliente-8-chai": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 4 Oz. de leche, 0.75 Oz. de syrup y 1 Oz. de expreso",
+        "1 cucharon",
+        "6 Oz.",
+        "lleva 1.5 Oz. de azúcar, 2 Oz. de leche y 3 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 1 cucharon."
+    },
+    "mc-cafe-medida-te-chai-caliente-8-azucar": {
+      "correcta": 1,
+      "opciones": [
+        "4 Oz. de leche",
+        "1/2 Oz. de azúcar",
+        "1.5 Oz.",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 8 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 1/2 Oz. de azúcar."
+    },
+    "mc-cafe-medida-te-chai-caliente-8-leche": {
+      "correcta": 1,
+      "opciones": [
+        "3 disparos de 1.5 Oz.",
+        "6 Oz.",
+        "lleva 4 cucharones de te chai, 1 Oz. de azúcar y 6 Oz. de leche",
+        "lleva 1 Oz. de chocolate, 4 Oz. de leche y 1 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 6 Oz.."
+    },
+    "mc-cafe-medida-te-chai-caliente-12-medida": {
+      "correcta": 3,
+      "opciones": [
+        "1/2 Oz. de azúcar",
+        "2 Oz. de chocolate",
+        "lleva 2 Oz. de expreso",
+        "lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 8 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: lleva 1 cucharon de chai, 1/2 Oz. de azúcar y 8 Oz. de leche."
+    },
+    "mc-cafe-medida-te-chai-caliente-12-chai": {
+      "correcta": 1,
+      "opciones": [
+        "lleva 1.5 Oz. de azúcar, 1.5 Oz. de chocolate, 2 Oz. de oreo, 2 Oz. de leche y 4 Oz. de expreso",
+        "1 cucharon",
+        "3 Oz. de expreso",
+        "4 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 1 cucharon."
+    },
+    "mc-cafe-medida-te-chai-caliente-12-azucar": {
+      "correcta": 1,
+      "opciones": [
+        "8 Oz.",
+        "1/2 Oz. de azúcar",
+        "1.5 Oz. de syrup",
+        "lleva 1.5 Oz. de azúcar, 2 Oz. de leche y 4 Oz. de expreso"
+      ],
+      "explicacion": "La medida correcta es: 1/2 Oz. de azúcar."
+    },
+    "mc-cafe-medida-te-chai-caliente-12-leche": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 10 Oz. de leche, 2 Oz. de syrup y 2 Oz. de expreso",
+        "lleva 4 Oz. de leche, 0.75 Oz. de syrup y 1 Oz. de expreso",
+        "8 Oz.",
+        "3 cucharones"
+      ],
+      "explicacion": "La medida correcta es: 8 Oz.."
+    },
+    "mc-cafe-medida-te-chai-caliente-16-medida": {
+      "correcta": 0,
+      "opciones": [
+        "lleva 1 cucharon de chai, 1 Oz. de azúcar y 10 Oz. de leche",
+        "8 Oz.",
+        "lleva 2 Oz. de expreso",
+        "lleva 3 Oz. de leche y 8 disparos de 2 Oz. de saborizante"
+      ],
+      "explicacion": "La medida correcta es: lleva 1 cucharon de chai, 1 Oz. de azúcar y 10 Oz. de leche."
+    },
+    "mc-cafe-medida-te-chai-caliente-16-chai": {
+      "correcta": 2,
+      "opciones": [
+        "lleva 7 Oz. de leche y 1.5 Oz. de expreso",
+        "lleva 5 Oz. de leche y 1 Oz. de expreso",
+        "1 cucharon",
+        "lleva 5 cucharones de te chai y 6 Oz. de leche"
+      ],
+      "explicacion": "La medida correcta es: 1 cucharon."
+    },
+    "mc-cafe-medida-te-chai-caliente-16-azucar": {
+      "correcta": 0,
+      "opciones": [
+        "1 Oz. de azúcar",
+        "lleva 1 Oz. de expreso",
+        "4 Oz. de agua/leche",
+        "10 Oz."
+      ],
+      "explicacion": "La medida correcta es: 1 Oz. de azúcar."
+    },
+    "mc-cafe-medida-te-chai-caliente-16-leche": {
+      "correcta": 2,
+      "opciones": [
+        "0.75 Oz. de syrup",
+        "lleva 8 Oz. de leche y 1.5 Oz. de chocolate",
+        "10 Oz.",
+        "1 Oz. de azúcar"
+      ],
+      "explicacion": "La medida correcta es: 10 Oz.."
+    }
+  }
+}

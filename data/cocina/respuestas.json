@@ -1,0 +1,725 @@
+{
+  "catalogo": "cocina",
+  "respuestas": {
+    "cocina-01": {
+      "correcta": 1,
+      "opciones": [
+        "110 segundos",
+        "39 segundos",
+        "Cada 15 minutos",
+        "150 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 39 segundos."
+    },
+    "cocina-02": {
+      "correcta": 3,
+      "opciones": [
+        "De 8 a 10 segundos",
+        "38.5 onzas",
+        "160 +/- 5 segundos",
+        "110 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 110 segundos."
+    },
+    "cocina-03": {
+      "correcta": 1,
+      "opciones": [
+        "10 segundos",
+        "158 segundos",
+        "Cada 30 minutos",
+        "34°F a 40°F"
+      ],
+      "explicacion": "La respuesta correcta es: 158 segundos."
+    },
+    "cocina-04": {
+      "correcta": 1,
+      "opciones": [
+        "En el fregadero de platos",
+        "160 +/- 5 segundos",
+        "Inicial es de 0.225 y final de 0.290 por 20 segundos",
+        "75 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 160 +/- 5 segundos."
+    },
+    "cocina-05": {
+      "correcta": 0,
+      "opciones": [
+        "225 el primer lado y 165 segundos el segundo lado",
+        "Cada 30 minutos",
+        "133°F a 145°F",
+        "30 minutos"
+      ],
+      "explicacion": "La respuesta correcta es: 225 el primer lado y 165 segundos el segundo lado."
+    },
+    "cocina-06": {
+      "correcta": 2,
+      "opciones": [
+        "1:30 segundos",
+        "20 minutos",
+        "Inicial es de 0.225 y final de 0.290 por 20 segundos",
+        "No"
+      ],
+      "explicacion": "La respuesta correcta es: Inicial es de 0.225 y final de 0.290 por 20 segundos."
+    },
+    "cocina-07": {
+      "correcta": 3,
+      "opciones": [
+        "225 el primer lado y 165 segundos el segundo lado",
+        "Pan frío y sin tostar",
+        "Lavarlas solo con agua en el piso",
+        "Inicial es de 0.400 y terminal es de 0.450 por 20 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: Inicial es de 0.400 y terminal es de 0.450 por 20 segundos."
+    },
+    "cocina-08": {
+      "correcta": 3,
+      "opciones": [
+        "En el fregadero de platos",
+        "5:45 segundos",
+        "225 el primer lado y 165 segundos el segundo lado",
+        "0.510 y final es de 0.545 por 20 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 0.510 y final es de 0.545 por 20 segundos."
+    },
+    "cocina-09": {
+      "correcta": 0,
+      "opciones": [
+        "415",
+        "Dispensador de hot cake, espátula para hot cake, recipiente medidor, taza blix, batidor de acero inoxidable, espátula de goma pastelera, plancha plana de 365°F y plancha de 375°F",
+        "En el fregadero de platos",
+        "Porciones muy oscuras y difíciles de separar"
+      ],
+      "explicacion": "La respuesta correcta es: 415."
+    },
+    "cocina-10": {
+      "correcta": 0,
+      "opciones": [
+        "Cada 15 minutos",
+        "160 +/- 5 segundos",
+        "COOK MODE (Modalidad de Cocción)",
+        "5:45 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: Cada 15 minutos."
+    },
+    "cocina-11": {
+      "correcta": 0,
+      "opciones": [
+        "Bien cocinada, bien sazonada, bien jugosa",
+        "FIFO",
+        "2 minutos",
+        "10 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: Bien cocinada, bien sazonada, bien jugosa."
+    },
+    "cocina-12": {
+      "correcta": 3,
+      "opciones": [
+        "Color rojo brillante, café o blanco; difícil de separar; muchos cristales de hielo en la superficie",
+        "85 segundos",
+        "225 el primer lado y 165 segundos el segundo lado",
+        "0°F a -10°F"
+      ],
+      "explicacion": "La respuesta correcta es: 0°F a -10°F."
+    },
+    "cocina-13": {
+      "correcta": 0,
+      "opciones": [
+        "155°F",
+        "De 40 a 140 F°",
+        "18 segundos",
+        "Desecharlo sin avisar"
+      ],
+      "explicacion": "La respuesta correcta es: 155°F."
+    },
+    "cocina-14": {
+      "correcta": 1,
+      "opciones": [
+        "375°F",
+        "18 segundos",
+        "40°F a 140°F",
+        "Pan frío y sin tostar"
+      ],
+      "explicacion": "La respuesta correcta es: 18 segundos."
+    },
+    "cocina-15": {
+      "correcta": 3,
+      "opciones": [
+        "Cada 30 minutos",
+        "155°F",
+        "39 segundos",
+        "10 minutos"
+      ],
+      "explicacion": "La respuesta correcta es: 10 minutos."
+    },
+    "cocina-16": {
+      "correcta": 1,
+      "opciones": [
+        "En cualquier recipiente disponible",
+        "10 segundos",
+        "1:30 segundos",
+        "Sí"
+      ],
+      "explicacion": "La respuesta correcta es: 10 segundos."
+    },
+    "cocina-17": {
+      "correcta": 1,
+      "opciones": [
+        "Bien cocinada, bien sazonada, bien jugosa",
+        "60 minutos",
+        "Amarillo dorado, esponjoso y suave, bien uniformes",
+        "Dispensador de hot cake, espátula para hot cake, recipiente medidor, taza blix, batidor de acero inoxidable, espátula de goma pastelera, plancha plana de 365°F y plancha de 375°F"
+      ],
+      "explicacion": "La respuesta correcta es: 60 minutos."
+    },
+    "cocina-18": {
+      "correcta": 0,
+      "opciones": [
+        "60 minutos",
+        "415",
+        "Daily",
+        "Cada 15 minutos"
+      ],
+      "explicacion": "La respuesta correcta es: 60 minutos."
+    },
+    "cocina-19": {
+      "correcta": 3,
+      "opciones": [
+        "Dispensador de hot cake, espátula para hot cake, recipiente medidor, taza blix, batidor de acero inoxidable, espátula de goma pastelera, plancha plana de 365°F y plancha de 375°F",
+        "De 5 a 8 segundos",
+        "5:45 segundos",
+        "20 minutos"
+      ],
+      "explicacion": "La respuesta correcta es: 20 minutos."
+    },
+    "cocina-20": {
+      "correcta": 0,
+      "opciones": [
+        "30 minutos",
+        "COOK MODE (Modalidad de Cocción)",
+        "150 segundos",
+        "60 minutos"
+      ],
+      "explicacion": "La respuesta correcta es: 30 minutos."
+    },
+    "cocina-21": {
+      "correcta": 0,
+      "opciones": [
+        "60 minutos",
+        "Porciones muy oscuras y difíciles de separar",
+        "425°F",
+        "2 minutos"
+      ],
+      "explicacion": "La respuesta correcta es: 60 minutos."
+    },
+    "cocina-22": {
+      "correcta": 1,
+      "opciones": [
+        "De 40 a 140 F°",
+        "3:30 segundos",
+        "0.510 y final es de 0.545 por 20 segundos",
+        "110 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 3:30 segundos."
+    },
+    "cocina-23": {
+      "correcta": 0,
+      "opciones": [
+        "3 minutos",
+        "160 +/- 5 segundos",
+        "150°F a 180°F",
+        "10 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 3 minutos."
+    },
+    "cocina-24": {
+      "correcta": 2,
+      "opciones": [
+        "En el fregadero de platos",
+        "10 segundos",
+        "5:45 segundos",
+        "Con el raspador en seco"
+      ],
+      "explicacion": "La respuesta correcta es: 5:45 segundos."
+    },
+    "cocina-25": {
+      "correcta": 1,
+      "opciones": [
+        "Superior de 425°F e inferior a 350°F",
+        "1:30 segundos",
+        "Bien cocida, bien jugosa, bien sazonada",
+        "Inicial es de 0.225 y final de 0.290 por 20 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 1:30 segundos."
+    },
+    "cocina-26": {
+      "correcta": 2,
+      "opciones": [
+        "38.5 onzas",
+        "39 segundos",
+        "75 segundos",
+        "150°F a 180°F"
+      ],
+      "explicacion": "La respuesta correcta es: 75 segundos."
+    },
+    "cocina-27": {
+      "correcta": 3,
+      "opciones": [
+        "10 segundos",
+        "5 segundos o menos",
+        "10 minutos",
+        "150 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 150 segundos."
+    },
+    "cocina-28": {
+      "correcta": 2,
+      "opciones": [
+        "COOK MODE (Modalidad de Cocción)",
+        "Daily",
+        "35 segundos",
+        "Amarillo dorado, esponjoso y suave, bien uniformes"
+      ],
+      "explicacion": "La respuesta correcta es: 35 segundos."
+    },
+    "cocina-29": {
+      "correcta": 1,
+      "opciones": [
+        "Cada 15 minutos",
+        "75 segundos",
+        "De 13 a 15",
+        "Con un trapo húmedo de parrilla"
+      ],
+      "explicacion": "La respuesta correcta es: 75 segundos."
+    },
+    "cocina-30": {
+      "correcta": 3,
+      "opciones": [
+        "415",
+        "Abastecer 24 horas de suministro de papel y un máximo de 2 horas de porciones congeladas en el congelador terrestre",
+        "Porciones muy oscuras y difíciles de separar",
+        "85 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 85 segundos."
+    },
+    "cocina-31": {
+      "correcta": 1,
+      "opciones": [
+        "75 segundos",
+        "Superior de 425°F e inferior a 350°F",
+        "De 3 a 4 de 50 a 55 segundos y de 4 a 6 de 55 a 70 segundos",
+        "En cualquier recipiente disponible"
+      ],
+      "explicacion": "La respuesta correcta es: Superior de 425°F e inferior a 350°F."
+    },
+    "cocina-32": {
+      "correcta": 2,
+      "opciones": [
+        "FIFO",
+        "Guardarlas en el área de cocina",
+        "265°F",
+        "115°F a 125°F"
+      ],
+      "explicacion": "La respuesta correcta es: 265°F."
+    },
+    "cocina-33": {
+      "correcta": 1,
+      "opciones": [
+        "110 segundos",
+        "De 8 a 10 segundos",
+        "415",
+        "De 40 a 140 F°"
+      ],
+      "explicacion": "La respuesta correcta es: De 8 a 10 segundos."
+    },
+    "cocina-34": {
+      "correcta": 1,
+      "opciones": [
+        "Con papel seco",
+        "20 minutos",
+        "115°F a 125°F",
+        "De 5 a 8 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 20 minutos."
+    },
+    "cocina-35": {
+      "correcta": 0,
+      "opciones": [
+        "20 minutos",
+        "Porciones ligeramente rosadas, fáciles de separar, planas, redondas, con grosor y diámetro uniforme",
+        "Abastecer 24 horas de suministro de papel y un máximo de 2 horas de porciones congeladas en el congelador terrestre",
+        "10 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 20 minutos."
+    },
+    "cocina-36": {
+      "correcta": 2,
+      "opciones": [
+        "COOK MODE (Modalidad de Cocción)",
+        "150 segundos",
+        "De 3 a 4 de 50 a 55 segundos y de 4 a 6 de 55 a 70 segundos",
+        "De 40 a 140 F°"
+      ],
+      "explicacion": "La respuesta correcta es: De 3 a 4 de 50 a 55 segundos y de 4 a 6 de 55 a 70 segundos."
+    },
+    "cocina-37": {
+      "correcta": 3,
+      "opciones": [
+        "3:30 segundos",
+        "1:30 segundos",
+        "Inicial es de 0.225 y final de 0.290 por 20 segundos",
+        "20 minutos"
+      ],
+      "explicacion": "La respuesta correcta es: 20 minutos."
+    },
+    "cocina-38": {
+      "correcta": 2,
+      "opciones": [
+        "82 segundos",
+        "35 segundos",
+        "20 minutos",
+        "No"
+      ],
+      "explicacion": "La respuesta correcta es: 20 minutos."
+    },
+    "cocina-39": {
+      "correcta": 1,
+      "opciones": [
+        "Porciones muy oscuras y difíciles de separar",
+        "Abastecer 24 horas de suministro de papel y un máximo de 2 horas de porciones congeladas en el congelador terrestre",
+        "COOK MODE (Modalidad de Cocción)",
+        "Notificar al gerente"
+      ],
+      "explicacion": "La respuesta correcta es: Abastecer 24 horas de suministro de papel y un máximo de 2 horas de porciones congeladas en el congelador terrestre."
+    },
+    "cocina-40": {
+      "correcta": 1,
+      "opciones": [
+        "34°F a 40°F",
+        "82 segundos",
+        "133°F a 145°F",
+        "Inicial es de 0.400 y terminal es de 0.450 por 20 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 82 segundos."
+    },
+    "cocina-41": {
+      "correcta": 3,
+      "opciones": [
+        "75 segundos",
+        "20 minutos",
+        "2 minutos",
+        "375°F"
+      ],
+      "explicacion": "La respuesta correcta es: 375°F."
+    },
+    "cocina-42": {
+      "correcta": 1,
+      "opciones": [
+        "34°F a 40°F",
+        "2 minutos",
+        "158 segundos",
+        "Daily"
+      ],
+      "explicacion": "La respuesta correcta es: 2 minutos."
+    },
+    "cocina-43": {
+      "correcta": 0,
+      "opciones": [
+        "38.5 onzas",
+        "Superior de 425°F e inferior a 350°F",
+        "350°F",
+        "Abastecer 24 horas de suministro de papel y un máximo de 2 horas de porciones congeladas en el congelador terrestre"
+      ],
+      "explicacion": "La respuesta correcta es: 38.5 onzas."
+    },
+    "cocina-44": {
+      "correcta": 2,
+      "opciones": [
+        "Guardarlas en el área de cocina",
+        "De 40 a 140 F°",
+        "48 onzas de agua fría",
+        "FIFO"
+      ],
+      "explicacion": "La respuesta correcta es: 48 onzas de agua fría."
+    },
+    "cocina-45": {
+      "correcta": 2,
+      "opciones": [
+        "Desecharlo sin avisar",
+        "490°F",
+        "Dispensador de hot cake, espátula para hot cake, recipiente medidor, taza blix, batidor de acero inoxidable, espátula de goma pastelera, plancha plana de 365°F y plancha de 375°F",
+        "Daily"
+      ],
+      "explicacion": "La respuesta correcta es: Dispensador de hot cake, espátula para hot cake, recipiente medidor, taza blix, batidor de acero inoxidable, espátula de goma pastelera, plancha plana de 365°F y plancha de 375°F."
+    },
+    "cocina-46": {
+      "correcta": 3,
+      "opciones": [
+        "10 minutos",
+        "Pan frío y sin tostar",
+        "Bien cocida, bien jugosa, bien sazonada",
+        "Amarillo dorado, esponjoso y suave, bien uniformes"
+      ],
+      "explicacion": "La respuesta correcta es: Amarillo dorado, esponjoso y suave, bien uniformes."
+    },
+    "cocina-47": {
+      "correcta": 3,
+      "opciones": [
+        "160 +/- 5 segundos",
+        "375°F",
+        "38.5 onzas",
+        "De 12 a 13.5"
+      ],
+      "explicacion": "La respuesta correcta es: De 12 a 13.5."
+    },
+    "cocina-48": {
+      "correcta": 3,
+      "opciones": [
+        "200°F",
+        "0°F a -10°F",
+        "Pan caliente, bien tostado y sin aplastar",
+        "De 13 a 15"
+      ],
+      "explicacion": "La respuesta correcta es: De 13 a 15."
+    },
+    "cocina-49": {
+      "correcta": 3,
+      "opciones": [
+        "Con un trapo húmedo de parrilla",
+        "Cada 15 minutos",
+        "10 minutos",
+        "Bien cocida, bien jugosa, bien sazonada"
+      ],
+      "explicacion": "La respuesta correcta es: Bien cocida, bien jugosa, bien sazonada."
+    },
+    "cocina-50": {
+      "correcta": 0,
+      "opciones": [
+        "Porciones ligeramente rosadas, fáciles de separar, planas, redondas, con grosor y diámetro uniforme",
+        "0°F a -10°F",
+        "Inicial es de 0.400 y terminal es de 0.450 por 20 segundos",
+        "60 minutos"
+      ],
+      "explicacion": "La respuesta correcta es: Porciones ligeramente rosadas, fáciles de separar, planas, redondas, con grosor y diámetro uniforme."
+    },
+    "cocina-51": {
+      "correcta": 2,
+      "opciones": [
+        "En el fregadero de platos",
+        "Abastecer 24 horas de suministro de papel y un máximo de 2 horas de porciones congeladas en el congelador terrestre",
+        "Color rojo brillante, café o blanco; difícil de separar; muchos cristales de hielo en la superficie",
+        "40°F a 140°F"
+      ],
+      "explicacion": "La respuesta correcta es: Color rojo brillante, café o blanco; difícil de separar; muchos cristales de hielo en la superficie."
+    },
+    "cocina-52": {
+      "correcta": 0,
+      "opciones": [
+        "40°F a 140°F",
+        "1:30 segundos",
+        "150 segundos",
+        "COOK MODE (Modalidad de Cocción)"
+      ],
+      "explicacion": "La respuesta correcta es: 40°F a 140°F."
+    },
+    "cocina-53": {
+      "correcta": 1,
+      "opciones": [
+        "De 3 a 4 de 50 a 55 segundos y de 4 a 6 de 55 a 70 segundos",
+        "133°F a 145°F",
+        "No",
+        "Inicial es de 0.225 y final de 0.290 por 20 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 133°F a 145°F."
+    },
+    "cocina-54": {
+      "correcta": 1,
+      "opciones": [
+        "En el bote blanco (dedicado solo para la grasa)",
+        "115°F a 125°F",
+        "20 minutos",
+        "FIFO"
+      ],
+      "explicacion": "La respuesta correcta es: 115°F a 125°F."
+    },
+    "cocina-55": {
+      "correcta": 1,
+      "opciones": [
+        "De 3 a 4 de 50 a 55 segundos y de 4 a 6 de 55 a 70 segundos",
+        "De 5 a 8 segundos",
+        "30 minutos",
+        "Color rojo brillante, café o blanco; difícil de separar; muchos cristales de hielo en la superficie"
+      ],
+      "explicacion": "La respuesta correcta es: De 5 a 8 segundos."
+    },
+    "cocina-56": {
+      "correcta": 2,
+      "opciones": [
+        "0°F a -10°F",
+        "0.510 y final es de 0.545 por 20 segundos",
+        "Daily",
+        "75 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: Daily."
+    },
+    "cocina-57": {
+      "correcta": 0,
+      "opciones": [
+        "150°F a 180°F",
+        "30 minutos",
+        "Desecharlo sin avisar",
+        "0.510 y final es de 0.545 por 20 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 150°F a 180°F."
+    },
+    "cocina-58": {
+      "correcta": 3,
+      "opciones": [
+        "150°F a 180°F",
+        "Inicial es de 0.400 y terminal es de 0.450 por 20 segundos",
+        "En el bote blanco (dedicado solo para la grasa)",
+        "Pan caliente, bien tostado y sin aplastar"
+      ],
+      "explicacion": "La respuesta correcta es: Pan caliente, bien tostado y sin aplastar."
+    },
+    "cocina-59": {
+      "correcta": 0,
+      "opciones": [
+        "Notificar al gerente",
+        "Con papel seco",
+        "38.5 onzas",
+        "Con el raspador en seco"
+      ],
+      "explicacion": "La respuesta correcta es: Notificar al gerente."
+    },
+    "cocina-60": {
+      "correcta": 0,
+      "opciones": [
+        "520°F",
+        "150 segundos",
+        "Lavarlas solo con agua en el piso",
+        "Bien cocinada, bien sazonada, bien jugosa"
+      ],
+      "explicacion": "La respuesta correcta es: 520°F."
+    },
+    "cocina-61": {
+      "correcta": 1,
+      "opciones": [
+        "425°F",
+        "520°F",
+        "Inicial es de 0.225 y final de 0.290 por 20 segundos",
+        "225 el primer lado y 165 segundos el segundo lado"
+      ],
+      "explicacion": "La respuesta correcta es: 520°F."
+    },
+    "cocina-62": {
+      "correcta": 3,
+      "opciones": [
+        "Cada 30 minutos",
+        "Desecharlo sin avisar",
+        "Con papel seco",
+        "490°F"
+      ],
+      "explicacion": "La respuesta correcta es: 490°F."
+    },
+    "cocina-63": {
+      "correcta": 3,
+      "opciones": [
+        "150 segundos",
+        "3:30 segundos",
+        "Color rojo brillante, café o blanco; difícil de separar; muchos cristales de hielo en la superficie",
+        "22 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 22 segundos."
+    },
+    "cocina-64": {
+      "correcta": 3,
+      "opciones": [
+        "0.510 y final es de 0.545 por 20 segundos",
+        "150°F a 180°F",
+        "Dispensador de hot cake, espátula para hot cake, recipiente medidor, taza blix, batidor de acero inoxidable, espátula de goma pastelera, plancha plana de 365°F y plancha de 375°F",
+        "30 minutos"
+      ],
+      "explicacion": "La respuesta correcta es: 30 minutos."
+    },
+    "cocina-65": {
+      "correcta": 0,
+      "opciones": [
+        "5 segundos o menos",
+        "FIFO",
+        "Bien cocinada, bien sazonada, bien jugosa",
+        "De 8 a 10 segundos"
+      ],
+      "explicacion": "La respuesta correcta es: 5 segundos o menos."
+    },
+    "cocina-66": {
+      "correcta": 3,
+      "opciones": [
+        "Daily",
+        "Color rojo brillante, café o blanco; difícil de separar; muchos cristales de hielo en la superficie",
+        "Porciones ligeramente rosadas, fáciles de separar, planas, redondas, con grosor y diámetro uniforme",
+        "CLEAN MODE (Modalidad de Limpieza)"
+      ],
+      "explicacion": "La respuesta correcta es: CLEAN MODE (Modalidad de Limpieza)."
+    },
+    "cocina-67": {
+      "correcta": 3,
+      "opciones": [
+        "5 segundos o menos",
+        "34°F a 40°F",
+        "Color rojo brillante, café o blanco; difícil de separar; muchos cristales de hielo en la superficie",
+        "200°F"
+      ],
+      "explicacion": "La respuesta correcta es: 200°F."
+    },
+    "cocina-68": {
+      "correcta": 3,
+      "opciones": [
+        "48 onzas de agua fría",
+        "Sí",
+        "22 segundos",
+        "En el bote blanco (dedicado solo para la grasa)"
+      ],
+      "explicacion": "La respuesta correcta es: En el bote blanco (dedicado solo para la grasa)."
+    },
+    "cocina-69": {
+      "correcta": 1,
+      "opciones": [
+        "34°F a 40°F",
+        "Con un trapo húmedo de parrilla",
+        "Abastecer 24 horas de suministro de papel y un máximo de 2 horas de porciones congeladas en el congelador terrestre",
+        "Con papel seco"
+      ],
+      "explicacion": "La respuesta correcta es: Con un trapo húmedo de parrilla."
+    },
+    "cocina-70": {
+      "correcta": 1,
+      "opciones": [
+        "155°F",
+        "Llevarlas a la pila para que las laven, enjuague y saniticen",
+        "Weekly",
+        "375°F"
+      ],
+      "explicacion": "La respuesta correcta es: Llevarlas a la pila para que las laven, enjuague y saniticen."
+    },
+    "cocina-71": {
+      "correcta": 2,
+      "opciones": [
+        "Pan caliente, bien tostado y sin aplastar",
+        "Inicial es de 0.400 y terminal es de 0.450 por 20 segundos",
+        "No",
+        "48 onzas de agua fría"
+      ],
+      "explicacion": "La respuesta correcta es: No."
+    },
+    "cocina-72": {
+      "correcta": 2,
+      "opciones": [
+        "De 40 a 140 F°",
+        "150 segundos",
+        "Sí",
+        "5 segundos o menos"
+      ],
+      "explicacion": "La respuesta correcta es: Sí."
+    }
+  }
+}

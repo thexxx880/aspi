@@ -1,0 +1,93 @@
+{
+  "catalogos": [
+    {
+      "id": "mc-cafe",
+      "nombre": "Mc Café",
+      "icono": "☕",
+      "color": "#DA291C",
+      "seccion": "cafe",
+      "descripcion": "Almacenamiento y temperaturas de servicio Mc Café",
+      "fuente": "separado",
+      "archivos": {
+        "productos": "data/mc-cafe/productos.json",
+        "preguntas": "data/mc-cafe/preguntas.json",
+        "respuestas": "data/mc-cafe/respuestas.json"
+      }
+    },
+    {
+      "id": "aspi-couch",
+      "nombre": "Aspi Couch",
+      "icono": "🛋️",
+      "color": "#5B4FCF",
+      "seccion": "equipo",
+      "descripcion": "Repasa y practica preguntas de todas las áreas",
+      "fuente": "repaso-total"
+    },
+    {
+      "id": "cocina",
+      "nombre": "Cocina",
+      "icono": "👨‍🍳",
+      "color": "#E85D04",
+      "seccion": "operaciones",
+      "descripcion": "Tiempos de cocción, temperaturas y estándares de cocina",
+      "fuente": "separado",
+      "archivos": {
+        "preguntas": "data/cocina/preguntas.json",
+        "respuestas": "data/cocina/respuestas.json"
+      }
+    },
+    {
+      "id": "servicio",
+      "nombre": "Servicio",
+      "icono": "🤝",
+      "color": "#2D6A4F",
+      "seccion": "operaciones",
+      "descripcion": "Atención al cliente y experiencia",
+      "fuente": "archivo",
+      "archivo": "data/catalogos/servicio.json"
+    },
+    {
+      "id": "limpieza",
+      "nombre": "Limpieza",
+      "icono": "✨",
+      "color": "#0077B6",
+      "seccion": "operaciones",
+      "descripcion": "Higiene, parrilla, sanitización y orden",
+      "fuente": "separado",
+      "archivos": {
+        "preguntas": "data/limpieza/preguntas.json",
+        "respuestas": "data/limpieza/respuestas.json"
+      }
+    },
+    {
+      "id": "salon",
+      "nombre": "Salón",
+      "icono": "🪑",
+      "color": "#9D4EDD",
+      "seccion": "operaciones",
+      "descripcion": "Mesa, ambiente y experiencia en sala",
+      "fuente": "archivo",
+      "archivo": "data/catalogos/salon.json"
+    },
+    {
+      "id": "desayuno",
+      "nombre": "Desayuno",
+      "icono": "🍳",
+      "color": "#F4A261",
+      "seccion": "operaciones",
+      "descripcion": "Menú matutino y horarios",
+      "fuente": "archivo",
+      "archivo": "data/catalogos/desayuno.json"
+    },
+    {
+      "id": "autoservicio",
+      "nombre": "Autoservicio",
+      "icono": "📱",
+      "color": "#E63946",
+      "seccion": "operaciones",
+      "descripcion": "Kioscos, app y pedidos digitales",
+      "fuente": "archivo",
+      "archivo": "data/catalogos/autoservicio.json"
+    }
+  ]
+}

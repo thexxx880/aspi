@@ -1,0 +1,25 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es la primera impresión que debe dar el personal?",
+      "opciones": ["Indiferencia", "Saludo amable y actitud positiva", "Prisa sin saludar", "Solo entregar el pedido"],
+      "correcta": 1,
+      "explicacion": "Un saludo cálido marca toda la experiencia del cliente."
+    },
+    {
+      "id": 2,
+      "pregunta": "Si un cliente tiene una queja, ¿qué haces primero?",
+      "opciones": ["Discutir", "Escuchar con atención y empatía", "Ignorar", "Culpar a cocina"],
+      "correcta": 1,
+      "explicacion": "Escucha primero, luego busca una solución con calma."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Qué significa 'upselling' correctamente?",
+      "opciones": ["Forzar compras", "Sugerir complementos útiles al cliente", "Subir precios", "No ofrecer nada"],
+      "correcta": 1,
+      "explicacion": "Sugiere opciones que mejoren la experiencia, sin presionar."
+    }
+  ]
+}

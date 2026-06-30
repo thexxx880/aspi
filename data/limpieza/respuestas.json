@@ -1,0 +1,105 @@
+{
+  "catalogo": "limpieza",
+  "respuestas": {
+    "limpieza-01": {
+      "correcta": 1,
+      "opciones": [
+        "En la basura de clientes",
+        "Según el cronograma (varias veces al día)",
+        "COOK MODE (Modalidad de Cocción)",
+        "Nunca"
+      ],
+      "explicacion": "La respuesta correcta es: Según el cronograma (varias veces al día)."
+    },
+    "limpieza-02": {
+      "correcta": 2,
+      "opciones": [
+        "155°F",
+        "Guardado en el bolsillo",
+        "El designado para alimentos (según código de colores)",
+        "Cualquiera"
+      ],
+      "explicacion": "La respuesta correcta es: El designado para alimentos (según código de colores)."
+    },
+    "limpieza-03": {
+      "correcta": 1,
+      "opciones": [
+        "El designado para alimentos (según código de colores)",
+        "Al área de lavado designada",
+        "En el piso",
+        "Paño de baño"
+      ],
+      "explicacion": "La respuesta correcta es: Al área de lavado designada."
+    },
+    "limpieza-parrilla-01": {
+      "correcta": 1,
+      "opciones": [
+        "Una vez al mes",
+        "CLEAN MODE (Modalidad de Limpieza)",
+        "Lavarlas solo con agua en el piso",
+        "El designado para alimentos (según código de colores)"
+      ],
+      "explicacion": "La respuesta correcta es: CLEAN MODE (Modalidad de Limpieza)."
+    },
+    "limpieza-parrilla-02": {
+      "correcta": 2,
+      "opciones": [
+        "Una vez al mes",
+        "Guardarlas en el área de cocina",
+        "200°F",
+        "Llevarlas a la pila para que las laven, enjuague y saniticen"
+      ],
+      "explicacion": "La respuesta correcta es: 200°F."
+    },
+    "limpieza-parrilla-03": {
+      "correcta": 0,
+      "opciones": [
+        "En el bote blanco (dedicado solo para la grasa)",
+        "Con un trapo húmedo de parrilla",
+        "En el piso",
+        "155°F"
+      ],
+      "explicacion": "La respuesta correcta es: En el bote blanco (dedicado solo para la grasa)."
+    },
+    "limpieza-parrilla-04": {
+      "correcta": 1,
+      "opciones": [
+        "Al área de lavado designada",
+        "Con un trapo húmedo de parrilla",
+        "Con papel seco",
+        "No"
+      ],
+      "explicacion": "La respuesta correcta es: Con un trapo húmedo de parrilla."
+    },
+    "limpieza-parrilla-05": {
+      "correcta": 3,
+      "opciones": [
+        "Cualquiera",
+        "En cualquier recipiente disponible",
+        "Una vez al mes",
+        "Llevarlas a la pila para que las laven, enjuague y saniticen"
+      ],
+      "explicacion": "La respuesta correcta es: Llevarlas a la pila para que las laven, enjuague y saniticen."
+    },
+    "limpieza-parrilla-06": {
+      "correcta": 1,
+      "opciones": [
+        "En el bote blanco (dedicado solo para la grasa)",
+        "No",
+        "CLEAN MODE (Modalidad de Limpieza)",
+        "Con papel seco"
+      ],
+      "explicacion": "La respuesta correcta es: No."
+    },
+    "limpieza-parrilla-07": {
+      "correcta": 1,
+      "opciones": [
+        "Nunca",
+        "Sí",
+        "Según el cronograma (varias veces al día)",
+        "155°F"
+      ],
+      "explicacion": "La respuesta correcta es: Sí."
+    }
+  }
+}
