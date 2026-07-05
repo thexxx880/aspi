@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "categoria": "Limpieza",
+    "pregunta_principal": "¿Qué utensilios y químicos se debe utilizar para el procedimiento de limpieza de la parrilla?",
+    "palabras_clave": ["utensilios", "químicos", "limpiar", "parrilla", "plancha", "herramientas", "lavar"],
+    "respuesta_tipo": "lista",
+    "respuesta_texto": "Se deben utilizar los siguientes elementos:",
+    "respuesta_lista": [
+      "Guante de Neopreno",
+      "Brazo para limpieza de parrilla",
+      "Base para desayuno",
+      "Trapos de parrilla",
+      "Recipiente de acero inoxidable para agua caliente",
+      "1 sobre de Hi Temp para cada plancha",
+      "Gabacha (Misma gabacha de filtrado)"
+    ]
+  },
+  {
+    "id": 2,
+    "categoria": "Operación",
+    "pregunta_principal": "¿Qué significa CLEAN MODE?",
+    "palabras_clave": ["clean mode", "significado", "modo", "clean", "parrilla"],
+    "respuesta_tipo": "texto",
+    "respuesta_texto": "Significa 'Modalidad de limpieza'.",
+    "respuesta_lista": []
+  },
+  {
+    "id": 3,
+    "categoria": "Limpieza",
+    "pregunta_principal": "¿A qué temperatura debe estar la parrilla para iniciar la limpieza?",
+    "palabras_clave": ["temperatura", "grados", "iniciar", "limpieza", "parrilla", "plancha", "hi temp"],
+    "respuesta_tipo": "texto",
+    "respuesta_texto": "A 200°F. A esta temperatura el Hi Temp eliminará todo el sarro y grasa de la plancha sin evaporarse.",
+    "respuesta_lista": []
+  },
+  {
+    "id": 4,
+    "categoria": "Limpieza",
+    "pregunta_principal": "¿Dónde debe ir la grasa del canal?",
+    "palabras_clave": ["grasa", "canal", "botar", "tirar", "desperdicio", "bote"],
+    "respuesta_tipo": "texto",
+    "respuesta_texto": "En el bote blanco (dedicado solo para la grasa).",
+    "respuesta_lista": []
+  },
+  {
+    "id": 5,
+    "categoria": "Limpieza",
+    "pregunta_principal": "¿Cómo se debe limpiar los teflones de la parrilla?",
+    "palabras_clave": ["limpiar", "teflones", "parrilla", "plancha", "teflon"],
+    "respuesta_tipo": "texto",
+    "respuesta_texto": "Con un trapo de parrilla húmedo, colocándolo en una superficie plana.",
+    "respuesta_lista": []
+  },
+  {
+    "id": 6,
+    "categoria": "Limpieza",
+    "pregunta_principal": "¿Cómo se llama el bracito azul para limpieza de parrilla?",
+    "palabras_clave": ["nombre", "bracito", "azul", "limpieza", "parrilla", "herramienta"],
+    "respuesta_tipo": "texto",
+    "respuesta_texto": "Se llama PAD CLAMSHELL.",
+    "respuesta_lista": []
+  },
+  {
+    "id": 7,
+    "categoria": "Ensamblaje Desayuno",
+    "pregunta_principal": "¿Qué lleva un Egg McMuffin?",
+    "palabras_clave": ["ingredientes", "lleva", "egg mcmuffin", "receta", "armar", "huevo"],
+    "respuesta_tipo": "lista",
+    "respuesta_texto": "El orden de ensamblaje es el siguiente:",
+    "respuesta_lista": [
+      "Corona muffin (con mantequilla)",
+      "Jamón",
+      "Huevo redondo",
+      "Queso amarillo",
+      "Base muffin"
+    ]
+  },
+  {
+    "id": 8,
+    "categoria": "Ensamblaje Desayuno",
+    "pregunta_principal": "¿Qué lleva un McMuffin de salchicha?",
+    "palabras_clave": ["ingredientes", "lleva", "mcmuffin de salchicha", "receta", "armar"],
+    "respuesta_tipo": "lista",
+    "respuesta_texto": "El orden de ensamblaje es el siguiente:",
+    "respuesta_lista": [
+      "Corona muffin (con mantequilla)",
+      "Torta de salchicha",
+      "Queso amarillo",
+      "Base muffin"
+    ]
+  },
+  {
+    "id": 9,
+    "categoria": "Ensamblaje Desayuno",
+    "pregunta_principal": "¿Qué lleva un McMuffin de salchicha y huevo?",
+    "palabras_clave": ["ingredientes", "lleva", "mcmuffin de salchicha huevo", "receta", "armar"],
+    "respuesta_tipo": "lista",
+    "respuesta_texto": "El orden de ensamblaje es el siguiente:",
+    "respuesta_lista": [
+      "Corona muffin (con mantequilla)",
+      "Huevo redondo",
+      "Torta de salchicha",
+      "Queso amarillo",
+      "Base muffin"
+    ]
+  },
+  {
+    "id": 10,
+    "categoria": "Ensamblaje Desayuno",
+    "pregunta_principal": "¿Cuánto es el tiempo de ensamblaje de un sándwich?",
+    "palabras_clave": ["tiempo", "ensamblaje", "armar", "sándwich", "segundos", "rapidez"],
+    "respuesta_tipo": "texto",
+    "respuesta_texto": "Es de 35 a 50 segundos.",
+    "respuesta_lista": []
+  },
+  {
+    "id": 11,
+    "categoria": "Higiene",
+    "pregunta_principal": "¿Por cuánto tiempo debemos lavarnos las manos?",
+    "palabras_clave": ["tiempo", "lavarnos", "manos", "higiene", "segundos", "lavado"],
+    "respuesta_tipo": "texto",
+    "respuesta_texto": "Por 20 segundos.",
+    "respuesta_lista": []
+  },
+  {
+    "id": 12,
+    "categoria": "Freidoras",
+    "pregunta_principal": "¿Qué espera el cliente de unas Hashbrowns?",
+    "palabras_clave": ["espera", "cliente", "hashbrowns", "calidad", "papa"],
+    "respuesta_tipo": "lista",
+    "respuesta_texto": "El cliente espera que las hashbrowns tengan estas 3 características:",
+    "respuesta_lista": [
+      "Calientes",
+      "Exterior crujiente",
+      "Dorados"
+    ]
+  },
+  {
+    "id": 13,
+    "categoria": "Freidoras",
+    "pregunta_principal": "¿Cuánto es la tanda máxima de hashbrowns por cesta?",
+    "palabras_clave": ["tanda", "máxima", "cantidad", "hashbrowns", "cesta", "límite"],
+    "respuesta_tipo": "texto",
+    "respuesta_texto": "8 unidades.",
+    "respuesta_lista": []
+  },
+  {
+    "id": 14,
+    "categoria": "Freidoras",
+    "pregunta_principal": "¿Cuánto es el tiempo de espera tras sacar una cesta de una tina?",
+    "palabras_clave": ["tiempo", "espera", "sacar", "cesta", "tina", "freidora", "hashbrowns"],
+    "respuesta_tipo": "texto",
+    "respuesta_texto": "30 segundos.",
+    "respuesta_lista": []
+  },
+  {
+    "id": 15,
+    "categoria": "Freidoras",
+    "pregunta_principal": "¿Cuánto es el tiempo de espera para escurrir una cesta?",
+    "palabras_clave": ["tiempo", "espera", "escurrir", "cesta", "aceite", "freidora"],
+    "respuesta_tipo": "texto",
+    "respuesta_texto": "De 5 a 10 segundos.",
+    "respuesta_lista": []
+  },
+  {
+    "id": 16,
+    "categoria": "Freidoras",
+    "pregunta_principal": "¿Cuáles son los 6 enemigos del aceite?",
+    "palabras_clave": ["enemigos", "aceite", "arruina", "daña", "seis", "manteca"],
+    "respuesta_tipo": "lista",
+    "respuesta_texto": "Los 6 enemigos del aceite son:",
+    "respuesta_lista": [
+      "Carbón",
+      "Aire",
+      "Sal",
+      "Calor",
+      "Detergente",
+      "Agua"
+    ]
+  }
+]
