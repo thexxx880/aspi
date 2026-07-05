@@ -1,182 +1,740 @@
 [
   {
     "id": 1,
-    "categoria": "Limpieza",
-    "pregunta_principal": "¿Qué utensilios y químicos se debe utilizar para el procedimiento de limpieza de la parrilla?",
-    "palabras_clave": ["utensilios", "químicos", "limpiar", "parrilla", "plancha", "herramientas", "lavar"],
-    "respuesta_tipo": "lista",
-    "respuesta_texto": "Se deben utilizar los siguientes elementos:",
-    "respuesta_lista": [
-      "Guante de Neopreno",
-      "Brazo para limpieza de parrilla",
-      "Base para desayuno",
-      "Trapos de parrilla",
-      "Recipiente de acero inoxidable para agua caliente",
-      "1 sobre de Hi Temp para cada plancha",
-      "Gabacha (Misma gabacha de filtrado)"
-    ]
+    "pregunta": "¿Qué utensilios y químicos se debe utilizar para el procedimiento de limpieza de la parrilla?",
+    "respuesta": "1. Guante de Neopreno, 2. Brazo para limpieza de parrilla, 3. Base para desayuno, 4. Trapos de parrilla, 5. Recipiente de acero inoxidable para agua caliente, 6. 1 sobre de Hi Temp para cada plancha, 7. Gabacha (Misma gabacha de filtrado)",
+    "palabras_clave": ["utensilios", "químicos", "limpieza", "parrilla", "hi temp", "gabacha"]
   },
   {
     "id": 2,
-    "categoria": "Operación",
-    "pregunta_principal": "¿Qué significa CLEAN MODE?",
-    "palabras_clave": ["clean mode", "significado", "modo", "clean", "parrilla"],
-    "respuesta_tipo": "texto",
-    "respuesta_texto": "Significa 'Modalidad de limpieza'.",
-    "respuesta_lista": []
+    "pregunta": "¿Qué significa CLEAN MODE?",
+    "respuesta": "Modalidad de limpieza",
+    "palabras_clave": ["clean mode", "significado", "modalidad", "limpieza"]
   },
   {
     "id": 3,
-    "categoria": "Limpieza",
-    "pregunta_principal": "¿A qué temperatura debe estar la parrilla para iniciar la limpieza?",
-    "palabras_clave": ["temperatura", "grados", "iniciar", "limpieza", "parrilla", "plancha", "hi temp"],
-    "respuesta_tipo": "texto",
-    "respuesta_texto": "A 200°F. A esta temperatura el Hi Temp eliminará todo el sarro y grasa de la plancha sin evaporarse.",
-    "respuesta_lista": []
+    "pregunta": "¿A qué temperatura debe estar la parrilla para iniciar la limpieza?",
+    "respuesta": "A 200°F a esta temperatura el Hi Temp eliminara todo el sarro y grasa de la plancha sin evaporarse",
+    "palabras_clave": ["temperatura", "parrilla", "limpieza", "200°f", "hi temp"]
   },
   {
     "id": 4,
-    "categoria": "Limpieza",
-    "pregunta_principal": "¿Dónde debe ir la grasa del canal?",
-    "palabras_clave": ["grasa", "canal", "botar", "tirar", "desperdicio", "bote"],
-    "respuesta_tipo": "texto",
-    "respuesta_texto": "En el bote blanco (dedicado solo para la grasa).",
-    "respuesta_lista": []
+    "pregunta": "¿Dónde debe ir la grasa del canal?",
+    "respuesta": "En el bote blanco (dedicado solo para la grasa)",
+    "palabras_clave": ["grasa", "canal", "bote blanco"]
   },
   {
     "id": 5,
-    "categoria": "Limpieza",
-    "pregunta_principal": "¿Cómo se debe limpiar los teflones de la parrilla?",
-    "palabras_clave": ["limpiar", "teflones", "parrilla", "plancha", "teflon"],
-    "respuesta_tipo": "texto",
-    "respuesta_texto": "Con un trapo de parrilla húmedo, colocándolo en una superficie plana.",
-    "respuesta_lista": []
+    "pregunta": "¿Cómo se debe limpiar los teflones de la parrilla?",
+    "respuesta": "Con un trapo de parrilla húmedo, colocándolo en una superficie plana",
+    "palabras_clave": ["limpiar", "teflones", "parrilla", "trapo"]
   },
   {
     "id": 6,
-    "categoria": "Limpieza",
-    "pregunta_principal": "¿Cómo se llama el bracito azul para limpieza de parrilla?",
-    "palabras_clave": ["nombre", "bracito", "azul", "limpieza", "parrilla", "herramienta"],
-    "respuesta_tipo": "texto",
-    "respuesta_texto": "Se llama PAD CLAMSHELL.",
-    "respuesta_lista": []
+    "pregunta": "¿Cómo se llama el bracito azul para limpieza de parrilla?",
+    "respuesta": "PAD CLAMSHELL",
+    "palabras_clave": ["bracito azul", "limpieza", "parrilla", "pad clamshell"]
   },
   {
     "id": 7,
-    "categoria": "Ensamblaje Desayuno",
-    "pregunta_principal": "¿Qué lleva un Egg McMuffin?",
-    "palabras_clave": ["ingredientes", "lleva", "egg mcmuffin", "receta", "armar", "huevo"],
-    "respuesta_tipo": "lista",
-    "respuesta_texto": "El orden de ensamblaje es el siguiente:",
-    "respuesta_lista": [
-      "Corona muffin (con mantequilla)",
-      "Jamón",
-      "Huevo redondo",
-      "Queso amarillo",
-      "Base muffin"
-    ]
+    "pregunta": "¿Qué lleva un egg McMuffin?",
+    "respuesta": "1. corona muffin (con mantequilla), 2. jamon, 3. huevo redondo, 4. queso amarillo, 5. base muffin",
+    "palabras_clave": ["egg mcmuffin", "lleva", "ingredientes"]
   },
   {
     "id": 8,
-    "categoria": "Ensamblaje Desayuno",
-    "pregunta_principal": "¿Qué lleva un McMuffin de salchicha?",
-    "palabras_clave": ["ingredientes", "lleva", "mcmuffin de salchicha", "receta", "armar"],
-    "respuesta_tipo": "lista",
-    "respuesta_texto": "El orden de ensamblaje es el siguiente:",
-    "respuesta_lista": [
-      "Corona muffin (con mantequilla)",
-      "Torta de salchicha",
-      "Queso amarillo",
-      "Base muffin"
-    ]
+    "pregunta": "¿Qué lleva un McMuffin de salchicha?",
+    "respuesta": "1. corona muffin (con mantequilla), 2. torta de salchicha, 3. queso amarillo, 4. base muffin",
+    "palabras_clave": ["mcmuffin de salchicha", "lleva", "ingredientes"]
   },
   {
     "id": 9,
-    "categoria": "Ensamblaje Desayuno",
-    "pregunta_principal": "¿Qué lleva un McMuffin de salchicha y huevo?",
-    "palabras_clave": ["ingredientes", "lleva", "mcmuffin de salchicha huevo", "receta", "armar"],
-    "respuesta_tipo": "lista",
-    "respuesta_texto": "El orden de ensamblaje es el siguiente:",
-    "respuesta_lista": [
-      "Corona muffin (con mantequilla)",
-      "Huevo redondo",
-      "Torta de salchicha",
-      "Queso amarillo",
-      "Base muffin"
-    ]
+    "pregunta": "¿Qué lleva un mc muffin de salchicha huevo?",
+    "respuesta": "1. corona muffin (con mantequilla), 2. huevo redondo, 3. torta de salchicha, 4. queso amarillo, 5. base muffin",
+    "palabras_clave": ["mc muffin de salchicha huevo", "lleva", "ingredientes"]
   },
   {
     "id": 10,
-    "categoria": "Ensamblaje Desayuno",
-    "pregunta_principal": "¿Cuánto es el tiempo de ensamblaje de un sándwich?",
-    "palabras_clave": ["tiempo", "ensamblaje", "armar", "sándwich", "segundos", "rapidez"],
-    "respuesta_tipo": "texto",
-    "respuesta_texto": "Es de 35 a 50 segundos.",
-    "respuesta_lista": []
+    "pregunta": "¿Cuánto es el tiempo de emsanblaje de un sándwich?",
+    "respuesta": "es de 35 a 50 segundos",
+    "palabras_clave": ["tiempo", "emsanblaje", "ensamblaje", "sándwich"]
   },
   {
     "id": 11,
-    "categoria": "Higiene",
-    "pregunta_principal": "¿Por cuánto tiempo debemos lavarnos las manos?",
-    "palabras_clave": ["tiempo", "lavarnos", "manos", "higiene", "segundos", "lavado"],
-    "respuesta_tipo": "texto",
-    "respuesta_texto": "Por 20 segundos.",
-    "respuesta_lista": []
+    "pregunta": "¿Por cuánto tiempo debemos lavarnos las manos?",
+    "respuesta": "20 segundos",
+    "palabras_clave": ["tiempo", "lavarnos las manos", "20 segundos"]
   },
   {
     "id": 12,
-    "categoria": "Freidoras",
-    "pregunta_principal": "¿Qué espera el cliente de unas Hashbrowns?",
-    "palabras_clave": ["espera", "cliente", "hashbrowns", "calidad", "papa"],
-    "respuesta_tipo": "lista",
-    "respuesta_texto": "El cliente espera que las hashbrowns tengan estas 3 características:",
-    "respuesta_lista": [
-      "Calientes",
-      "Exterior crujiente",
-      "Dorados"
-    ]
+    "pregunta": "¿Qué espera el cliente de unas hasbrowns?",
+    "respuesta": "1. Calientes, 2. Exterior crujiente, 3. Dorados",
+    "palabras_clave": ["espera", "cliente", "hasbrowns", "hashbrowns"]
   },
   {
     "id": 13,
-    "categoria": "Freidoras",
-    "pregunta_principal": "¿Cuánto es la tanda máxima de hashbrowns por cesta?",
-    "palabras_clave": ["tanda", "máxima", "cantidad", "hashbrowns", "cesta", "límite"],
-    "respuesta_tipo": "texto",
-    "respuesta_texto": "8 unidades.",
-    "respuesta_lista": []
+    "pregunta": "¿Cuánto es la tanda máxima de hashbrowns por cesta?",
+    "respuesta": "8 unidades",
+    "palabras_clave": ["tanda máxima", "hashbrowns", "cesta", "8 unidades"]
   },
   {
     "id": 14,
-    "categoria": "Freidoras",
-    "pregunta_principal": "¿Cuánto es el tiempo de espera tras sacar una cesta de una tina?",
-    "palabras_clave": ["tiempo", "espera", "sacar", "cesta", "tina", "freidora", "hashbrowns"],
-    "respuesta_tipo": "texto",
-    "respuesta_texto": "30 segundos.",
-    "respuesta_lista": []
+    "pregunta": "¿Cuánto es el tiempo de espera tras sacar una cesta de una tina?",
+    "respuesta": "30 segundos",
+    "palabras_clave": ["tiempo de espera", "sacar", "cesta", "tina", "30 segundos"]
   },
   {
     "id": 15,
-    "categoria": "Freidoras",
-    "pregunta_principal": "¿Cuánto es el tiempo de espera para escurrir una cesta?",
-    "palabras_clave": ["tiempo", "espera", "escurrir", "cesta", "aceite", "freidora"],
-    "respuesta_tipo": "texto",
-    "respuesta_texto": "De 5 a 10 segundos.",
-    "respuesta_lista": []
+    "pregunta": "¿Cuánto es el tiempo de espera para escurrir una cestas?",
+    "respuesta": "de 5 a 10 segundos",
+    "palabras_clave": ["tiempo de espera", "escurrir", "cestas"]
   },
   {
     "id": 16,
-    "categoria": "Freidoras",
-    "pregunta_principal": "¿Cuáles son los 6 enemigos del aceite?",
-    "palabras_clave": ["enemigos", "aceite", "arruina", "daña", "seis", "manteca"],
-    "respuesta_tipo": "lista",
-    "respuesta_texto": "Los 6 enemigos del aceite son:",
-    "respuesta_lista": [
-      "Carbón",
-      "Aire",
-      "Sal",
-      "Calor",
-      "Detergente",
-      "Agua"
-    ]
+    "pregunta": "¿Cuáles son los 6 enemigos del aceite?",
+    "respuesta": "1. carbon, 2. aire, 3. sal, 4. calor, 5. detergente, 6. agua",
+    "palabras_clave": ["6 enemigos", "aceite", "carbón", "aire", "sal", "calor", "detergente", "agua"]
+  },
+  {
+    "id": 17,
+    "pregunta": "¿A qué temperatura debe estar el aceite de la freidora para cocinar hashbrowns?",
+    "respuesta": "a 360°F",
+    "palabras_clave": ["temperatura", "aceite", "freidora", "hashbrowns", "360°f"]
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cuál es la temperatura correcta para los extremos y el lado central en la tostadora modelo Vct-250?",
+    "respuesta": "400°F en los extremos y 560°F en el lado central",
+    "palabras_clave": ["temperatura correcta", "extremos", "lado central", "tostadora", "vct-250"]
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Cuál es el tiempo de vida de las hashbrowns?",
+    "respuesta": "10 minutos",
+    "palabras_clave": ["tiempo de vida", "hashbrowns", "10 minutos"]
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuál es el tiempo de vida de la mezcla de hotcake a temperatura ambiente?",
+    "respuesta": "2 horas",
+    "palabras_clave": ["tiempo de vida", "mezcla", "hotcake", "temperatura ambiente"]
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Cuál es el tiempo de vida de la mezcla de hotcake en refrigeración?",
+    "respuesta": "todo el turno de desayuno, al terminar el turno se desecha",
+    "palabras_clave": ["tiempo de vida", "mezcla", "hotcake", "refrigeración"]
+  },
+  {
+    "id": 22,
+    "pregunta": "Utensilios de preparación mezcla de HotCake:",
+    "respuesta": "•Dispensador de hotcake, •Espátula de para hotcake, •Recipiente medidor (pichel Plástico), •Taza brix para calibración de dispensador, •Batidor de acero inoxidable, •Espátula de goma",
+    "palabras_clave": ["utensilios", "preparación", "mezcla", "hotcake"]
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Cuántas oz. (Onzas) de harina tiene un paquete o lote de hotcakes?",
+    "respuesta": "38.5 onzas",
+    "palabras_clave": ["onzas", "harina", "paquete", "lote", "hotcakes", "38.5"]
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Cuántas onzas de agua se le debe agregar a la harina para hacer la mezcla de hotcake?",
+    "respuesta": "48 onzas de agua fluidas de agua fría",
+    "palabras_clave": ["onzas", "agua", "harina", "mezcla", "hotcake", "48"]
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Por cuánto tiempo se debe batir la mezcla de hotcake?",
+    "respuesta": "por 2 minutos",
+    "palabras_clave": ["tiempo", "batir", "mezcla", "hotcake", "2 minutos"]
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Cuál es la frecuencia establecida para el lavado de manos y la aplicación de gel desinfectante según las normas de seguridad?",
+    "respuesta": "lavado de manos cada hora y el gel cada 30 minutos",
+    "palabras_clave": ["frecuencia", "lavado de manos", "gel desinfectante", "normas", "seguridad"]
+  },
+  {
+    "id": 27,
+    "pregunta": "En el ensamble de desayuno, ¿cuál es la función específica de las espátulas Hutzler de color AMARILLO?",
+    "respuesta": "exclusivamente para romper las yemas de los huevos redondos",
+    "palabras_clave": ["ensamble", "desayuno", "función", "espátulas", "hutzler", "amarillo"]
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cuál es el tiempo estándar de ensamble para un sándwich tanto en desayuno como en almuerzo?",
+    "respuesta": "de 35 a 50 segundos",
+    "palabras_clave": ["tiempo estándar", "ensamble", "sándwich", "desayuno", "almuerzo"]
+  },
+  {
+    "id": 29,
+    "pregunta": "En el puesto de Iniciador de almuerzo, ¿cuánto tiempo tiene como máximo para reaccionar al monitor de órdenes?",
+    "respuesta": "5 segundos o menos",
+    "palabras_clave": ["puesto", "iniciador", "almuerzo", "tiempo máximo", "reaccionar", "monitor"]
+  },
+  {
+    "id": 30,
+    "pregunta": "De acuerdo con la receta de la Big Mac, ¿cuál es la cantidad correcta de lechuga que se debe colocar por nivel?",
+    "respuesta": "1/3 onzas de lechuga",
+    "palabras_clave": ["receta", "big mac", "cantidad", "lechuga", "nivel", "1/3"]
+  },
+  {
+    "id": 31,
+    "pregunta": "Para la tostadora de alta eficiencia modelo HEBT-5V, ¿cuáles son las configuraciones correctas de dial y tiempo?",
+    "respuesta": "Dial en 4 y 2 segundos",
+    "palabras_clave": ["tostadora", "alta eficiencia", "hebt-5v", "configuraciones", "dial", "tiempo"]
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Cuál es el orden de ingredientes correcto para un Egg McMuffin, desde la base hacia arriba?",
+    "respuesta": "Base de pan muffin, queso amarillo, huevo redondo, jamon, corona con mantequilla",
+    "palabras_clave": ["orden", "ingredientes", "egg mcmuffin", "base", "arriba"]
+  },
+  {
+    "id": 33,
+    "pregunta": "Al preparar la Ensalada Californiana, ¿cuáles son las porciones correctas de vegetales?",
+    "respuesta": "4 onzas de lechuga, 0.5 onzas de zanahoria, 0.5 onzas de repollo y 4 gajos de tomate",
+    "palabras_clave": ["ensalada californiana", "porciones", "vegetales", "lechuga", "zanahoria", "repollo", "tomate"]
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Cuál es la señal que indica al Iniciador que debe dejar de tostar panes y comenzar a ayudar con el ensamble?",
+    "respuesta": "cuando salgan los dos primeros panes del tostador",
+    "palabras_clave": ["señal", "iniciador", "dejar de tostar", "ayudar", "ensamble"]
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Cómo debe partirse el tocino para los productos de desayuno que lo requieran (como el McGriddle de Tocino)?",
+    "respuesta": "por la mitad usando los pulgares cerca uno del otro",
+    "palabras_clave": ["partirse", "tocino", "desayuno", "mcgriddle", "mitad", "pulgares"]
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Cuál es el tiempo de calentamiento estándar requerido para ambos modelos de tostadoras (HEBT-5V y Vct-250) antes de iniciar la operación?",
+    "respuesta": "30 minutos",
+    "palabras_clave": ["tiempo", "calentamiento", "tostadoras", "hebt-5v", "vct-250", "30 minutos"]
+  },
+  {
+    "id": 37,
+    "pregunta": "Al aderezar los productos durante el ensamble de almuerzo, ¿a qué altura se debe agregar la salsa de forma estandarizada?",
+    "respuesta": "a 1 pulgada de altura",
+    "palabras_clave": ["aderezar", "ensamble", "almuerzo", "altura", "salsa", "1 pulgada"]
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Cuál es el número máximo de productos que se permite omnibus ensamblar a la vez para garantizar la calidad y temperatura?",
+    "respuesta": "dos productos a la vez, uno por mano",
+    "palabras_clave": ["número máximo", "productos", "ensamblar", "calidad", "temperatura"]
+  },
+  {
+    "id": 39,
+    "pregunta": "En el modelo de tostadora Vct-250, ¿en qué posición específica se debe colocar el dial de control?",
+    "respuesta": "Dial en 5-D",
+    "palabras_clave": ["modelo", "tostadora", "vct-250", "posición", "dial", "5-d"]
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Cuál es el orden de ingredientes correcto para una Quesoburguesa regular, comenzando desde la base del pan?",
+    "respuesta": "base, carne regular, queso amarillo, mostaza/kétchup, cebolla, pepinillo, corona",
+    "palabras_clave": ["orden", "ingredientes", "quesoburguesa", "base", "pan"]
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Cuáles son las temperaturas asignadas a las tres placas (A, B y C) de la tostadora de alta eficiencia HEBT-5V?",
+    "respuesta": "Placa A: 520°F, Placa B: 520°F y Placa C: 490°F",
+    "palabras_clave": ["temperaturas", "placas", "tostadora", "hebt-5v", "520°f", "490°f"]
+  },
+  {
+    "id": 42,
+    "pregunta": "Durante la revisión del equipo al entrar al puesto de Iniciador, ¿cuál es una acción obligatoria respecto a las jabas de pan?",
+    "respuesta": "verificar tiempo de vida del producto de cada jaba y tipo de pan",
+    "palabras_clave": ["revisión", "equipo", "iniciador", "jabas de pan", "tiempo de vida"]
+  },
+  {
+    "id": 43,
+    "pregunta": "En el flujo de la línea de ensamble de sándwiches, ¿en qué dirección específica deben colocarse las bases de los panes?",
+    "respuesta": "Las bases deben ir en dirección del UHC",
+    "palabras_clave": ["flujo", "línea", "ensamble", "sándwiches", "dirección", "bases", "panes", "uhc"]
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Qué acción debe tomar el personal de manera inmediata si identifica que un ingrediente no cumple con su tiempo de vida secundario?",
+    "respuesta": "Desecharlo de inmediatamente",
+    "palabras_clave": ["acción", "personal", "ingrediente", "tiempo de vida secundario", "deseceharlo"]
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Cuál es la porción correcta de lechuga que lleva un sándwich McPollo clásico según la guía de ensamble?",
+    "respuesta": "1/2 onza",
+    "palabras_clave": ["porción", "lechuga", "sándwich", "mcpollo", "1/2 onza"]
+  },
+  {
+    "id": 46,
+    "pregunta": "De acuerdo con el boletín de desayuno, ¿cuántas medias tiras de tocino se deben incluir en un McGriddle de Tocino y Huevo?",
+    "respuesta": "2 medias tiras de tocino",
+    "palabras_clave": ["boletín", "desayuno", "medias tiras", "tocino", "mcgriddle", "2"]
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Cuál es una de las principales razones para utilizar utensilios (pinzas o espátulas) estrictamente dedicados para cada tipo de proteína en la cocina?",
+    "respuesta": "para prevenir la contaminación cruzada y reducir l posibilidad de causar reacciones alérgicas",
+    "palabras_clave": ["razones", "utensilios", "dedicados", "proteína", "contaminación cruzada", "alérgicas"]
+  },
+  {
+    "id": 48,
+    "pregunta": "En el puesto de Iniciador, ¿cuál es el tiempo máximo permitido para observar el monitor de órdenes and reaccionar ante una nueva comanda?",
+    "respuesta": "5 segundos o menos",
+    "palabras_clave": ["puesto", "iniciador", "tiempo máximo", "observar", "monitor", "comanda"]
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Quién es el miembro del equipo responsable directo de solicitar el surtido de ingredientes y cajetas al preparador cuando nota que se van a agotar?",
+    "respuesta": "El emsablador",
+    "palabras_clave": ["miembro", "responsable", "solicitar", "surtido", "ingredientes", "cajetas", "emsablador"]
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Cuál es la responsabilidad operativa asignada respecto a mantener los dispensadores de salsa siempre bien surtidos en almuerzo?",
+    "respuesta": "Le corresponde al ensamblador",
+    "palabras_clave": ["responsabilidad", "dispensadores de salsa", "surtidos", "almuerzo", "ensamblador"]
+  },
+  {
+    "id": 51,
+    "pregunta": "Al momento de trasladar un producto terminado hacia la OAT (Bin de transferencia), ¿como debe realizarse el movimiento?",
+    "respuesta": "Deslizandolo sin lastimar el producto",
+    "palabras_clave": ["trasladar", "producto terminado", "oat", "bin", "movimiento", "deslizandolo"]
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Cuál es el tiempo de lavado de manos estandarizado y el tipo de jabón especificado en los boletines de inocuidad de McDonald's Mesoamérica?",
+    "respuesta": "20 segundos",
+    "palabras_clave": ["tiempo", "lavado de manos", "boletines", "inocuidad", "20 segundos"]
+  },
+  {
+    "id": 53,
+    "pregunta": "En el ensamble de almuerzo, ¿cuál es el procedimiento que ejecuta el Iniciador inmediatamente después de observar una orden en el monitor?",
+    "respuesta": "responde a la orden y coloca el pan dentro del tostador",
+    "palabras_clave": ["ensamble", "almuerzo", "procedimiento", "iniciador", "observar orden", "tostador"]
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Qué acción realiza el Iniciador en el paso número 2 del procedimiento de armado tras colocar el pan en la tostadora?",
+    "respuesta": "toma la cajeta y la identifica según el producto a preparar",
+    "palabras_clave": ["acción", "iniciador", "paso 2", "armado", "cajeta", "identifica"]
+  },
+  {
+    "id": 55,
+    "pregunta": "En el flujo de ensamble, ¿cuándo se debe borrar la orden del monitor KVS si el proceso es compartido?",
+    "respuesta": "cuando el ensamblador se hace cargo de la preparación",
+    "palabras_clave": ["flujo", "ensamble", "borrar orden", "monitor", "kvs", "compartido"]
+  },
+  {
+    "id": 56,
+    "pregunta": "Durante el proceso en el sándwich Big Mac, ¿cuál es el volumen exacto de salsa especial que se distribuye entre sus niveles?",
+    "respuesta": "1/2 onzas de salsa big mac",
+    "palabras_clave": ["proceso", "sándwich", "big mac", "volumen exacto", "salsa", "1/2 onzas"]
+  },
+  {
+    "id": 57,
+    "pregunta": "Al preparar el sándwich de desayuno Egg McMuffin, ¿cuál es la proteína y el tipo de huevo exacto que dictamina el manual?",
+    "respuesta": "jamon y huevo redondo",
+    "palabras_clave": ["preparar", "sándwich", "desayuno", "egg mcmuffin", "proteína", "huevo redondo"]
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Cuáles son las condiciones de calidad que debe cumplir el pan al ser revisado en la estación del Iniciador?",
+    "respuesta": "bien descongelado, pan fresco listo para usar y pan resiliente",
+    "palabras_clave": ["condiciones", "calidad", "pan", "revisado", "estación", "iniciador"]
+  },
+  {
+    "id": 59,
+    "pregunta": "Mientras el pan se encuentra dentro del proceso de tostado, ¿qué tarea simultánea debe realizar el Iniciador según el protocolo?",
+    "respuesta": "imprimir el ticket de producto especiales y colocarlos en la cajeta o papel de empaque",
+    "palabras_clave": ["proceso de tostado", "tarea simultánea", "iniciador", "ticket", "cajeta", "empaque"]
+  },
+  {
+    "id": 60,
+    "pregunta": "En la preparación de la Ensalada Californiana, ¿cuál es el peso normado para la porción de zanahoria?",
+    "respuesta": "0.5 onzas",
+    "palabras_clave": ["preparación", "ensalada californiana", "peso normado", "zanahoria", "0.5 onzas"]
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Cuál es la consecuencia directa de utilizar una espátula Hutzler de color AMARILLO para colocar o armar un sándwich de desayuno terminado?",
+    "respuesta": "se genera un riesgo critico de contaminación cruzada por residuos de huevo crudo o alergenos",
+    "palabras_clave": ["consecuencia", "espátula hutzler", "amarillo", "sándwich", "contaminación cruzada"]
+  },
+  {
+    "id": 62,
+    "pregunta": "En el ensamble de almuerzo, ¿con qué frecuencia mínima obligatoria se debe aplicar gel desinfectante en las manos?",
+    "respuesta": "cada 30 minutos como mínimo",
+    "palabras_clave": ["ensamble", "almuerzo", "frecuencia mínima", "gel desinfectante", "manos", "30 minutos"]
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Qué tipo de guantes específicos deben estar disponibles y utilizarse correctamente en la línea para prevenir contaminación según las guías?",
+    "respuesta": "guantes transparentes y azules",
+    "palabras_clave": ["tipo", "guantes", "disponibles", "línea", "prevenir contaminación", "transparentes", "azules"]
+  },
+  {
+    "id": 64,
+    "pregunta": "Durante el armado de un sándwich de almuerzo, ¿en qué punto del pan se deben colocar de forma obligatoria todos los ingredientes vegetales y aderezos?",
+    "respuesta": "exactamente en el centro del pan",
+    "palabras_clave": ["armado", "sándwich", "almuerzo", "punto del pan", "ingredientes", "vegetales", "centro"]
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Cuál es el tiempo de tostado exacto programado en el dial para los panes en la tostadora vertical de alta eficiencia HEBT-5V?",
+    "respuesta": "22 segundos",
+    "palabras_clave": ["tiempo de tostado", "dial", "panes", "tostadora", "hebt-5v", "22 segundos"]
+  },
+  {
+    "id": 66,
+    "pregunta": "En el sándwich Big Mac, ¿cuál es el pan intermedio que divide las dos tortas de carne regular y cómo se denomina?",
+    "respuesta": "club",
+    "palabras_clave": ["sándwich", "big mac", "pan intermedio", "divide", "carne", "club"]
+  },
+  {
+    "id": 67,
+    "pregunta": "Tiempo de cocción de la carne 10:1?",
+    "respuesta": "39 segundos",
+    "palabras_clave": ["tiempo de cocción", "carne 10:1", "39 segundos"]
+  },
+  {
+    "id": 68,
+    "pregunta": "Tiempo de cocción de la carne 4:1?",
+    "respuesta": "110 segundos",
+    "palabras_clave": ["tiempo de cocción", "carne 4:1", "110 segundos"]
+  },
+  {
+    "id": 69,
+    "pregunta": "Tiempo de cocción de la carne 3:1?",
+    "respuesta": "158 segundos",
+    "palabras_clave": ["tiempo de cocción", "carne 3:1", "158 segundos"]
+  },
+  {
+    "id": 70,
+    "pregunta": "Tiempo de cocción del tocino?",
+    "respuesta": "160 +/_ 5 segundos",
+    "palabras_clave": ["tiempo de cocción", "tocino", "160 segundos"]
+  },
+  {
+    "id": 71,
+    "pregunta": "Tiempo de cocción de las grilles?",
+    "respuesta": "225 el primer lado y 165 segundos el segundo lado",
+    "palabras_clave": ["tiempo de cocción", "grilles", "225", "165"]
+  },
+  {
+    "id": 72,
+    "pregunta": "El gap de la carne 10-1?",
+    "respuesta": "Inicial es de 0.225 y final de 0.290 por 20 segundos",
+    "palabras_clave": ["gap", "carne 10-1", "inicial", "final"]
+  },
+  {
+    "id": 73,
+    "pregunta": "El gap de la carne 4-1?",
+    "respuesta": "Inicial es de 0.400 y terminal es de 0.450 por 20 segundos",
+    "palabras_clave": ["gap", "carne 4-1", "inicial", "terminal"]
+  },
+  {
+    "id": 74,
+    "pregunta": "El gap de la carne 3-1?",
+    "respuesta": "0.510 y final es de 0.545 por 20 segundos",
+    "palabras_clave": ["gap", "carne 3-1", "0.510", "final"]
+  },
+  {
+    "id": 75,
+    "pregunta": "El gap del derretido y tostado?",
+    "respuesta": "Es de 415",
+    "palabras_clave": ["gap", "derretido", "tostado", "415"]
+  },
+  {
+    "id": 76,
+    "pregunta": "Cada cuanto se evaporan las parrillas?",
+    "respuesta": "Cada 15 minutos",
+    "palabras_clave": ["cada cuanto", "evaporan", "parrillas", "15 minutos"]
+  },
+  {
+    "id": 77,
+    "pregunta": "Que lo que espera el cliente de la carnes?",
+    "respuesta": "Bien cocinada, bien zasonada, bien jugoza",
+    "palabras_clave": ["espera", "cliente", "carnes", "cocinada", "zasonada", "jugoza"]
+  },
+  {
+    "id": 78,
+    "pregunta": "Cual es el rango de temperatura de los auxiliares?",
+    "respuesta": "De 0 a -10 F°",
+    "palabras_clave": ["rango", "temperatura", "auxiliares", "0 a -10 f°"]
+  },
+  {
+    "id": 79,
+    "pregunta": "13:La carnes deben de cocinarse a una temperatura de?",
+    "respuesta": "155 F°",
+    "palabras_clave": ["carnes", "cocinarse", "temperatura", "155 f°"]
+  },
+  {
+    "id": 80,
+    "pregunta": "14:Tiempo máximo para sacar la carnes?",
+    "respuesta": "18 segundos",
+    "palabras_clave": ["tiempo máximo", "sacar", "carnes", "18 segundos"]
+  },
+  {
+    "id": 81,
+    "pregunta": "15:Cual es el tiempo de la carne en el UHC?",
+    "respuesta": "10 minutos",
+    "palabras_clave": ["tiempo", "carne", "uhc", "10 minutos"]
+  },
+  {
+    "id": 82,
+    "pregunta": "16:Tiempo máximo para colocar las carnes?",
+    "respuesta": "10 segundos",
+    "palabras_clave": ["tiempo máximo", "colocar", "carnes", "10 segundos"]
+  },
+  {
+    "id": 83,
+    "pregunta": "17:Vida útil de la tortas grilles?",
+    "respuesta": "60 minutos",
+    "palabras_clave": ["vida útil", "tortas grilles", "60 minutos"]
+  },
+  {
+    "id": 84,
+    "pregunta": "18:Vida útil de las crispy?",
+    "respuesta": "60 minutos",
+    "palabras_clave": ["vida útil", "crispy", "60 minutos"]
+  },
+  {
+    "id": 85,
+    "pregunta": "19:Vida útil de los nuggets en el UHC?",
+    "respuesta": "20 minutos",
+    "palabras_clave": ["vida útil", "nuggets", "uhc", "20 minutos"]
+  },
+  {
+    "id": 86,
+    "pregunta": "20:Vida útil de las M pollos en el UHC?",
+    "respuesta": "30 minutos",
+    "palabras_clave": ["vida útil", "m pollos", "uhc", "30 minutos"]
+  },
+  {
+    "id": 87,
+    "pregunta": "21: Tiempo de vida útil de la crispy Usa en el UHC?",
+    "respuesta": "60 minutos",
+    "palabras_clave": ["tiempo", "vida útil", "crispy usa", "uhc", "60 minutos"]
+  },
+  {
+    "id": 88,
+    "pregunta": "22:Tiempo de cocción de los nuggets es de?",
+    "respuesta": "3:30 segundos",
+    "palabras_clave": ["tiempo", "cocción", "nuggets", "3:30"]
+  },
+  {
+    "id": 89,
+    "pregunta": "23:Tiempo de cocción de la M pollo es de?",
+    "respuesta": "3 minutos",
+    "palabras_clave": ["tiempo", "cocción", "m pollo", "3 minutos"]
+  },
+  {
+    "id": 90,
+    "pregunta": "24:Tiempo de cocción de la crispy es de?",
+    "respuesta": "5:45 segundos",
+    "palabras_clave": ["tiempo", "cocción", "crispy", "5:45"]
+  },
+  {
+    "id": 91,
+    "pregunta": "25:Tiempo de cocción de la cebolla empanizada es de?",
+    "respuesta": "1:30 segundos",
+    "palabras_clave": ["tiempo", "cocción", "cebolla empanizada", "1:30"]
+  },
+  {
+    "id": 92,
+    "pregunta": "26:Tiempo de cocción de los plátanos?",
+    "respuesta": "75 segundos",
+    "palabras_clave": ["tiempo", "cocción", "plátanos", "75 segundos"]
+  },
+  {
+    "id": 93,
+    "pregunta": "27:Tiempo de cocción de los huevos muffin?",
+    "respuesta": "150 segundos",
+    "palabras_clave": ["tiempo", "cocción", "huevos muffin", "150 segundos"]
+  },
+  {
+    "id": 94,
+    "pregunta": "28:Tiempo de cocción del huevo revuelto?",
+    "respuesta": "35 segundos",
+    "palabras_clave": ["tiempo", "cocción", "huevo revuelto", "35 segundos"]
+  },
+  {
+    "id": 95,
+    "pregunta": "30:Tiempo de cocción del huevo del huerto?",
+    "respuesta": "75 segundos",
+    "palabras_clave": ["tiempo", "cocción", "huevo del huerto", "75 segundos"]
+  },
+  {
+    "id": 96,
+    "pregunta": "31:Tiempo de cocción del huevo doblados?",
+    "respuesta": "85 segundos",
+    "palabras_clave": ["tiempo", "cocción", "huevo doblados", "85 segundos"]
+  },
+  {
+    "id": 97,
+    "pregunta": "32: Temperatura de la parrillas?",
+    "respuesta": "Superior de 425 F° e inferior a 350 F°",
+    "palabras_clave": ["temperatura", "parrillas", "superior", "inferior"]
+  },
+  {
+    "id": 98,
+    "pregunta": "33: Temperatura de las parrillas del desayuno?",
+    "respuesta": "265 F°",
+    "palabras_clave": ["temperatura", "parrillas", "desayuno", "265 f°"]
+  },
+  {
+    "id": 99,
+    "pregunta": "34:Tiempo de cocción del jamón?",
+    "respuesta": "de 8 a 10 segundos",
+    "palabras_clave": ["tiempo", "cocción", "jamón", "8 a 10 segundos"]
+  },
+  {
+    "id": 100,
+    "pregunta": "35:Tiempo de vida de los huevos en el UHC?",
+    "respuesta": "20 minutos",
+    "palabras_clave": ["tiempo de vida", "huevos", "uhc", "20 minutos"]
+  },
+  {
+    "id": 101,
+    "pregunta": "36:Tiempo de vida de los panes muffins en el UHC?",
+    "respuesta": "20 minutos",
+    "palabras_clave": ["tiempo de vida", "panes muffins", "uhc", "20 minutos"]
+  },
+  {
+    "id": 102,
+    "pregunta": "37: Tiempo de cocción de los panes muffins?",
+    "respuesta": "De 3 a 4 de 50 a 55 segundos / De 4 a 6 de 55 a 70 segundos",
+    "palabras_clave": ["tiempo", "cocción", "panes muffins"]
+  },
+  {
+    "id": 103,
+    "pregunta": "38:Tiempo para calentarse la tostadora universal?",
+    "respuesta": "20minutos",
+    "palabras_clave": ["tiempo", "calentarse", "tostadora universal", "20 minutos"]
+  },
+  {
+    "id": 104,
+    "pregunta": "39: Tiempo de calentarse las parrillas clasmshell?",
+    "respuesta": "20minutos",
+    "palabras_clave": ["tiempo", "calentarse", "parrillas clasmshell", "20 minutos"]
+  },
+  {
+    "id": 105,
+    "pregunta": "40:La regla 24/2?",
+    "respuesta": "abastecer 24 horas de suministro de papel y un máximo de 2 horas de porciones congeladas en el congelador terrestre",
+    "palabras_clave": ["regla 24/2", "abastecer", "suministro", "papel", "congelador"]
+  },
+  {
+    "id": 106,
+    "pregunta": "41:Tiempo de cocción de la salchichas?",
+    "respuesta": "82 segundos",
+    "palabras_clave": ["tiempo", "cocción", "salchichas", "82 segundos"]
+  },
+  {
+    "id": 107,
+    "pregunta": "42: Temperatura de la plancha de los hot cake?",
+    "respuesta": "375 F°",
+    "palabras_clave": ["temperatura", "plancha", "hot cake", "375 f°"]
+  },
+  {
+    "id": 108,
+    "pregunta": "43:Tiempo máximo a batir la mezcla de los hot cake?",
+    "respuesta": "2 minutos",
+    "palabras_clave": ["tiempo máximo", "batir", "mezcla", "hot cake", "2 minutos"]
+  },
+  {
+    "id": 109,
+    "pregunta": "44:Cuantas onzas rinde un lote de hot cake?",
+    "respuesta": "38.5 onzas",
+    "palabras_clave": ["onzas", "rinde", "lote", "hot cake", "38.5"]
+  },
+  {
+    "id": 110,
+    "pregunta": "45:Que cantidad de agua se le aplica a la mezcla de hot cake?",
+    "respuesta": "48 onzas de agua fría",
+    "palabras_clave": ["cantidad", "agua", "mezcla", "hot cake", "48 onzas"]
+  },
+  {
+    "id": 111,
+    "pregunta": "46: los intencilios para hacer mezcla de hot cake?",
+    "respuesta": "Dispensador de hot cake, Espátula para hot cake, Recipiente medidor, Taza blix, Batidor de acero inoxidable, Espátula de goma pastelera, Plancha plana de 365 f, Plancha de 375 f",
+    "palabras_clave": ["intencilios", "utensilios", "mezcla", "hot cake", "dispensador", "plancha"]
+  },
+  {
+    "id": 112,
+    "pregunta": "46: Que espera el cliente de los hot cake?",
+    "respuesta": "amarillo dorado, esponjoso y suave bien uniformes",
+    "palabras_clave": ["espera", "cliente", "hot cake", "amarillo dorado", "esponjoso"]
+  },
+  {
+    "id": 113,
+    "pregunta": "47: diámetro de los hot cake?",
+    "respuesta": "De 12 a 13.5",
+    "palabras_clave": ["diámetro", "hot cake", "12 a 13.5"]
+  },
+  {
+    "id": 114,
+    "pregunta": "48: Cuanto te tiene que rendir una bolsa de hot cake?",
+    "respuesta": "De 13 a 15",
+    "palabras_clave": ["cuanto", "rendir", "bolsa", "hot cake", "13 a 15"]
+  },
+  {
+    "id": 115,
+    "pregunta": "49:Que espera el invitado de la carnes?",
+    "respuesta": "Bien cocida, bien jugoza bien zasonada",
+    "palabras_clave": ["espera", "invitado", "carnes", "bien cocida", "jugoza", "zasonada"]
+  },
+  {
+    "id": 116,
+    "pregunta": "50: Las características de calidad de la carne?",
+    "respuesta": "Las porpociones de carne deben ser ligeramente rosadas, Fáciles de separar, Planas,redondas con gruesos y diámetro uniforme",
+    "palabras_clave": ["características", "calidad", "carne", "porpociones", "rosadas", "separar"]
+  },
+  {
+    "id": 117,
+    "pregunta": "51: Características de la carne deshidratada?",
+    "respuesta": "Cuando presenta un color rojo brillante o café o blanco, La que sea difícil de separar, Cuando tiene muchos cristales de hielo en la siperficie",
+    "palabras_clave": ["características", "carne deshidratada", "rojo brillante", "separar", "cristales de hielo"]
+  },
+  {
+    "id": 118,
+    "pregunta": "52:Cual es la zonade temperatura de peligro?",
+    "respuesta": "De 40 a 140 F°",
+    "palabras_clave": ["zonade temperatura", "zona de peligro", "40 a 140 f°"]
+  },
+  {
+    "id": 119,
+    "pregunta": "53:la temperatura del baño maría de los topping es de?",
+    "respuesta": "133 a 145 F°",
+    "palabras_clave": ["temperatura", "baño maría", "topping", "133 a 145"]
+  },
+  {
+    "id": 120,
+    "pregunta": "54: temperatura de las topineras?",
+    "respuesta": "115 a 125 F°",
+    "palabras_clave": ["temperatura", "topineras", "115 a 125"]
+  },
+  {
+    "id": 121,
+    "pregunta": "55:por cuanto se deben batir un macflurry?",
+    "respuesta": "De 5 a 8 segundos",
+    "palabras_clave": ["por cuanto", "batir", "macflurry", "5 a 8 segundos"]
+  },
+  {
+    "id": 122,
+    "pregunta": "56:que usa como guía para abastecer el área de servicio?",
+    "respuesta": "Daily",
+    "palabras_clave": ["guía", "abastecer", "área de servicio", "daily"]
+  },
+  {
+    "id": 123,
+    "pregunta": "57: temperatura de la payera?",
+    "respuesta": "De 150 a 180 F°",
+    "palabras_clave": ["temperatura", "payera", "150 a 180"]
   }
 ]
