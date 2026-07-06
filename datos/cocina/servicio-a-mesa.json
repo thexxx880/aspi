@@ -1,0 +1,148 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Qué es el Servicio a la Mesa?",
+      "respuesta": "Es un servicio donde el cliente ordena en el kiosco, selecciona una mesa y un server le lleva posteriormente su comida."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal del Server?",
+      "respuesta": "Entregar la orden al cliente en su mesa y verificar que todo esté correcto."
+    },
+    {
+      "pregunta": "¿Quién orienta al cliente para realizar su pedido en el kiosco?",
+      "respuesta": "El Líder de la Experiencia."
+    },
+    {
+      "pregunta": "¿Qué hace el cliente después de pagar en el kiosco?",
+      "respuesta": "Toma su localizador y se ubica en una mesa de su elección."
+    },
+    {
+      "pregunta": "¿Qué hace el ensamblador antes de entregar la orden al Server?",
+      "respuesta": "Arma la orden y verifica que esté completa."
+    },
+    {
+      "pregunta": "¿Qué documento debe entregarse junto con la orden al Server?",
+      "respuesta": "El Pick Ticket."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el ensamblador después de finalizar una orden?",
+      "respuesta": "Borrarla del monitor y del ORB escaneando el código de barras."
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso que realiza el Server al recibir una orden?",
+      "respuesta": "Recibir la orden en el área de entrega."
+    },
+    {
+      "pregunta": "¿Qué utiliza el Server para localizar al cliente?",
+      "respuesta": "El Pick Ticket y el monitor del Server."
+    },
+    {
+      "pregunta": "¿Qué debe confirmar el Server al entregar una orden?",
+      "respuesta": "Que la orden esté completa."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo después debe regresar el Server a la mesa?",
+      "respuesta": "Dos minutos después."
+    },
+    {
+      "pregunta": "¿Cuándo debe retirarse el localizador de la mesa?",
+      "respuesta": "Después de la segunda visita y cuando el cliente ya no necesite nada."
+    },
+    {
+      "pregunta": "¿Puede una sola persona realizar las funciones de Ensamblador y Server?",
+      "respuesta": "Sí, cuando sea necesario."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal del Líder de la Experiencia?",
+      "respuesta": "Recibir, orientar y apoyar a los clientes durante el proceso de pedido."
+    },
+    {
+      "pregunta": "¿Qué agrega el ensamblador para completar una orden?",
+      "respuesta": "Servilletas, pajillas, condimentos y juguetes de Cajita Feliz cuando corresponda."
+    },
+    {
+      "pregunta": "¿Qué puede hacer el ensamblador durante períodos de bajo volumen?",
+      "respuesta": "Entregar órdenes."
+    },
+    {
+      "pregunta": "¿Qué puede hacer el Server durante períodos de bajo volumen?",
+      "respuesta": "Ensamblar órdenes."
+    },
+    {
+      "pregunta": "¿Qué grupos de clientes pueden recibir Servicio a la Mesa aunque no usen el kiosco?",
+      "respuesta": "Familias con niños, embarazadas, adultos mayores y personas con discapacidad."
+    },
+    {
+      "pregunta": "¿Qué es el sistema de localización de clientes?",
+      "respuesta": "Un sistema que utiliza localizadores numerados para identificar fácilmente la mesa del cliente."
+    },
+    {
+      "pregunta": "¿Cuál es el beneficio principal del sistema de localización?",
+      "respuesta": "Agilizar la entrega de órdenes y mejorar la experiencia del cliente."
+    },
+    {
+      "pregunta": "¿Cómo se localiza al cliente en restaurantes de baja tecnología?",
+      "respuesta": "Mediante el número impreso en el Pick Ticket."
+    },
+    {
+      "pregunta": "¿Cómo se localiza al cliente en restaurantes de alta tecnología?",
+      "respuesta": "Mediante el monitor del Server y el número del localizador."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo después de colocarse en la mesa se activa un localizador?",
+      "respuesta": "15 segundos."
+    },
+    {
+      "pregunta": "¿Qué muestra el monitor del Server?",
+      "respuesta": "El área donde se encuentra el localizador del cliente."
+    },
+    {
+      "pregunta": "¿Cómo identifica el monitor las zonas del restaurante?",
+      "respuesta": "Mediante colores y números."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si no hay mesas disponibles?",
+      "respuesta": "Informarlo al cliente."
+    },
+    {
+      "pregunta": "¿Dónde pueden entregarse las órdenes de Servicio a la Mesa?",
+      "respuesta": "Únicamente en las mesas."
+    },
+    {
+      "pregunta": "¿Quién puede realizar la función de Server?",
+      "respuesta": "Cualquier miembro del equipo."
+    },
+    {
+      "pregunta": "¿Qué debe llevar el Server en la mañana para responder rápidamente a solicitudes?",
+      "respuesta": "Dos tipos de azúcar."
+    },
+    {
+      "pregunta": "¿Qué debe llevar el Server durante almuerzo y cena?",
+      "respuesta": "Mayonesa y picante."
+    },
+    {
+      "pregunta": "¿Cuántos localizadores pueden estibarse como máximo?",
+      "respuesta": "8 localizadores."
+    },
+    {
+      "pregunta": "¿Qué debe evitarse hacer con los localizadores?",
+      "respuesta": "Golpearlos, mojarlos o sacarlos del salón."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si falla un equipo del sistema?",
+      "respuesta": "Informarlo al gerente."
+    },
+    {
+      "pregunta": "¿Qué ocurre cuando una orden incluye productos McCafé?",
+      "respuesta": "Aparece en el monitor del Server para ser recogida y entregada."
+    },
+    {
+      "pregunta": "¿Cómo sabe el Server que los productos McCafé están listos?",
+      "respuesta": "Cuando la orden cambia de cuadrada a ovalada en el monitor."
+    },
+    {
+      "pregunta": "¿Cómo deben entregarse órdenes compuestas únicamente por productos McCafé?",
+      "respuesta": "En una charola o bandeja redonda."
+    }
+  ]
+}
