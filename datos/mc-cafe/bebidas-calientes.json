@@ -1,0 +1,204 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Qué manual corresponde al Capítulo 3?",
+      "respuesta": "Manual de Procedimientos de Bebidas Calientes de McDonald's Mesoamérica."
+    },
+    {
+      "pregunta": "¿Qué implemento se utiliza para espumar leche de 20 onzas?",
+      "respuesta": "Una taza volumétrica de acero inoxidable de 20 onzas."
+    },
+    {
+      "pregunta": "¿Qué implemento se utiliza para espumar leche de 33 onzas?",
+      "respuesta": "Una taza volumétrica de acero inoxidable de 33 onzas."
+    },
+    {
+      "pregunta": "¿Para qué sirve la taza volumétrica plástica?",
+      "respuesta": "Para medir la cantidad de leche."
+    },
+    {
+      "pregunta": "¿Para qué sirve la brocha del barista?",
+      "respuesta": "Para limpiar los grupos de la máquina de espresso."
+    },
+    {
+      "pregunta": "¿Para qué se utiliza el cronómetro?",
+      "respuesta": "Para calibrar el tiempo de caída del espresso."
+    },
+    {
+      "pregunta": "¿Para qué sirve el termómetro?",
+      "respuesta": "Para medir la temperatura de la leche."
+    },
+    {
+      "pregunta": "¿Qué función tiene el limpiador de lanceta?",
+      "respuesta": "Mantener limpia la lanceta de vapor."
+    },
+    {
+      "pregunta": "¿Para qué sirve el tamper?",
+      "respuesta": "Para compactar el café molido."
+    },
+    {
+      "pregunta": "¿Para qué sirve el vaso medidor de 4 onzas?",
+      "respuesta": "Para calibrar la cantidad de espresso."
+    },
+    {
+      "pregunta": "¿Para qué sirve el PAD?",
+      "respuesta": "Para apoyar el portafiltro al compactar el café."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida del café dentro de la tolva?",
+      "respuesta": "6 horas."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida del café después de abrir la bolsa?",
+      "respuesta": "3 días."
+    },
+    {
+      "pregunta": "¿Cuánto café debe colocarse como máximo en la tolva?",
+      "respuesta": "No más de una libra."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con una bolsa de café abierta que no se utiliza completamente?",
+      "respuesta": "Empacarla correctamente con Reynolds y colocarle su tiempo de vida."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse cuando se utiliza una bolsa completa de café?",
+      "respuesta": "Guardar la bolsa identificada con el tiempo de vida primario."
+    },
+    {
+      "pregunta": "¿Qué debe revisarse al recibir las cajas de leche?",
+      "respuesta": "Que estén en buen estado."
+    },
+    {
+      "pregunta": "¿Qué debe verificarse respecto a la cantidad de leche recibida?",
+      "respuesta": "Que coincida con la cantidad solicitada."
+    },
+    {
+      "pregunta": "¿Qué identificación debe colocarse a las cajas de leche?",
+      "respuesta": "El número del calendario gregoriano correspondiente."
+    },
+    {
+      "pregunta": "¿Cómo deben almacenarse las cajas de leche?",
+      "respuesta": "Aplicando la rotación Primero Dentro Primero Fuera (PDPF)."
+    },
+    {
+      "pregunta": "¿Dónde deben almacenarse inicialmente las cajas de leche?",
+      "respuesta": "En la bodega seca."
+    },
+    {
+      "pregunta": "¿Cuántos días de leche deben mantenerse refrigerados para McCafé?",
+      "respuesta": "Para dos días de consumo."
+    },
+    {
+      "pregunta": "¿Cuál debe ser la temperatura del cuarto frío?",
+      "respuesta": "Entre 34°F y 40°F."
+    },
+    {
+      "pregunta": "¿Qué nunca debe hacerse con las cajas de leche?",
+      "respuesta": "Colocarlas directamente sobre el piso."
+    },
+    {
+      "pregunta": "¿Qué debe verificarse antes de surtir leche al área de McCafé?",
+      "respuesta": "Que la leche haya permanecido refrigerada por al menos 48 horas."
+    },
+    {
+      "pregunta": "¿Por qué es importante refrigerar la leche durante 48 horas antes de utilizarla?",
+      "respuesta": "Porque es un procedimiento crítico para obtener un vaporizado correcto."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura ideal de la leche para preparar bebidas McCafé?",
+      "respuesta": "Entre 34°F y 40°F."
+    },
+    {
+      "pregunta": "¿Por qué es importante utilizar la leche entre 34°F y 40°F?",
+      "respuesta": "Porque permite obtener una espuma cremosa y consistente."
+    },
+    {
+      "pregunta": "¿Qué botón se presiona primero para configurar la caída de agua?",
+      "respuesta": "El botón con la flecha hacia arriba."
+    },
+    {
+      "pregunta": "¿Qué configuración de agua corresponde a bebidas de 8 y 16 onzas?",
+      "respuesta": "90 cc."
+    },
+    {
+      "pregunta": "¿Qué configuración de agua corresponde a bebidas de 12 onzas?",
+      "respuesta": "70 cc."
+    },
+    {
+      "pregunta": "¿Qué cantidad de agua debe verificarse para bebidas de 8 y 16 onzas?",
+      "respuesta": "100 ml."
+    },
+    {
+      "pregunta": "¿Qué cantidad de agua debe verificarse para bebidas de 12 onzas?",
+      "respuesta": "80 ml."
+    },
+    {
+      "pregunta": "¿Cuántos gramos de café se utilizan para preparar un espresso de 8 onzas?",
+      "respuesta": "17.5 gramos."
+    },
+    {
+      "pregunta": "¿Cuántas onzas líquidas de espresso lleva una bebida de 8 onzas?",
+      "respuesta": "2 onzas."
+    },
+    {
+      "pregunta": "¿Cuántas onzas de espresso lleva una bebida de 12 onzas?",
+      "respuesta": "1.5 onzas."
+    },
+    {
+      "pregunta": "¿Cuántas onzas de espresso lleva una bebida de 16 onzas?",
+      "respuesta": "2 onzas."
+    },
+    {
+      "pregunta": "¿Qué portafiltro se utiliza para todas las bebidas calientes?",
+      "respuesta": "El portafiltro de dos caídas."
+    },
+    {
+      "pregunta": "¿Qué botón de la máquina sirve para bebidas de 8 y 16 onzas?",
+      "respuesta": "El botón programado para dispensar 2 onzas de espresso."
+    },
+    {
+      "pregunta": "¿Qué botón sirve para las bebidas de 12 onzas?",
+      "respuesta": "El botón programado para dispensar 1.5 onzas de espresso."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo debe durar la caída del espresso?",
+      "respuesta": "Entre 20 y 30 segundos."
+    },
+    {
+      "pregunta": "¿En qué caída debe realizarse la calibración del espresso?",
+      "respuesta": "Únicamente en la primera caída."
+    },
+    {
+      "pregunta": "¿Cuánto espresso debe entregar el botón de 8 y 16 onzas?",
+      "respuesta": "2 onzas de espresso más 0.5 onzas de crema."
+    },
+    {
+      "pregunta": "¿Cuánto espresso debe entregar el botón de 12 onzas?",
+      "respuesta": "1.5 onzas de espresso más 0.5 onzas de crema."
+    },
+    {
+      "pregunta": "¿Cómo debe ser la caída correcta del espresso?",
+      "respuesta": "Lenta, pesada, continua y con forma de cola de ratón."
+    },
+    {
+      "pregunta": "¿De qué color debe ser la crema del espresso?",
+      "respuesta": "Color avellanado."
+    },
+    {
+      "pregunta": "¿Qué característica debe tener la crema del espresso?",
+      "respuesta": "Debe ser elástica y adherirse a la cuchara."
+    },
+    {
+      "pregunta": "¿Cómo debe ser el sabor del espresso?",
+      "respuesta": "Intenso, con mucho cuerpo, baja acidez, ligeramente dulce y con aroma fragante."
+    },
+    {
+      "pregunta": "¿Cómo debe prepararse una bebida de espresso de 8 onzas?",
+      "respuesta": "Colocando un vaso en una caída y un oncero en la otra para medir el espresso."
+    },
+    {
+      "pregunta": "¿Cómo debe prepararse una bebida de 12 onzas?",
+      "respuesta": "Haciendo que ambas caídas de espresso lleguen al mismo vaso."
+    }
+  ]
+}
