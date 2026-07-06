@@ -1,0 +1,172 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Cuál es la temperatura correcta para cocinar productos de pollo?",
+      "respuesta": "360°F."
+    },
+    {
+      "pregunta": "¿Qué sucede si la freidora no tiene la programación correcta para pollo?",
+      "respuesta": "Los productos pueden quedar crudos o demasiado cocidos."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben lavarse las manos los empleados?",
+      "respuesta": "Cuando sea necesario y al menos una vez por hora."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo debe durar el lavado de manos?",
+      "respuesta": "20 segundos con jabón antibacterial."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo se debe esperar antes de introducir otra cesta en la misma tina?",
+      "respuesta": "Al menos 30 segundos."
+    },
+    {
+      "pregunta": "¿Se pueden cocinar productos dulces en una tina donde se cocinaron productos salados?",
+      "respuesta": "No."
+    },
+    {
+      "pregunta": "¿Por qué los productos similares deben cocinarse en la misma tina?",
+      "respuesta": "Porque el aceite absorbe sabores y puede afectar la calidad del producto."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse cuando se coloca un producto nuevo en el UHC?",
+      "respuesta": "Oprimir el timer correspondiente."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse cuando el timer del UHC llega a 00?",
+      "respuesta": "Desechar el producto."
+    },
+    {
+      "pregunta": "¿Para qué sirve la bandeja con rejilla?",
+      "respuesta": "Para evitar contaminación y que el empanizado crudo caiga al aceite."
+    },
+    {
+      "pregunta": "¿Qué significa PDPF?",
+      "respuesta": "Primero Dentro, Primero Fuera."
+    },
+    {
+      "pregunta": "¿Cuánto producto congelado de pollo debe abastecerse como máximo?",
+      "respuesta": "Un máximo de 2 horas de producto."
+    },
+    {
+      "pregunta": "¿Cómo deben levantarse las cajas pesadas?",
+      "respuesta": "Doblando las rodillas y levantando con los brazos, no con la espalda."
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso al ingresar al puesto de McPollo?",
+      "respuesta": "Lavarse las manos."
+    },
+    {
+      "pregunta": "¿Cuántos filetes de McPollo pueden colocarse como máximo por cesta?",
+      "respuesta": "6 filetes."
+    },
+    {
+      "pregunta": "¿Cuánto dura la cocción del McPollo?",
+      "respuesta": "3 minutos."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo de vida tiene el McPollo en el UHC?",
+      "respuesta": "30 minutos."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo debe escurrirse una cesta de McPollo después de cocinarse?",
+      "respuesta": "De 5 a 10 segundos."
+    },
+    {
+      "pregunta": "¿Cuántos McNuggets pueden cocinarse como máximo por cesta?",
+      "respuesta": "48 unidades (2 bolsas de 24)."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de los McNuggets?",
+      "respuesta": "3 minutos con 30 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los McNuggets en el UHC?",
+      "respuesta": "20 minutos."
+    },
+    {
+      "pregunta": "¿Se pueden mezclar porciones nuevas y viejas de McNuggets?",
+      "respuesta": "No."
+    },
+    {
+      "pregunta": "¿Cuántos pastelitos fritos pueden colocarse como máximo por cesta?",
+      "respuesta": "16 unidades."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de los pastelitos fritos?",
+      "respuesta": "6 minutos a 360°F."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo deben enfriarse los pastelitos antes de empacarse?",
+      "respuesta": "20 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los pastelitos?",
+      "respuesta": "90 minutos incluyendo el tiempo de enfriamiento."
+    },
+    {
+      "pregunta": "¿Qué color identifica los pastelitos de manzana?",
+      "respuesta": "Verde."
+    },
+    {
+      "pregunta": "¿Qué color identifica los pastelitos de queso?",
+      "respuesta": "Blanco."
+    },
+    {
+      "pregunta": "¿Qué color identifica los pastelitos de piña?",
+      "respuesta": "Naranja."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo deben descongelarse los plátanos antes de utilizarse?",
+      "respuesta": "12 horas."
+    },
+    {
+      "pregunta": "¿A qué temperatura debe estar la freidora para cocinar plátanos?",
+      "respuesta": "360°F."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de los plátanos?",
+      "respuesta": "75 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es la tanda máxima de plátanos?",
+      "respuesta": "12 porciones de 2 unidades (24 unidades)."
+    },
+    {
+      "pregunta": "¿A qué temperatura deben mantenerse los plátanos después de cocinados?",
+      "respuesta": "175°F."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los plátanos?",
+      "respuesta": "60 minutos."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse al finalizar el período de desayuno?",
+      "respuesta": "Filtrar la tina."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse cuando el nivel de aceite baja de la línea indicada?",
+      "respuesta": "Rellenar la tina con aceite."
+    },
+    {
+      "pregunta": "¿Dónde debe vaciarse el aceite para evitar quemaduras?",
+      "respuesta": "En el reborde de la freidora, no directamente en la tina."
+    },
+    {
+      "pregunta": "¿Qué equipo de protección debe utilizarse al manejar aceite?",
+      "respuesta": "Guantes, delantal y máscara protectora."
+    },
+    {
+      "pregunta": "¿Cuáles son los seis enemigos del aceite?",
+      "respuesta": "Carbón, aire, sal, calor, detergente y agua."
+    },
+    {
+      "pregunta": "¿Cada cuánto debe usarse el colador para retirar partículas del aceite?",
+      "respuesta": "Al menos cada 30 minutos."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con las tinas en períodos lentos?",
+      "respuesta": "Cubrirlas con la tapa."
+    }
+  ]
+}
