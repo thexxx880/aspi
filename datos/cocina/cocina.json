@@ -1,0 +1,228 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de la carne 10:1?",
+      "respuesta": "39 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de la carne 4:1?",
+      "respuesta": "110 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de la carne 3:1?",
+      "respuesta": "158 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción del tocino?",
+      "respuesta": "160 +/- 5 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de las grilles?",
+      "respuesta": "225 segundos el primer lado y 165 segundos el segundo lado."
+    },
+    {
+      "pregunta": "¿Cuál es el gap inicial y final de la carne 10-1?",
+      "respuesta": "Inicial de 0.225 y final de 0.290 por 20 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el gap inicial y terminal de la carne 4-1?",
+      "respuesta": "Inicial de 0.400 y terminal de 0.450 por 20 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el gap inicial y final de la carne 3-1?",
+      "respuesta": "0.510 y final de 0.545 por 20 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el gap del derretido y tostado?",
+      "respuesta": "Es de 415."
+    },
+    {
+      "pregunta": "¿Cada cuánto se evaporan las parrillas?",
+      "respuesta": "Cada 15 minutos."
+    },
+    {
+      "pregunta": "¿Qué es lo que espera el cliente de la carne?",
+      "respuesta": "Bien cocinada, bien sazonada y bien jugosa."
+    },
+    {
+      "pregunta": "¿Cuál es el rango de temperatura de los auxiliares?",
+      "respuesta": "De 0 a -10 °F."
+    },
+    {
+      "pregunta": "¿A qué temperatura deben de cocinarse las carnes?",
+      "respuesta": "155 °F."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo máximo para sacar las carnes?",
+      "respuesta": "18 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo máximo de la carne en el UHC?",
+      "respuesta": "10 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo máximo para colocar las carnes?",
+      "respuesta": "10 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es la vida útil de las tortas grilles en el UHC?",
+      "respuesta": "60 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es la vida útil de las crispy en el UHC?",
+      "respuesta": "60 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es la vida útil de los nuggets en el UHC?",
+      "respuesta": "20 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es la vida útil de las M pollos en el UHC?",
+      "respuesta": "30 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida útil de la crispy Usa en el UHC?",
+      "respuesta": "60 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de los nuggets?",
+      "respuesta": "3:30 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de la M pollo?",
+      "respuesta": "3 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de la crispy?",
+      "respuesta": "5:45 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de la cebolla empanizada?",
+      "respuesta": "1:30 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de los plátanos?",
+      "respuesta": "75 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de los huevos muffin?",
+      "respuesta": "150 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción del huevo revuelto?",
+      "respuesta": "35 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción del huevo del huerto?",
+      "respuesta": "75 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de los huevos doblados?",
+      "respuesta": "85 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura de las parrillas?",
+      "respuesta": "Superior de 425 °F e inferior a 350 °F."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura de las parrillas del desayuno?",
+      "respuesta": "265 °F."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción del jamón?",
+      "respuesta": "De 8 a 10 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los huevos en el UHC?",
+      "respuesta": "20 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los panes muffins en el UHC?",
+      "respuesta": "20 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de los panes muffins según la cantidad?",
+      "respuesta": "De 3 a 4 panes: de 50 a 55 segundos. De 4 a 6 panes: de 55 a 70 segundos."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo tarda en calentarse la tostadora universal?",
+      "respuesta": "20 minutos."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo tarda en calentarse las parrillas clamshell?",
+      "respuesta": "20 minutos."
+    },
+    {
+      "pregunta": "¿En qué consiste la regla 24/2?",
+      "respuesta": "Abastecer 24 horas de suministro de papel y un máximo de 2 horas de porciones congeladas en el congelador terrestre."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de las salchichas?",
+      "respuesta": "82 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura de la plancha de los hot cake?",
+      "respuesta": "375 °F."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo máximo para batir la mezcla de los hot cake?",
+      "respuesta": "2 minutos."
+    },
+    {
+      "pregunta": "¿Cuántas onzas rinde un lote de hot cake?",
+      "respuesta": "38.5 onzas."
+    },
+    {
+      "pregunta": "¿Qué cantidad de agua se le aplica a la mezcla de hot cake?",
+      "respuesta": "48 onzas de agua fría."
+    },
+    {
+      "pregunta": "¿Cuáles son los utensilios requeridos para hacer la mezcla de hot cake?",
+      "respuesta": "Dispensador de hot cake, espátula para hot cake, recipiente medidor, taza blix, batidor de acero inoxidable, espátula de goma pastelera, plancha plana de 365 °F y plancha de 375 °F."
+    },
+    {
+      "pregunta": "¿Qué espera el cliente de los hot cake?",
+      "respuesta": "Amarillo dorado, esponjoso, suave y bien uniformes."
+    },
+    {
+      "pregunta": "¿Cuál es el diámetro de los hot cake?",
+      "respuesta": "De 12 a 13.5."
+    },
+    {
+      "pregunta": "¿Cuánto tiene que rendir una bolsa de hot cake?",
+      "respuesta": "De 13 a 15."
+    },
+    {
+      "pregunta": "¿Cuáles son las características de calidad de la carne?",
+      "respuesta": "Las porciones de carne deben ser ligeramente rosadas, fáciles de separar, planas, redondas, con grosor y diámetro uniforme."
+    },
+    {
+      "pregunta": "¿Cuáles son las características de la carne deshidratada?",
+      "respuesta": "Cuando presenta un color rojo brillante, café o blanco; la que sea difícil de separar; o cuando tiene muchos cristales de hielo en la superficie."
+    },
+    {
+      "pregunta": "¿Cuál es la zona de temperatura de peligro?",
+      "respuesta": "De 40 a 140 °F."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura del baño maría de los toppings?",
+      "respuesta": "De 133 a 145 °F."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura de las topineras?",
+      "respuesta": "De 115 a 125 °F."
+    },
+    {
+      "pregunta": "¿Por cuánto tiempo se debe batir un McFlurry?",
+      "respuesta": "De 5 a 8 segundos."
+    },
+    {
+      "pregunta": "¿Qué se usa como guía para abastecer el área de servicio?",
+      "respuesta": "Daily."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura de la payera?",
+      "respuesta": "De 150 a 180 °F."
+    }
+  ]
+}
