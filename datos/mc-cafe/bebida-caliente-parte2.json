@@ -1,0 +1,204 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Qué debe hacerse antes de preparar cualquier bebida en McCafé?",
+      "respuesta": "Identificar correctamente la bebida antes de comenzar su preparación."
+    },
+    {
+      "pregunta": "¿Qué marcador debe utilizarse para identificar las bebidas?",
+      "respuesta": "Un marcador permanente Sharpie color negro."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el cajero cuando un cliente solicita una bebida especial?",
+      "respuesta": "Marcar correctamente la bebida en la caja y preguntar qué tipo de azúcar desea el cliente."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el barista al observar una bebida especial en el monitor?",
+      "respuesta": "Identificar el vaso con el marcador antes de preparar la bebida."
+    },
+    {
+      "pregunta": "¿Qué características especiales deben marcarse en el vaso?",
+      "respuesta": "Si la bebida es con leche descremada, deslactosada o descafeinada."
+    },
+    {
+      "pregunta": "¿Qué tipo de bebida debe identificarse en el vaso?",
+      "respuesta": "Cappuccino, Latte, Mocha, Té u otra bebida solicitada."
+    },
+    {
+      "pregunta": "¿Cómo se identifica una bebida endulzada con Equal?",
+      "respuesta": "Utilizando la simbología correspondiente para Equal."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el Crew del Lobby al entregar una bebida especial?",
+      "respuesta": "Informar al cliente qué bebida especial está recibiendo."
+    },
+    {
+      "pregunta": "¿Cuándo debe identificarse una bebida?",
+      "respuesta": "Antes de iniciar su preparación."
+    },
+    {
+      "pregunta": "¿Cuánta azúcar se entrega con un espresso?",
+      "respuesta": "Solo si el cliente la solicita."
+    },
+    {
+      "pregunta": "¿Para qué sirven las reglas de bebidas dobles?",
+      "respuesta": "Para determinar la cantidad correcta de espresso cuando el cliente solicita doble espresso."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Latte doble de 8 onzas?",
+      "respuesta": "2 onzas de espresso."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Latte doble de 12 onzas?",
+      "respuesta": "3 onzas de espresso."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Latte doble de 16 onzas?",
+      "respuesta": "4 onzas de espresso."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben lavarse las manos los baristas?",
+      "respuesta": "Al menos una vez cada hora."
+    },
+    {
+      "pregunta": "¿Cada cuánto debe aplicarse gel antibacterial?",
+      "respuesta": "Cada 30 minutos."
+    },
+    {
+      "pregunta": "¿Cómo deben mantenerse los utensilios del área de McCafé?",
+      "respuesta": "Siempre limpios e higienizados."
+    },
+    {
+      "pregunta": "¿Qué tiempos de vida deben respetarse en los ingredientes?",
+      "respuesta": "Los tiempos de vida primarios y secundarios."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse primero para preparar un espresso?",
+      "respuesta": "Preparar el molino seleccionando la cantidad correcta de café."
+    },
+    {
+      "pregunta": "¿Qué icono debe utilizarse para preparar espresso?",
+      "respuesta": "El icono con las dos tazas."
+    },
+    {
+      "pregunta": "¿Dónde debe colocarse el portafiltro antes de moler el café?",
+      "respuesta": "Sobre las guías correspondientes del molino."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de moler el café?",
+      "respuesta": "Nivelar el café con el dedo."
+    },
+    {
+      "pregunta": "¿Qué debe garantizarse al nivelar el café?",
+      "respuesta": "Mantener la higiene durante todo el procedimiento."
+    },
+    {
+      "pregunta": "¿Dónde debe apoyarse el portafiltro antes de compactar el café?",
+      "respuesta": "Sobre el tapete de esquina."
+    },
+    {
+      "pregunta": "¿Con qué herramienta se compacta el café?",
+      "respuesta": "Con el tamper."
+    },
+    {
+      "pregunta": "¿Por qué es importante la presión aplicada con el tamper?",
+      "respuesta": "Porque influye directamente en las propiedades sensoriales del café."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de compactar el café?",
+      "respuesta": "Retirar los residuos del borde del portafiltro."
+    },
+    {
+      "pregunta": "¿Dónde debe colocarse el portafiltro para extraer el espresso?",
+      "respuesta": "En la máquina capuccinera."
+    },
+    {
+      "pregunta": "¿Cómo se asegura correctamente el portafiltro?",
+      "respuesta": "Realizando un pequeño giro hasta fijarlo."
+    },
+    {
+      "pregunta": "¿Qué botón debe presionarse para preparar un espresso?",
+      "respuesta": "El botón con el ícono de una taza."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Espresso sencillo?",
+      "respuesta": "1 onza."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Espresso doble?",
+      "respuesta": "2 onzas."
+    },
+    {
+      "pregunta": "¿Qué tamaño de vaso se utiliza para servir un espresso?",
+      "respuesta": "Un vaso de 8 onzas."
+    },
+    {
+      "pregunta": "¿Qué debe colocarse en la bandeja al servir un espresso?",
+      "respuesta": "Una servilleta, un removedor y un recipiente con los tres tipos de azúcar."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con el número de mesa al servir una bebida?",
+      "respuesta": "Retirarlo."
+    },
+    {
+      "pregunta": "¿Qué cantidad de leche lleva un Cortadito?",
+      "respuesta": "2 onzas de leche vaporizada."
+    },
+    {
+      "pregunta": "¿Cómo debe ser la espuma de un Cortadito?",
+      "respuesta": "Fina y sin burbujas grandes."
+    },
+    {
+      "pregunta": "¿Qué se agrega sobre el espresso en un Cortadito?",
+      "respuesta": "Leche vaporizada y únicamente la espuma con ayuda de una cuchara."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de agregar la leche al Cortadito?",
+      "respuesta": "Tapar el vaso."
+    },
+    {
+      "pregunta": "¿Qué debe observar el barista antes de iniciar cualquier preparación?",
+      "respuesta": "El monitor de pedidos."
+    },
+    {
+      "pregunta": "¿Qué botón se utiliza para bebidas de 8 y 16 onzas?",
+      "respuesta": "El primer botón de la máquina."
+    },
+    {
+      "pregunta": "¿Qué botón se utiliza para bebidas de 12 onzas?",
+      "respuesta": "El segundo botón."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Café Guatemalteco de 8 onzas?",
+      "respuesta": "1 onza de espresso."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Café Guatemalteco de 12 onzas?",
+      "respuesta": "1.5 onzas de espresso."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Café Guatemalteco de 16 onzas?",
+      "respuesta": "2 onzas de espresso."
+    },
+    {
+      "pregunta": "¿Cómo debe observarse la caída del espresso durante la preparación?",
+      "respuesta": "Consistente, similar a una cola de ratón y con crema color avellana clara."
+    },
+    {
+      "pregunta": "¿Qué debe agregarse después del espresso en un Café Guatemalteco?",
+      "respuesta": "Agua caliente."
+    },
+    {
+      "pregunta": "¿Hasta dónde debe llenarse el vaso con agua caliente?",
+      "respuesta": "Hasta la línea de seguridad del vaso."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura ideal para servir un Café Guatemalteco?",
+      "respuesta": "190°F ± 5°F."
+    },
+    {
+      "pregunta": "¿Cómo deben servirse todas las bebidas al cliente?",
+      "respuesta": "Con una sonrisa."
+    }
+  ]
+}
