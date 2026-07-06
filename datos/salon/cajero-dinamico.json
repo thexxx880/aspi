@@ -1,0 +1,148 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Cuál es el objetivo del nuevo modelo de servicio EDF 2.0?",
+      "respuesta": "Esperar al cliente en los kioscos para apoyarlo a tomar su orden y promover la experiencia digital."
+    },
+    {
+      "pregunta": "¿Dónde debe esperar el empleado a los clientes?",
+      "respuesta": "Frente a los kioscos digitales."
+    },
+    {
+      "pregunta": "¿Cuál debe ser la primera opción para realizar un pedido?",
+      "respuesta": "Los kioscos digitales."
+    },
+    {
+      "pregunta": "¿Qué frase debe utilizarse para invitar al cliente a usar el kiosco?",
+      "respuesta": "¿Le gustaría vivir la experiencia digital ordenando en los kioscos?"
+    },
+    {
+      "pregunta": "¿Qué frase ya no debe utilizarse con los clientes?",
+      "respuesta": "Le tomo su orden."
+    },
+    {
+      "pregunta": "¿Quiénes deben entrenarse en los nuevos procedimientos?",
+      "respuesta": "Todo el equipo de administración, servicio, server y líderes."
+    },
+    {
+      "pregunta": "¿Quién apoyará al aumento de transacciones en los kioscos?",
+      "respuesta": "La líder de la experiencia."
+    },
+    {
+      "pregunta": "¿Cuántas cajas deben mantenerse listas durante la operación?",
+      "respuesta": "Dos cajas con fondo y cajero ingresado."
+    },
+    {
+      "pregunta": "¿Cuándo deben utilizarse las dos cajas?",
+      "respuesta": "Cuando exista un pico en la cantidad de clientes."
+    },
+    {
+      "pregunta": "¿Qué tipo de cajero debe atender las cajas?",
+      "respuesta": "Un cajero dinámico."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si un cliente no desea utilizar el kiosco?",
+      "respuesta": "No debe forzarse; se debe abrir la otra caja para atenderlo."
+    },
+    {
+      "pregunta": "¿Qué debe cobrar la caja destinada a kioscos?",
+      "respuesta": "Únicamente órdenes realizadas en los kioscos."
+    },
+    {
+      "pregunta": "¿Por qué la caja de kioscos solo debe cobrar órdenes de kiosco?",
+      "respuesta": "Para evitar que el cliente haga doble fila."
+    },
+    {
+      "pregunta": "¿Cómo se mantiene el flujo del área de entrega?",
+      "respuesta": "Se mantiene igual que el modelo anterior."
+    },
+    {
+      "pregunta": "¿Quién debe posicionarse en el área de entrega cuando hay alto movimiento?",
+      "respuesta": "Un presentador."
+    },
+    {
+      "pregunta": "¿Quién puede presentar las órdenes cuando hay bajo movimiento?",
+      "respuesta": "El corredor o el cajero dinámico."
+    },
+    {
+      "pregunta": "¿Dónde debe permanecer la líder de la experiencia durante la operación?",
+      "respuesta": "En el área de kioscos desde el inicio hasta el cierre."
+    },
+    {
+      "pregunta": "¿Quién puede cubrir a la líder de la experiencia cuando realiza otras funciones?",
+      "respuesta": "El cajero dinámico."
+    },
+    {
+      "pregunta": "¿Qué área nunca debe quedarse sola?",
+      "respuesta": "El área de los kioscos."
+    },
+    {
+      "pregunta": "¿Cuál es el nuevo punto de bienvenida para los clientes?",
+      "respuesta": "El área frente a los kioscos digitales."
+    },
+    {
+      "pregunta": "¿Cuál es la posición inicial del cajero dinámico?",
+      "respuesta": "Frente a los dos o tres kioscos digitales."
+    },
+    {
+      "pregunta": "¿Cómo debe recibir el cajero dinámico al cliente?",
+      "respuesta": "Con una sonrisa, un saludo amable y una invitación genuina a usar los kioscos."
+    },
+    {
+      "pregunta": "¿Qué frases pueden utilizarse para invitar al cliente a ordenar?",
+      "respuesta": "¿Le gustaría vivir la experiencia de ordenar en el kiosco digital? o ¿Le gustaría ordenar por los kioscos digitales?"
+    },
+    {
+      "pregunta": "¿Por qué no debe decirse 'Aquí le tomo la orden'?",
+      "respuesta": "Porque causa confusión en los clientes."
+    },
+    {
+      "pregunta": "¿Cuándo debe apoyar el cajero dinámico al cliente?",
+      "respuesta": "Solo cuando el cliente lo necesite."
+    },
+    {
+      "pregunta": "¿Debe el cajero dinámico marcar la orden por el cliente?",
+      "respuesta": "No, el cliente debe marcar su propia orden."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si un cliente insiste en ordenar en el mostrador?",
+      "respuesta": "Llevarlo directamente a la caja registradora para que le tomen la orden."
+    },
+    {
+      "pregunta": "¿Qué debe indicarse al cliente al iniciar su pedido?",
+      "respuesta": "Dónde comenzar a tomar su orden en el kiosco."
+    },
+    {
+      "pregunta": "¿Debe apresurarse al cliente mientras realiza su pedido?",
+      "respuesta": "No, nunca debe apresurarse."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal del cajero dinámico?",
+      "respuesta": "Facilitar la toma de órdenes de todos los clientes, no tomar las órdenes por ellos."
+    },
+    {
+      "pregunta": "¿Qué debe sugerirse cuando un cliente paga con tarjeta y comerá en el restaurante?",
+      "respuesta": "El servicio a la mesa."
+    },
+    {
+      "pregunta": "¿Qué debe indicarse a un cliente que paga con tarjeta y su pedido es para llevar?",
+      "respuesta": "Dónde puede esperar su orden."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si el cliente paga en efectivo?",
+      "respuesta": "Indicarle amablemente dónde pagar y, si es posible, acompañarlo a la caja."
+    },
+    {
+      "pregunta": "¿Qué debe respetarse al cobrar órdenes pagadas en efectivo provenientes del kiosco?",
+      "respuesta": "La caja destinada para pagos en efectivo del kiosco."
+    },
+    {
+      "pregunta": "¿Por qué debe respetarse la caja de efectivo del kiosco?",
+      "respuesta": "Para evitar que el cliente haga doble fila."
+    },
+    {
+      "pregunta": "¿Cómo debe despedirse al cliente?",
+      "respuesta": "Con una sonrisa y agradeciendo su visita."
+    }
+  ]
+}
