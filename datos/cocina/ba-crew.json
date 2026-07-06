@@ -1,0 +1,140 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Cuál es el objetivo principal del ensamblador de desayuno?",
+      "respuesta": "Proporcionar consistencia y calidad en cada orden."
+    },
+    {
+      "pregunta": "¿Qué debe revisarse antes de comenzar el turno?",
+      "respuesta": "La higiene personal, limpieza del puesto, disponibilidad de herramientas y abastecimiento."
+    },
+    {
+      "pregunta": "¿Cómo debe estar el uniforme al iniciar el turno?",
+      "respuesta": "Listo para trabajar."
+    },
+    {
+      "pregunta": "¿Cómo debe mantenerse el cabello?",
+      "respuesta": "Recogido y cubierto cuando sea necesario."
+    },
+    {
+      "pregunta": "¿Cómo deben estar las manos antes de trabajar?",
+      "respuesta": "Lavadas y con guantes cuando sea necesario."
+    },
+    {
+      "pregunta": "¿Cómo debe encontrarse la mesa de ensamblaje?",
+      "respuesta": "Limpia y desinfectada."
+    },
+    {
+      "pregunta": "¿Qué riesgos deben evitarse en el piso?",
+      "respuesta": "Resbalones, tropiezos y caídas."
+    },
+    {
+      "pregunta": "¿Qué debe verificarse respecto al UHC y herramientas?",
+      "respuesta": "Que estén disponibles y listos para usarse."
+    },
+    {
+      "pregunta": "¿Cuál es el estándar de temperatura del producto?",
+      "respuesta": "Debe servirse caliente."
+    },
+    {
+      "pregunta": "¿Cómo debe ser la textura ideal de un McMuffin?",
+      "respuesta": "Muffin ligeramente crujiente y esponjado, huevo tierno, carne jugosa y queso fundido."
+    },
+    {
+      "pregunta": "¿Cómo debe ser el sabor del producto?",
+      "respuesta": "Fresco y excelente."
+    },
+    {
+      "pregunta": "¿Cómo debe ser la apariencia del producto?",
+      "respuesta": "Muffin tostado con buena altura e ingredientes bien armados."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con ingredientes dañados o vencidos?",
+      "respuesta": "Desecharlos en los botes de desperdicio alimentario."
+    },
+    {
+      "pregunta": "¿Cuál es la regla principal de calidad?",
+      "respuesta": "Si no se ve bien, no lo sirvas."
+    },
+    {
+      "pregunta": "¿Cuáles son los cuatro pasos básicos para ensamblar un McMuffin?",
+      "respuesta": "Corona del muffin, ingredientes calientes, ingredientes temperados y talón del muffin."
+    },
+    {
+      "pregunta": "¿Qué ingredientes se consideran calientes?",
+      "respuesta": "Carne y huevos."
+    },
+    {
+      "pregunta": "¿Qué ingrediente suele considerarse temperado?",
+      "respuesta": "El queso."
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso en Made For You?",
+      "respuesta": "Responder al monitor."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de responder al monitor?",
+      "respuesta": "Tomar la envoltura correcta y colocar boleto especial si aplica."
+    },
+    {
+      "pregunta": "¿De dónde se toman los muffins para ensamblar?",
+      "respuesta": "Del UHC."
+    },
+    {
+      "pregunta": "¿Cómo deben colocarse los ingredientes?",
+      "respuesta": "En el orden adecuado según el producto solicitado."
+    },
+    {
+      "pregunta": "¿Qué debe verificarse al envolver un producto?",
+      "respuesta": "Que el nombre del producto quede visible cuando se use envoltura multiusos."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de envolver el producto?",
+      "respuesta": "Deslizarlo cuidadosamente hacia la mesa de preparación de pedidos."
+    },
+    {
+      "pregunta": "¿Cuál es el último paso del proceso?",
+      "respuesta": "Entregar la orden."
+    },
+    {
+      "pregunta": "¿Qué regla debe seguirse cuando hay muchas órdenes?",
+      "respuesta": "La regla de 3."
+    },
+    {
+      "pregunta": "¿Qué indica la regla de 3?",
+      "respuesta": "Pedir ayuda si hay más de 3 órdenes en pantalla."
+    },
+    {
+      "pregunta": "¿Por qué es importante responder a los timers de calidad?",
+      "respuesta": "Para asegurar la mejor calidad posible de los alimentos."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con las bandejas vacías del UHC?",
+      "respuesta": "Retirarlas y colocarlas donde corresponda para avisar a los cocineros."
+    },
+    {
+      "pregunta": "¿Qué son las órdenes especiales?",
+      "respuesta": "Órdenes con solicitudes específicas del cliente."
+    },
+    {
+      "pregunta": "¿Dónde debe colocarse el boleto de una orden especial?",
+      "respuesta": "En la parte exterior de la envoltura."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse antes de obtener la verificación?",
+      "respuesta": "Practicar y seguir correctamente todos los procedimientos."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con ingredientes de mala calidad o caducados?",
+      "respuesta": "Desecharlos."
+    },
+    {
+      "pregunta": "¿Cuándo debe pedirse ayuda al líder de turno?",
+      "respuesta": "Cuando existan tres o más pedidos y una persona no pueda atenderlos rápidamente."
+    },
+    {
+      "pregunta": "¿Cómo debe mantenerse el puesto durante el turno?",
+      "respuesta": "Limpio y seguro."
+    }
+  ]
+}
