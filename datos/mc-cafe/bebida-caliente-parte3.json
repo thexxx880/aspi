@@ -1,0 +1,204 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Qué debe hacer el barista al aparecer una orden de Cappuccino en el monitor?",
+      "respuesta": "Iniciar inmediatamente la preparación de la bebida."
+    },
+    {
+      "pregunta": "¿Qué botón del molino se utiliza para un Cappuccino de 8 y 16 onzas?",
+      "respuesta": "El primer botón."
+    },
+    {
+      "pregunta": "¿Qué botón del molino se utiliza para un Cappuccino de 12 onzas?",
+      "respuesta": "El segundo botón."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Cappuccino de 8 onzas?",
+      "respuesta": "1 onza de espresso."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Cappuccino de 12 onzas?",
+      "respuesta": "1.5 onzas de espresso."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Cappuccino de 16 onzas?",
+      "respuesta": "2 onzas de espresso."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Cappuccino simple de 8 onzas?",
+      "respuesta": "5 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Cappuccino simple de 12 onzas?",
+      "respuesta": "7 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Cappuccino simple de 16 onzas?",
+      "respuesta": "10 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Cappuccino doble de 8 onzas?",
+      "respuesta": "4 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Cappuccino doble de 12 onzas?",
+      "respuesta": "5 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Cappuccino doble de 16 onzas?",
+      "respuesta": "10 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cómo debe ser la espuma de un Cappuccino?",
+      "respuesta": "Fina y sin burbujas grandes."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de vaporizar la leche para un Cappuccino?",
+      "respuesta": "Agregar la leche vaporizada sobre el espresso."
+    },
+    {
+      "pregunta": "¿Qué debe acompañar al Cappuccino al momento de servirlo?",
+      "respuesta": "Servilleta, removedor y recipiente con los tres tipos de azúcar."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con el número de mesa al entregar el Cappuccino?",
+      "respuesta": "Retirarlo."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el barista cuando aparece una orden de Latte?",
+      "respuesta": "Iniciar inmediatamente la preparación."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Latte de 8 onzas?",
+      "respuesta": "1 onza de espresso."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Latte de 12 onzas?",
+      "respuesta": "1.5 onzas de espresso."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Latte de 16 onzas?",
+      "respuesta": "2 onzas de espresso."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Latte simple de 8 onzas?",
+      "respuesta": "6 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Latte simple de 12 onzas?",
+      "respuesta": "8 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Latte simple de 16 onzas?",
+      "respuesta": "10 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Latte doble de 8 onzas?",
+      "respuesta": "4 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Latte doble de 12 onzas?",
+      "respuesta": "6 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Latte doble de 16 onzas?",
+      "respuesta": "10 onzas de leche."
+    },
+    {
+      "pregunta": "¿Cómo debe vaporizarse la leche para un Latte?",
+      "respuesta": "Hasta obtener una textura fina y sin burbujas grandes."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de vaporizar la leche para un Latte?",
+      "respuesta": "Agregar la leche vaporizada sobre el espresso."
+    },
+    {
+      "pregunta": "¿Qué debe agregarse primero para preparar un Cappuccino o Latte saborizado?",
+      "respuesta": "El syrup (saborizante)."
+    },
+    {
+      "pregunta": "¿Cuánto syrup lleva una bebida saborizada de 8 onzas?",
+      "respuesta": "0.75 onzas (3 disparos)."
+    },
+    {
+      "pregunta": "¿Cuánto syrup lleva una bebida saborizada de 12 onzas?",
+      "respuesta": "1.25 onzas (5 disparos)."
+    },
+    {
+      "pregunta": "¿Cuánto syrup lleva una bebida saborizada de 16 onzas?",
+      "respuesta": "1.5 onzas (6 disparos)."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de agregar el espresso al syrup?",
+      "respuesta": "Mezclar ambos con una cuchara."
+    },
+    {
+      "pregunta": "¿Por qué debe mezclarse el espresso con el syrup?",
+      "respuesta": "Para lograr una mejor combinación de sabores."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Cappuccino saborizado de 8 onzas?",
+      "respuesta": "4 onzas."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Cappuccino saborizado de 12 onzas?",
+      "respuesta": "5 onzas."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Cappuccino saborizado de 16 onzas?",
+      "respuesta": "10 onzas."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Latte saborizado de 8 onzas?",
+      "respuesta": "4 onzas."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Latte saborizado de 12 onzas?",
+      "respuesta": "6 onzas."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un Latte saborizado de 16 onzas?",
+      "respuesta": "10 onzas."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de agregar la leche en una bebida saborizada?",
+      "respuesta": "Homogeneizar la bebida para balancear el sabor."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse antes de entregar una bebida saborizada?",
+      "respuesta": "Taparla."
+    },
+    {
+      "pregunta": "¿Qué ingrediente se agrega primero para preparar un Mocha?",
+      "respuesta": "Chocolate."
+    },
+    {
+      "pregunta": "¿Cuánto chocolate lleva un Mocha de 8 onzas?",
+      "respuesta": "1 onza."
+    },
+    {
+      "pregunta": "¿Cuánto chocolate lleva un Mocha de 12 onzas?",
+      "respuesta": "1.5 onzas."
+    },
+    {
+      "pregunta": "¿Cuánto chocolate lleva un Mocha de 16 onzas?",
+      "respuesta": "2 onzas."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Mocha de 8 onzas?",
+      "respuesta": "1 onza."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Mocha de 12 onzas?",
+      "respuesta": "1.5 onzas."
+    },
+    {
+      "pregunta": "¿Cuánto espresso lleva un Mocha de 16 onzas?",
+      "respuesta": "2 onzas."
+    },
+    {
+      "pregunta": "¿Cuántos movimientos deben realizarse para mezclar el chocolate y el espresso?",
+      "respuesta": "Al menos 12 movimientos."
+    }
+  ]
+}
