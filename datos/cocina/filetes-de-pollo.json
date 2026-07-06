@@ -1,0 +1,148 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Cuál es la temperatura mínima que deben tener los filetes de pollo Grill al salir de la parrilla?",
+      "respuesta": "165°F."
+    },
+    {
+      "pregunta": "¿En qué parte del filete debe tomarse la temperatura?",
+      "respuesta": "En la parte más gruesa del filete."
+    },
+    {
+      "pregunta": "¿Cuál debe ser la temperatura interna del UHC para mantener los filetes?",
+      "respuesta": "Superior a 140°F."
+    },
+    {
+      "pregunta": "¿Cómo debe calibrarse el pirómetro?",
+      "respuesta": "Utilizando un vaso térmico de 8 oz con 50% de agua y 50% de hielo hasta estabilizarse en 32°F ±2."
+    },
+    {
+      "pregunta": "¿Qué debe verificarse antes de calibrar un equipo?",
+      "respuesta": "Que tenga el tiempo, la temperatura y la selección del producto correctos."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura inferior de la plancha Clamshell?",
+      "respuesta": "350°F."
+    },
+    {
+      "pregunta": "¿Cuánto dura la cocción del primer lado del filete Grill?",
+      "respuesta": "225 segundos."
+    },
+    {
+      "pregunta": "¿Cuánto dura la cocción del segundo lado del filete Grill?",
+      "respuesta": "165 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura de la freidora de pollo?",
+      "respuesta": "325°F."
+    },
+    {
+      "pregunta": "¿Cuánto dura la cocción en la freidora de pollo?",
+      "respuesta": "6 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura de la freidora de fritos para filetes Crispy?",
+      "respuesta": "360°F."
+    },
+    {
+      "pregunta": "¿Cuánto dura la cocción en la freidora de fritos?",
+      "respuesta": "5 minutos con 45 segundos."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo pueden permanecer los filetes Grill en el UHC?",
+      "respuesta": "60 minutos."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo pueden permanecer los filetes Crispy en el UHC?",
+      "respuesta": "60 minutos."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben lavarse las manos?",
+      "respuesta": "Cada hora."
+    },
+    {
+      "pregunta": "¿Cada cuánto debe aplicarse gel desinfectante?",
+      "respuesta": "Cada 30 minutos."
+    },
+    {
+      "pregunta": "¿Qué tipo de guantes deben utilizarse al manipular carnes?",
+      "respuesta": "Guantes azules."
+    },
+    {
+      "pregunta": "¿Cuántos filetes como máximo deben colocarse sobre el azafate gris?",
+      "respuesta": "Cinco filetes."
+    },
+    {
+      "pregunta": "¿Cómo debe abrirse la puerta del cuarto frío al salir con guantes?",
+      "respuesta": "Empujándola con el hombro, sin tocarla con las manos."
+    },
+    {
+      "pregunta": "¿Cuántas descargas de sazonador se aplican por cada lado del filete?",
+      "respuesta": "Tres descargas."
+    },
+    {
+      "pregunta": "¿Con qué utensilio se debe dar vuelta a los filetes Grill?",
+      "respuesta": "Con la espátula amarilla."
+    },
+    {
+      "pregunta": "¿Cuánta agua caliente debe agregarse a la bandeja antes de colocar los filetes?",
+      "respuesta": "6 onzas de agua caliente."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con los utensilios después de cada tanda?",
+      "respuesta": "Lavarlos y dejarlos listos para el siguiente uso."
+    },
+    {
+      "pregunta": "¿Cuántos cucharones de empanizado deben colocarse inicialmente en el bowl?",
+      "respuesta": "Tres cucharones."
+    },
+    {
+      "pregunta": "¿Hasta qué nivel debe llenarse el recipiente de empanizado?",
+      "respuesta": "Al 50% de su capacidad."
+    },
+    {
+      "pregunta": "¿Cada cuántas tandas debe cernirse el empanizado?",
+      "respuesta": "Cada cuatro tandas."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con el empanizado al finalizar el día?",
+      "respuesta": "Cernirlo, guardarlo en una bolsa y utilizarlo primero al día siguiente."
+    },
+    {
+      "pregunta": "¿Durante cuánto tiempo deben escurrirse los filetes después del Batter?",
+      "respuesta": "Entre 5 y 10 segundos."
+    },
+    {
+      "pregunta": "¿Cuántas veces deben sacudirse los filetes para quitar el exceso de empanizado?",
+      "respuesta": "Dos veces."
+    },
+    {
+      "pregunta": "¿Cuántos filetes pueden colocarse por cesta en la freidora de pollo?",
+      "respuesta": "Diez filetes, distribuidos en tres por nivel."
+    },
+    {
+      "pregunta": "¿Debe permanecer abierta la freidora durante la cocción?",
+      "respuesta": "Sí, debe permanecer abierta durante todo el tiempo de cocción."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse al terminar la cocción en la freidora de pollo?",
+      "respuesta": "Sacar el pollo y apagar el temporizador."
+    },
+    {
+      "pregunta": "¿A cuánto debe volver a programarse el tiempo de la freidora después de cocinar?",
+      "respuesta": "A 12 minutos."
+    },
+    {
+      "pregunta": "¿Cuántas tortas como máximo deben colocarse por bandeja?",
+      "respuesta": "Cinco tortas."
+    },
+    {
+      "pregunta": "¿Cuántos filetes pueden colocarse por cesta en la freidora abierta?",
+      "respuesta": "Cinco filetes, dos por nivel en posición horizontal."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo deben escurrirse los filetes al salir de la freidora abierta?",
+      "respuesta": "Entre 5 y 10 segundos."
+    }
+  ]
+}
