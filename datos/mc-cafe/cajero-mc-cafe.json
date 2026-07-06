@@ -1,0 +1,108 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Qué esperan los clientes cuando visitan un McCafé?",
+      "respuesta": "Un servicio rápido, exacto, amigable y muy especial."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo de brindar un excelente servicio en McCafé?",
+      "respuesta": "Impresionar a los clientes para atraer a más personas."
+    },
+    {
+      "pregunta": "¿Cómo deben estar los tomadores de órdenes durante su turno?",
+      "respuesta": "Siempre en su posición, listos para saludar al siguiente cliente."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el cajero mientras atiende a un cliente?",
+      "respuesta": "Orientarlo sobre las bebidas y pasteles disponibles en McCafé y atenderlo como un invitado especial."
+    },
+    {
+      "pregunta": "¿Qué debe preguntar el cajero al gerente al iniciar el turno?",
+      "respuesta": "Cuáles son los objetivos y las promociones actuales."
+    },
+    {
+      "pregunta": "¿Qué debe revisar el cajero antes de iniciar el turno?",
+      "respuesta": "Los niveles de inventario y que exista una buena provisión de artículos promocionales y juguetes para la Cajita Feliz."
+    },
+    {
+      "pregunta": "¿En cuánto tiempo debe saludarse al cliente?",
+      "respuesta": "En un máximo de 10 segundos."
+    },
+    {
+      "pregunta": "¿Cómo debe saludarse al cliente?",
+      "respuesta": "Con una sonrisa, una voz amable, mirando a los ojos y siendo amigable y entusiasta."
+    },
+    {
+      "pregunta": "¿Es recomendable saludar al cliente por su nombre?",
+      "respuesta": "Sí, si es posible."
+    },
+    {
+      "pregunta": "¿Qué saludo recomienda el boletín para recibir al cliente?",
+      "respuesta": "“Bienvenido a McCafé”, aunque también son aceptables saludos como “Hola” o “Buenos días” si se dicen con calidez."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo máximo para tomar una orden?",
+      "respuesta": "25 segundos o menos."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el cajero mientras el cliente realiza su pedido?",
+      "respuesta": "Escuchar al cliente y registrar la orden en el POS sin interrumpirlo."
+    },
+    {
+      "pregunta": "¿Cuándo debe presionarse el botón TOTAL en el POS?",
+      "respuesta": "Cuando el cliente haya terminado de ordenar."
+    },
+    {
+      "pregunta": "¿Qué tipos de pago debe saber procesar el cajero?",
+      "respuesta": "Efectivo, tarjeta de crédito y tarjeta de débito."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el cajero al indicar dónde recoger la orden?",
+      "respuesta": "Utilizar movimientos de las manos para explicar cómo y dónde recogerla."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el cajero antes de indicar el total a pagar?",
+      "respuesta": "Hacer una breve pausa para asegurarse de que el cliente haya terminado de ordenar."
+    },
+    {
+      "pregunta": "¿Qué debe decir el cajero al cliente después de calcular el total?",
+      "respuesta": "La cantidad total que debe pagar."
+    },
+    {
+      "pregunta": "¿Qué debe decir el cajero al recibir el dinero o el pago?",
+      "respuesta": "El total de dinero recibido o el tipo de pago que recibió."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el cajero con los billetes durante una transacción en efectivo?",
+      "respuesta": "Colocarlos boca abajo sobre el cajón de la registradora hasta entregar el cambio y luego guardarlos."
+    },
+    {
+      "pregunta": "¿Por qué deben dejarse los billetes sobre el cajón antes de guardarlos?",
+      "respuesta": "Para recordar cuánto dinero entregó el cliente."
+    },
+    {
+      "pregunta": "¿Cómo debe entregarse el cambio al cliente?",
+      "respuesta": "Indicando la cantidad que se devuelve mientras se entregan las monedas y contando los billetes uno por uno."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el cajero después de entregar el cambio?",
+      "respuesta": "Dar las gracias al cliente."
+    },
+    {
+      "pregunta": "¿Qué información debe proporcionar el cajero al finalizar la transacción?",
+      "respuesta": "Cómo y dónde recoger la orden."
+    },
+    {
+      "pregunta": "¿Qué debe entregarse al cliente junto con las indicaciones para recoger la orden?",
+      "respuesta": "El número de la orden y la factura."
+    },
+    {
+      "pregunta": "¿Hacia dónde debe dirigirse al cliente después de finalizar la compra?",
+      "respuesta": "Al área de espera."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el cajero inmediatamente después de finalizar una venta?",
+      "respuesta": "Continuar tomando órdenes para mantener las filas en movimiento."
+    }
+  ]
+}
