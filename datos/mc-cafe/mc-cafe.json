@@ -1,0 +1,176 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Cuál es el tiempo de vida primario y secundario del topping de fresa?",
+      "respuesta": "Primario 120 días, secundario 7 días."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida primario y secundario del dulce de leche y topping de mora?",
+      "respuesta": "Primario 90 días, secundario 7 días."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida del smoothie?",
+      "respuesta": "Primario 6 meses, después de abierto 7 días."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de la galleta de oreo?",
+      "respuesta": "3 días."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida del café moro y café región?",
+      "respuesta": "Primario 2 meses, secundario 6 horas, después de abierto 3 días."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida primario y secundario de la leche de la Milita?",
+      "respuesta": "Primario 180 días, secundario 48 horas."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida primario y secundario de la leche para Mc café?",
+      "respuesta": "Primario 180 días, secundario 5 días."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida primario y secundario del café descafeinado?",
+      "respuesta": "Primario 30 días, secundario 15 días."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los jarabes de vainilla, caramelo y vainilla sugar free?",
+      "respuesta": "Primario 3 años, secundario 90 días."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de la azúcar líquida?",
+      "respuesta": "Primaria 180 días, secundario 7 días."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida del té guatemalteco?",
+      "respuesta": "Primario 60 días, secundario 1 mes."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida del té chai?",
+      "respuesta": "Primario 2 años, secundario 6 meses."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los Mc pops de avellana y Mc pops de chocolate?",
+      "respuesta": "Primario 542 días (avellana) / 540 días (chocolate), secundario 12 horas."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los dots de chocolate y dots de fresa?",
+      "respuesta": "Primario 365 días, secundario 12 horas."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los postres (cheesecake, macadamia, elote, zanahoria, tres leches)?",
+      "respuesta": "Primario 60 días, secundario 96 horas."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida del chocolate caliente después de abierto?",
+      "respuesta": "7 días."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de la mezcla de expreso para frappe?",
+      "respuesta": "48 horas, incluyendo 1 hora de enfriamiento."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida para la mezcla de Iced café?",
+      "respuesta": "12 horas."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Iced café original de 16 Oz?",
+      "respuesta": "2 Oz de leche, 1.5 Oz de azúcar y 3 disparos."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Iced café original de 20 Oz?",
+      "respuesta": "3 Oz de leche, 2 Oz de azúcar y 4 disparos."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Iced café saborizado de 16 Oz?",
+      "respuesta": "2 Oz de leche, 1.25 Oz de saborizante y 5 disparos."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Iced café saborizado de 20 Oz?",
+      "respuesta": "3 Oz de leche, 2 Oz de saborizante y 8 disparos."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Frappe Original de 16 Oz y 20 Oz?",
+      "respuesta": "16 Oz: 1.5 Oz azúcar, 2 Oz leche, 3 Oz expreso. 20 Oz: 1.5 Oz azúcar, 2 Oz leche, 4 Oz expreso."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Frappe Saborizado de 16 Oz y 20 Oz?",
+      "respuesta": "16 Oz: 1 Oz azúcar, 1 Oz syrup, 2 Oz leche, 2 Oz expreso. 20 Oz: 1 Oz azúcar, 1.5 Oz syrup, 2 Oz leche, 3 Oz expreso."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Frappe Oreo de 16 Oz y 20 Oz?",
+      "respuesta": "16 Oz: 1.5 Oz azúcar, 1 Oz chocolate, 2 Oz oreo, 2 Oz leche, 3 Oz expreso. 20 Oz: 1.5 Oz azúcar, 1.5 Oz chocolate, 2 Oz oreo, 2 Oz leche, 4 Oz expreso."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Smoothie de 16 Oz y 20 Oz?",
+      "respuesta": "16 Oz: 4 Oz agua/leche, 4 Oz base de fruta. 20 Oz: 4 Oz agua/leche, 5 Oz base de fruta."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Frappe Chai de 16 Oz y 20 Oz?",
+      "respuesta": "16 Oz: 3 cucharones de té chai, 1 Oz azúcar, 6 Oz leche. 20 Oz: 4 cucharones de té chai, 1 Oz azúcar, 6 Oz leche."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Frappe Chai sugar free de 16 Oz y 20 Oz?",
+      "respuesta": "16 Oz: 4 cucharones de té chai, 6 Oz leche. 20 Oz: 5 cucharones de té chai, 6 Oz leche."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Latte caliente?",
+      "respuesta": "8 Oz: 6 Oz leche, 1 Oz expreso. 12 Oz: 8 Oz leche, 1.5 Oz expreso. 16 Oz: 10 Oz leche, 2 Oz expreso."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Capuchino caliente?",
+      "respuesta": "8 Oz: 5 Oz leche, 1 Oz expreso. 12 Oz: 7 Oz leche, 1.5 Oz expreso. 16 Oz: 10 Oz leche, 2 Oz expreso."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Latte o Capuchino Saborizado?",
+      "respuesta": "8 Oz: 4 Oz leche, 0.75 Oz syrup, 1 Oz expreso. 12 Oz: 6 Oz leche, 1.5 Oz syrup, 1.5 Oz expreso. 16 Oz: 10 Oz leche, 2 Oz syrup, 2 Oz expreso."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un café Guatemalteco?",
+      "respuesta": "8 Oz: 1 Oz expreso. 12 Oz: 1.5 Oz expreso. 16 Oz: 2 Oz expreso."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Moca caliente?",
+      "respuesta": "8 Oz: 1 Oz choco, 4 Oz leche, 1 Oz expreso. 12 Oz: 1.5 Oz choco, 6 Oz leche, 1.5 Oz expreso. 16 Oz: 2 Oz choco, 10 Oz leche, 2 Oz expreso."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Chocolate caliente?",
+      "respuesta": "8 Oz: 6 Oz leche, 1 Oz choco. 12 Oz: 8 Oz leche, 1.5 Oz choco. 16 Oz: 10 Oz leche, 2 Oz choco."
+    },
+    {
+      "pregunta": "¿Cuáles son las medidas para un Té chai caliente?",
+      "respuesta": "8 Oz: 1 cucharón chai, 1/2 Oz azúcar, 6 Oz leche. 12 Oz: 1 cucharón chai, 1/2 Oz azúcar, 8 Oz leche. 16 Oz: 1 cucharón chai, 1 Oz azúcar, 10 Oz leche."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura correcta para el expreso?",
+      "respuesta": "Arriba de 170ºF."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura correcta para el capuchino, latte u otras bebidas?",
+      "respuesta": "165°F +/- 5°F."
+    },
+    {
+      "pregunta": "¿Cuál debe ser la temperatura de la vitrina?",
+      "respuesta": "4°C (34°F o 40°F)."
+    },
+    {
+      "pregunta": "¿A qué temperatura debe estar la leche?",
+      "respuesta": "150°F o 170°F."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura correcta para el café guatemalteco y el té caliente?",
+      "respuesta": "190°F +/- 5°F."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura correcta para el té chai?",
+      "respuesta": "160°F +/- 5°F."
+    },
+    {
+      "pregunta": "¿Cuáles son los gramos, onzas líquidas y caídas del expreso según su tamaño?",
+      "respuesta": "8 Oz: 17.5 gramos, 1 Oz líquida, 1 caída. 12 Oz: 17.5 gramos, 1.5 Oz líquida, 2 caídas. 16 Oz: 17.5 gramos, 2 Oz líquida, 2 caídas."
+    },
+    {
+      "pregunta": "¿Cuáles son los 5 puntos de la hospitalidad en Mc Café?",
+      "respuesta": "1: Bienvenida y agradecimiento sincero. 2: Limpieza. 3: Crear momentos dorados. 4: Todos somos embajadores de la hospitalidad. 5: Exactitud en la orden."
+    }
+  ]
+}
