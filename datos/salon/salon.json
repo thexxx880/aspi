@@ -1,0 +1,212 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Qué debe hacer si un cliente necesita una sillita alta?",
+      "respuesta": "Ayudarle proporcionándole una sillita alta."
+    },
+    {
+      "pregunta": "¿Qué debe hacer si un cliente olvidó pedir condimentos?",
+      "respuesta": "Ofrecerle los condimentos que necesite."
+    },
+    {
+      "pregunta": "¿Qué debe hacer cuando un cliente entra o sale del restaurante?",
+      "respuesta": "Abrirle la puerta como parte de la cortesía al cliente."
+    },
+    {
+      "pregunta": "¿Qué debe hacer si un cliente derrama su bebida?",
+      "respuesta": "Reemplazar la bebida sin realizar ningún cobro."
+    },
+    {
+      "pregunta": "¿Qué debe hacer si un cliente no está satisfecho con un producto?",
+      "respuesta": "Disculparse y reemplazar el artículo."
+    },
+    {
+      "pregunta": "¿Cómo puede ayudar a un cliente con una orden grande?",
+      "respuesta": "Ayudándole a llevar la comida hasta su mesa."
+    },
+    {
+      "pregunta": "¿Qué está incluido en el precio de la comida además de los productos?",
+      "respuesta": "La cortesía y la atención al cliente."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben revisarse los botes de basura del comedor?",
+      "respuesta": "Cada 30 minutos y cada 15 minutos durante períodos de alto movimiento."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si hay derrames sobre los botes de basura?",
+      "respuesta": "Limpiarlos inmediatamente."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con los derrames dentro de los botes de basura?",
+      "respuesta": "Limpiarlos."
+    },
+    {
+      "pregunta": "¿Cuándo debe compactarse la basura?",
+      "respuesta": "Cuando sea necesario."
+    },
+    {
+      "pregunta": "¿Cuándo debe cambiarse la bolsa de basura?",
+      "respuesta": "Cuando el bote esté a tres cuartos de su capacidad después de compactar la basura."
+    },
+    {
+      "pregunta": "¿Cómo deben verse las bolsas de basura?",
+      "respuesta": "No deben quedar visibles."
+    },
+    {
+      "pregunta": "¿Con qué solución deben limpiarse diariamente los botes de basura?",
+      "respuesta": "Con solución sanitizante (Sanitizer)."
+    },
+    {
+      "pregunta": "¿Con qué deben limpiarse las ventanas y puertas de vidrio?",
+      "respuesta": "Con una solución para vidrio y una toalla limpia."
+    },
+    {
+      "pregunta": "¿Qué debe limpiarse además del vidrio de puertas y ventanas?",
+      "respuesta": "Los marcos de puertas y ventanas."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse antes de trapear el piso?",
+      "respuesta": "Barrer completamente el área."
+    },
+    {
+      "pregunta": "¿A qué distancia mínima de los clientes debe barrerse o trapearse durante períodos ocupados?",
+      "respuesta": "A más de 5 pies de distancia."
+    },
+    {
+      "pregunta": "¿Qué solución debe utilizarse para trapear el piso?",
+      "respuesta": "FloorCare mezclado con agua caliente."
+    },
+    {
+      "pregunta": "¿Cuándo debe trapearse antes de los períodos pico?",
+      "respuesta": "15 minutos antes para permitir que el piso se seque."
+    },
+    {
+      "pregunta": "¿Qué letreros deben colocarse mientras se trapea?",
+      "respuesta": "Letreros de 'Cuidado, Piso Mojado'."
+    },
+    {
+      "pregunta": "¿Cómo debe trapearse el piso?",
+      "respuesta": "Por zonas de aproximadamente 10 x 10 pies, haciendo una figura de ocho."
+    },
+    {
+      "pregunta": "¿Por qué deben utilizarse diferentes trapeadores para la parrilla y el lobby?",
+      "respuesta": "Para evitar que la grasa pase al área del comedor."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con el trapeador después de usarlo?",
+      "respuesta": "Enjuagarlo con agua caliente y dejarlo secar al aire."
+    },
+    {
+      "pregunta": "¿Cuándo deben retirarse los letreros de 'Cuidado, Piso Mojado'?",
+      "respuesta": "Cuando el piso esté completamente seco."
+    },
+    {
+      "pregunta": "¿Qué tipo de toallas deben utilizarse para limpiar el comedor?",
+      "respuesta": "Toallas limpias y sanitizadas."
+    },
+    {
+      "pregunta": "¿Cuándo deben cambiarse las toallas de limpieza?",
+      "respuesta": "Cuando sea necesario."
+    },
+    {
+      "pregunta": "¿Qué debe retirarse de las mesas durante la limpieza?",
+      "respuesta": "Las bandejas y toda la basura."
+    },
+    {
+      "pregunta": "¿Cómo deben limpiarse las bandejas durante el día?",
+      "respuesta": "Con solución sanitizante y una toalla limpia."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con las bandejas al finalizar el día?",
+      "respuesta": "Lavarlas, enjuagarlas, sanitizarlas y dejarlas secar al aire."
+    },
+    {
+      "pregunta": "¿Qué método debe utilizarse para limpiar mesas y sillas?",
+      "respuesta": "El método de dos toallas."
+    },
+    {
+      "pregunta": "¿Cuándo deben limpiarse y sanitizarse las mesas y asientos?",
+      "respuesta": "Tan pronto como los clientes se retiren y antes de que lleguen otros."
+    },
+    {
+      "pregunta": "¿Qué debe revisarse en los baños con frecuencia?",
+      "respuesta": "Que haya jabón, toallas de papel y papel higiénico."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si las llaves del agua o los secadores no funcionan?",
+      "respuesta": "Reportarlo al gerente de turno."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben limpiarse los baños?",
+      "respuesta": "Cada 30 minutos y cada 15 minutos durante períodos altos de venta."
+    },
+    {
+      "pregunta": "¿Qué elementos deben limpiarse y sanitizarse en los baños?",
+      "respuesta": "Inodoros, mingitorios y mesas para cambiar pañales."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con las toallas utilizadas para limpiar los baños?",
+      "respuesta": "Colocarlas en el balde de toallas sucias."
+    },
+    {
+      "pregunta": "¿Qué tipo de guantes deben utilizarse al limpiar los baños?",
+      "respuesta": "Guantes de hule."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con los guantes al salir del baño?",
+      "respuesta": "Quitárselos y lavarse las manos."
+    },
+    {
+      "pregunta": "¿Qué debe inspeccionarse frecuentemente en el PlayPlace o Playland?",
+      "respuesta": "El área de juegos, la limpieza y el área de pelotas."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si existe un problema en el PlayPlace?",
+      "respuesta": "Cerrar el área y asegurarla con llave si es necesario."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben revisarse los botes de basura del exterior?",
+      "respuesta": "Cada 30 minutos."
+    },
+    {
+      "pregunta": "¿Cuándo debe cambiarse la bolsa de los botes exteriores?",
+      "respuesta": "Cuando esté a tres cuartos de su capacidad después de compactar la basura."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse para controlar el olor de los botes exteriores?",
+      "respuesta": "Rociar el interior con solución Sanitizer."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con toda la basura visible en el exterior?",
+      "respuesta": "Recogerla."
+    },
+    {
+      "pregunta": "¿Cómo deben limpiarse los derrames en el exterior?",
+      "respuesta": "Lavándolos con un balde de agua caliente."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse regularmente con las aceras?",
+      "respuesta": "Trapearlas."
+    },
+    {
+      "pregunta": "¿Cómo deben transportarse las bolsas de basura al corral?",
+      "respuesta": "Cargándolas, nunca arrastrándolas."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con las bolsas llenas de basura?",
+      "respuesta": "Llevarlas inmediatamente al corral."
+    },
+    {
+      "pregunta": "¿Cómo debe mantenerse la puerta del corral?",
+      "respuesta": "Siempre cerrada y con llave."
+    },
+    {
+      "pregunta": "¿Qué precaución debe tenerse al levantar bolsas de basura?",
+      "respuesta": "No lanzarlas por encima de la cerca."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de regresar del corral de basura?",
+      "respuesta": "Lavarse las manos."
+    }
+  ]
+}
