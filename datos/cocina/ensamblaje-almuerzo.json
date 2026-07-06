@@ -1,0 +1,112 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Qué sucede si la freidora no tiene la programación correcta para pollo?",
+      "respuesta": "Los productos de pollo quedarán crudos o muy cocidos."
+    },
+    {
+      "pregunta": "¿Por qué es importante que la temperatura de la freidora sea la correcta?",
+      "respuesta": "Porque garantiza la cocción adecuada de los productos de pollo."
+    },
+    {
+      "pregunta": "¿Qué espera el cliente al recibir su pedido?",
+      "respuesta": "Ingredientes correctos, ingredientes frescos y sándwiches y ensaladas bien armados."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de ensamblaje de los sándwiches?",
+      "respuesta": "Entre 35 y 50 segundos."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo deben lavarse las manos los empleados?",
+      "respuesta": "Durante 20 segundos con jabón antibacterial, enjuagándose y secándose correctamente."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben volver a lavarse las manos los empleados?",
+      "respuesta": "Cuando sea necesario y al menos una vez por hora."
+    },
+    {
+      "pregunta": "¿Qué debe verificarse antes de utilizar los ingredientes para preparar hamburguesas?",
+      "respuesta": "Que cumplan con el tiempo de vida secundario."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si un ingrediente no cumple con el tiempo de vida secundario?",
+      "respuesta": "Desecharlo inmediatamente."
+    },
+    {
+      "pregunta": "¿Por qué deben utilizarse diferentes pinzas para carne, pollo y huevos?",
+      "respuesta": "Para prevenir la contaminación cruzada y reducir el riesgo de reacciones alérgicas."
+    },
+    {
+      "pregunta": "¿Para qué productos deben existir pinzas exclusivas?",
+      "respuesta": "Carnes, pollo, tortas de cerdo y tortas de pescado."
+    },
+    {
+      "pregunta": "¿Qué hace el iniciador al observar una orden en el monitor?",
+      "respuesta": "Responde inmediatamente a la orden y coloca el pan dentro del tostador vertical."
+    },
+    {
+      "pregunta": "¿Qué hace el iniciador después de responder la orden?",
+      "respuesta": "Toma la cajeta y la identifica según el producto a preparar."
+    },
+    {
+      "pregunta": "¿Qué hace el iniciador después de identificar la cajeta?",
+      "respuesta": "Coloca el pan en la caja o empaque e inicia el aderezado del producto."
+    },
+    {
+      "pregunta": "¿A qué altura debe agregarse la salsa al aderezar los productos?",
+      "respuesta": "A 1 pulgada de altura."
+    },
+    {
+      "pregunta": "¿Cómo deben colocarse los ingredientes durante el ensamblaje?",
+      "respuesta": "Deben ser los ingredientes correctos y colocarse al centro del producto."
+    },
+    {
+      "pregunta": "¿Cómo debe quedar siempre el producto?",
+      "respuesta": "Bien armado."
+    },
+    {
+      "pregunta": "¿Cuándo debe borrarse la orden en el KVS por parte del iniciador?",
+      "respuesta": "Cuando el ensamblador se hace cargo de la preparación."
+    },
+    {
+      "pregunta": "¿Cuántos productos deben ensamblarse al mismo tiempo como máximo?",
+      "respuesta": "Dos productos."
+    },
+    {
+      "pregunta": "¿Qué hace el ensamblador después de recibir el pan o la base para ensalada?",
+      "respuesta": "Ensambla el resto de los productos, arma los sándwiches y adereza o completa la ensalada."
+    },
+    {
+      "pregunta": "¿Cómo se ensamblan los McNuggets?",
+      "respuesta": "El ensamblador toma la caja correcta del iniciador y coloca la cantidad correspondiente de piezas."
+    },
+    {
+      "pregunta": "¿Qué hace el ensamblador al terminar de preparar una orden?",
+      "respuesta": "Completa el empaque y traslada los productos a la OAT."
+    },
+    {
+      "pregunta": "¿Cuándo debe borrar la orden en el KVS el ensamblador?",
+      "respuesta": "Cuando realiza todo el proceso de ensamblaje."
+    },
+    {
+      "pregunta": "¿De qué es responsable el ensamblador cuando observa que los ingredientes o cajetas están por terminarse?",
+      "respuesta": "De solicitar el surtido al preparador."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el ensamblador con los dispensadores de salsa?",
+      "respuesta": "Mantenerlos siempre bien surtidos."
+    },
+    {
+      "pregunta": "¿Cómo debe mantenerse el área de trabajo?",
+      "respuesta": "Siempre limpia e higienizada."
+    },
+    {
+      "pregunta": "¿Cómo deben trasladarse los productos hacia la OAT?",
+      "respuesta": "Deslizándolos sin lastimar el producto."
+    },
+    {
+      "pregunta": "¿Qué tiempos de vida deben respetarse siempre durante el ensamblaje?",
+      "respuesta": "Los tiempos de vida primarios y secundarios."
+    }
+  ]
+}
