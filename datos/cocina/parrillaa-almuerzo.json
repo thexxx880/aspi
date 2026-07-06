@@ -1,0 +1,148 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Cada cuánto debe realizarse el ciclo de lavado de manos?",
+      "respuesta": "Cada hora."
+    },
+    {
+      "pregunta": "¿Cada cuánto debe aplicarse gel desinfectante como mínimo?",
+      "respuesta": "Cada 30 minutos."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo debe durar el lavado de manos?",
+      "respuesta": "20 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura interna mínima que debe alcanzar la carne?",
+      "respuesta": "155°F."
+    },
+    {
+      "pregunta": "¿Qué ocurre si la parrilla no tiene la programación correcta?",
+      "respuesta": "La carne quedará cruda o muy cocida."
+    },
+    {
+      "pregunta": "¿Para qué se utilizan los guantes azules?",
+      "respuesta": "Para manipular carne cruda de forma segura."
+    },
+    {
+      "pregunta": "¿Cuál es el rango correcto de temperatura para almacenar carne congelada?",
+      "respuesta": "De 0°F a -10°F."
+    },
+    {
+      "pregunta": "¿Cómo deben verse las porciones congeladas de carne en buen estado?",
+      "respuesta": "Ligeramente rosadas, fáciles de separar y uniformes."
+    },
+    {
+      "pregunta": "¿Qué color puede indicar carne deshidratada?",
+      "respuesta": "Café, rojo brillante o blanco."
+    },
+    {
+      "pregunta": "¿Cuál es la tanda máxima de carne 10:1?",
+      "respuesta": "6 piezas."
+    },
+    {
+      "pregunta": "¿Cuál es la tanda máxima de carne 4:1?",
+      "respuesta": "4 piezas."
+    },
+    {
+      "pregunta": "¿Cuál es la tanda máxima de carne 3:1?",
+      "respuesta": "3 piezas."
+    },
+    {
+      "pregunta": "¿Cómo deben colocarse las carnes sobre la parrilla?",
+      "respuesta": "De 2 en 2 y de adelante hacia atrás."
+    },
+    {
+      "pregunta": "¿Cuándo se agrega la sal pimentada?",
+      "respuesta": "Cuando se abre la parrilla al finalizar la cocción."
+    },
+    {
+      "pregunta": "¿Cómo se agrega la cebolla sobre la carne?",
+      "respuesta": "Con movimiento de martillo usando el dispensador."
+    },
+    {
+      "pregunta": "¿Es necesario escurrir la carne al retirarla de la parrilla?",
+      "respuesta": "No."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de las carnes en el UHC?",
+      "respuesta": "10 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es la cantidad máxima de carne 10:1 por bandeja UHC?",
+      "respuesta": "12 piezas."
+    },
+    {
+      "pregunta": "¿Cuál es la cantidad máxima de carne 4:1 por bandeja UHC?",
+      "respuesta": "4 piezas."
+    },
+    {
+      "pregunta": "¿Cuál es la cantidad máxima de carne 3:1 por bandeja UHC?",
+      "respuesta": "3 piezas."
+    },
+    {
+      "pregunta": "¿Cada cuánto debe limpiarse la parrilla con el trapo de parrilla?",
+      "respuesta": "Cada 15 minutos."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse cuando el timer del UHC llega a 00?",
+      "respuesta": "Desechar el producto."
+    },
+    {
+      "pregunta": "¿Se debe reprogramar el timer del UHC?",
+      "respuesta": "No."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben lavarse, enjuagarse y sanitizarse las bandejas del UHC?",
+      "respuesta": "Cada 4 horas."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo máximo para sacar las carnes 10:1, 4:1 y 3:1 de la parrilla?",
+      "respuesta": "18 segundos."
+    },
+    {
+      "pregunta": "¿Qué temperatura interna garantiza una comida segura?",
+      "respuesta": "Más de 155°F."
+    },
+    {
+      "pregunta": "¿Cada cuánto debe cambiarse el trapo de parrilla?",
+      "respuesta": "Cada hora."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con los canales de grasa cuando llegan a la mitad de su capacidad?",
+      "respuesta": "Vaciarse en los recipientes designados."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo debe esperar antes de colocar una segunda tanda en cocción?",
+      "respuesta": "20 segundos."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse al cocinar carne 10:1 sin cebolla?",
+      "respuesta": "Separarla en una bandeja distinta y no mezclarla."
+    },
+    {
+      "pregunta": "¿Qué utensilios se necesitan para cambiar una cuchilla?",
+      "respuesta": "Cuchilla, espátula y base para colocar cuchillas."
+    },
+    {
+      "pregunta": "¿A qué hora debe encenderse normalmente el monitor Mira&Cocina?",
+      "respuesta": "A las 10:45 AM."
+    },
+    {
+      "pregunta": "¿Cuál es el procedimiento básico del monitor Mira&Cocina?",
+      "respuesta": "Mirar la cantidad, borrar la orden y cocinar."
+    },
+    {
+      "pregunta": "¿Qué sucede cuando un cliente realiza una orden en kiosco, caja o McDelivery?",
+      "respuesta": "Las carnes necesarias aparecen en el monitor Mira&Cocina."
+    },
+    {
+      "pregunta": "¿Qué debe evitarse en el UHC?",
+      "respuesta": "Mantener bandejas vacías."
+    },
+    {
+      "pregunta": "¿Qué espera el cliente de la carne?",
+      "respuesta": "Que sea jugosa, bien sazonada y bien cocida."
+    }
+  ]
+}
