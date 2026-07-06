@@ -1,0 +1,196 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Qué novedades incorpora el nuevo sistema de té chai?",
+      "respuesta": "Nueva presentación en bolsas, un recipiente especial para cada sabor y depósitos con cierre al vacío para evitar la fuga de aromas."
+    },
+    {
+      "pregunta": "¿Cuál es el código SAP del Tiger Spice?",
+      "respuesta": "11002."
+    },
+    {
+      "pregunta": "¿Cuál es el código SAP del Elephant Vanilla?",
+      "respuesta": "11003."
+    },
+    {
+      "pregunta": "¿Cuál es el código SAP del Tortoise Green Tea?",
+      "respuesta": "11004."
+    },
+    {
+      "pregunta": "¿Cuál es el código SAP del Flamingo Vanilla?",
+      "respuesta": "11011."
+    },
+    {
+      "pregunta": "¿Cuántas bebidas de 12 onzas rinde una bolsa de Tiger Spice?",
+      "respuesta": "46 bebidas."
+    },
+    {
+      "pregunta": "¿Cuántas bebidas de 16 onzas rinde una bolsa de Tiger Spice?",
+      "respuesta": "31 bebidas."
+    },
+    {
+      "pregunta": "¿Cuántas bebidas de 12 onzas rinde una bolsa de Elephant Vanilla?",
+      "respuesta": "47 bebidas."
+    },
+    {
+      "pregunta": "¿Cuántas bebidas de 16 onzas rinde una bolsa de Elephant Vanilla?",
+      "respuesta": "31 bebidas."
+    },
+    {
+      "pregunta": "¿Cuántas bebidas de 12 onzas rinde una bolsa de Tortoise Green Tea?",
+      "respuesta": "52 bebidas."
+    },
+    {
+      "pregunta": "¿Cuántas bebidas de 16 onzas rinde una bolsa de Tortoise Green Tea?",
+      "respuesta": "34 bebidas."
+    },
+    {
+      "pregunta": "¿Cuántas bebidas de 12 onzas rinde una bolsa de Flamingo Vanilla?",
+      "respuesta": "48 bebidas."
+    },
+    {
+      "pregunta": "¿Cuántas bebidas de 16 onzas rinde una bolsa de Flamingo Vanilla?",
+      "respuesta": "32 bebidas."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida primario de los ingredientes?",
+      "respuesta": "730 días a temperatura ambiente."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida secundario de los ingredientes después de abrirlos?",
+      "respuesta": "6 meses en el depósito debidamente tapado."
+    },
+    {
+      "pregunta": "¿Qué cucharón debe utilizarse para servir el té chai?",
+      "respuesta": "El cucharón boleador de 7/8 de onza con mango color morado."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben lavarse las manos durante el manejo del té chai?",
+      "respuesta": "Cada hora."
+    },
+    {
+      "pregunta": "¿Cada cuánto debe aplicarse gel antibacterial?",
+      "respuesta": "Cada 30 minutos."
+    },
+    {
+      "pregunta": "¿Es obligatorio utilizar guantes desechables?",
+      "respuesta": "Sí."
+    },
+    {
+      "pregunta": "¿Cómo deben encontrarse los utensilios antes de utilizarlos?",
+      "respuesta": "Limpios e higienizados."
+    },
+    {
+      "pregunta": "¿Qué tiempos de vida deben respetarse durante el manejo del té?",
+      "respuesta": "El tiempo de vida primario y secundario de los ingredientes."
+    },
+    {
+      "pregunta": "¿Qué procedimientos deben cumplirse durante el manejo del té chai?",
+      "respuesta": "Todos los procedimientos de bioseguridad."
+    },
+    {
+      "pregunta": "¿Cómo debe prepararse el recipiente antes de surtir el té?",
+      "respuesta": "Debe utilizarse el recipiente identificado con el sabor correspondiente."
+    },
+    {
+      "pregunta": "¿Cómo debe abrirse la bolsa de té?",
+      "respuesta": "Con una tijera limpia e higienizada, cortando completamente un extremo."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de abrir la bolsa de té?",
+      "respuesta": "Verter todo el contenido en el recipiente correspondiente."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de llenar el recipiente de té?",
+      "respuesta": "Colocar la tapa y etiquetar el tiempo de vida de 6 meses."
+    },
+    {
+      "pregunta": "¿Por qué es importante cerrar correctamente el recipiente del té?",
+      "respuesta": "Para evitar la fuga de aromas."
+    },
+    {
+      "pregunta": "¿Cómo deben organizarse los depósitos de té?",
+      "respuesta": "Según la distribución indicada en la imagen del manual."
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso para preparar un té chai caliente?",
+      "respuesta": "Estar atento al KVS."
+    },
+    {
+      "pregunta": "¿Qué debe verificarse antes de usar la taza de acero inoxidable?",
+      "respuesta": "Que esté limpia."
+    },
+    {
+      "pregunta": "¿Cuántos cucharones de té se utilizan para una bebida caliente de 12 onzas?",
+      "respuesta": "2 cucharones."
+    },
+    {
+      "pregunta": "¿Cuántos cucharones de té se utilizan para una bebida caliente de 16 onzas?",
+      "respuesta": "3 cucharones."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un té chai caliente de 12 onzas?",
+      "respuesta": "8 onzas."
+    },
+    {
+      "pregunta": "¿Cuánta leche lleva un té chai caliente de 16 onzas?",
+      "respuesta": "10 onzas."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse antes de vaporizar la bebida?",
+      "respuesta": "Limpiar la lanceta con un trapo limpio y sanitizado."
+    },
+    {
+      "pregunta": "¿A qué temperatura debe vaporizarse el té chai caliente?",
+      "respuesta": "140 °F."
+    },
+    {
+      "pregunta": "¿Por qué es importante vaporizar correctamente la bebida?",
+      "respuesta": "Para evitar la formación de grumos."
+    },
+    {
+      "pregunta": "¿Cuál es el último paso al preparar un té chai caliente?",
+      "respuesta": "Tapar la bebida y servir al cliente con una sonrisa."
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso para preparar un té chai frappé?",
+      "respuesta": "Estar atento al KVS."
+    },
+    {
+      "pregunta": "¿Qué líquido puede utilizarse para preparar un frappé?",
+      "respuesta": "Leche o agua, según la elección del cliente."
+    },
+    {
+      "pregunta": "¿Cuánta leche o agua lleva un frappé de 12 onzas?",
+      "respuesta": "5 onzas."
+    },
+    {
+      "pregunta": "¿Cuánta leche o agua lleva un frappé de 16 onzas?",
+      "respuesta": "7 onzas."
+    },
+    {
+      "pregunta": "¿Cuántas porciones de té lleva un frappé de 12 onzas?",
+      "respuesta": "3 porciones."
+    },
+    {
+      "pregunta": "¿Cuántas porciones de té lleva un frappé de 16 onzas?",
+      "respuesta": "4 porciones."
+    },
+    {
+      "pregunta": "¿Cómo debe medirse el hielo para un frappé?",
+      "respuesta": "Llenando con hielo el vaso en el que se servirá la bebida y agregándolo a la licuadora."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo debe licuarse el frappé?",
+      "respuesta": "15 segundos."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse antes de servir el frappé?",
+      "respuesta": "Trasladar la bebida al vaso y colocar la tapadera."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si el frappé no quedó bien preparado?",
+      "respuesta": "No debe servirse."
+    }
+  ]
+}
