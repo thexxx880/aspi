@@ -1,0 +1,256 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿En cuánto tiempo máximo debe saludarse al cliente cuando llega al AutoMac?",
+      "respuesta": "En menos de 10 segundos desde que el vehículo se detiene en el altavoz."
+    },
+    {
+      "pregunta": "¿Cómo debe ser el saludo al cliente?",
+      "respuesta": "Con una voz agradable, amigable, entusiasta y original, adaptándolo según el cliente."
+    },
+    {
+      "pregunta": "¿Qué esperan los clientes del servicio en AutoMac?",
+      "respuesta": "Un servicio rápido, exacto y amigable."
+    },
+    {
+      "pregunta": "¿Qué debe revisarse antes de iniciar el turno en AutoMac?",
+      "respuesta": "Que haya suficiente surtido para el turno."
+    },
+    {
+      "pregunta": "¿Qué debe consultarse con el gerente de turno antes de iniciar?",
+      "respuesta": "Los objetivos del AutoMac y las promociones actuales."
+    },
+    {
+      "pregunta": "¿Qué artículos promocionales deben estar disponibles?",
+      "respuesta": "Artículos promocionales y juguetes para las Cajitas Felices."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo objetivo desde que el cajero indica el total hasta entregar la orden?",
+      "respuesta": "120 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo máximo permitido para toda la experiencia del cliente?",
+      "respuesta": "210 segundos (3 minutos con 30 segundos)."
+    },
+    {
+      "pregunta": "¿Dónde se realiza más de la mitad de las ventas de McDonald's?",
+      "respuesta": "En el AutoMac."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo deben lavarse las manos los empleados?",
+      "respuesta": "20 segundos."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben volver a lavarse las manos?",
+      "respuesta": "Cuando sea necesario y al menos una vez por hora."
+    },
+    {
+      "pregunta": "¿Qué hábitos de higiene deben mantenerse durante el trabajo?",
+      "respuesta": "No tocarse la cara ni el cabello mientras se prepara o sirve comida."
+    },
+    {
+      "pregunta": "¿Cuándo inicia el tiempo de servicio?",
+      "respuesta": "Cuando el cajero totaliza la orden."
+    },
+    {
+      "pregunta": "¿Cuándo finaliza el tiempo de servicio?",
+      "respuesta": "Cuando la orden se entrega y se marca como servida en la botonera."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el tomador de órdenes antes de responder al cliente?",
+      "respuesta": "Escuchar atentamente sin interrumpir hasta que el cliente termine de ordenar."
+    },
+    {
+      "pregunta": "¿Qué es la venta por sugerencia?",
+      "respuesta": "Una oportunidad para ayudar al cliente ofreciendo un artículo adicional o un tamaño mayor."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si el cliente no indica el tamaño de su orden?",
+      "respuesta": "Preguntar si desea el tamaño grande."
+    },
+    {
+      "pregunta": "¿Cuántos artículos deben sugerirse durante la venta por sugerencia?",
+      "respuesta": "Solo uno."
+    },
+    {
+      "pregunta": "¿Cuándo no debe hacerse venta por sugerencia?",
+      "respuesta": "Cuando el cliente dice 'Es todo'."
+    },
+    {
+      "pregunta": "¿Qué debe confirmarse antes de finalizar la orden?",
+      "respuesta": "Condimentos, sabores y tamaños."
+    },
+    {
+      "pregunta": "¿Por qué es importante confirmar la orden?",
+      "respuesta": "Porque asegura la exactitud de la orden y ayuda al corredor a prepararla correctamente."
+    },
+    {
+      "pregunta": "¿Qué debe preguntarse cuando un cliente pide café?",
+      "respuesta": "Si desea azúcar y si desea el café negro."
+    },
+    {
+      "pregunta": "¿Qué tipo de preguntas deben evitarse al confirmar una orden?",
+      "respuesta": "Las preguntas abiertas."
+    },
+    {
+      "pregunta": "¿Qué debe sugerirse en lugar de hacer preguntas abiertas?",
+      "respuesta": "El producto más común, como Coca-Cola, salsa BBQ o ensalada Grill o Crispy."
+    },
+    {
+      "pregunta": "¿Qué debe marcarse correctamente en la caja registradora POS?",
+      "respuesta": "El tipo y la cantidad de los condimentos."
+    },
+    {
+      "pregunta": "¿Qué debe decirse al totalizar la orden?",
+      "respuesta": "Confirmar el total mostrado en pantalla y dirigir al cliente a la primera ventanilla."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse después de totalizar la orden?",
+      "respuesta": "Enviar la orden desde la registradora para que el cajero pueda cobrarla."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el encargado de bebidas?",
+      "respuesta": "Preparar, identificar y reunir correctamente las bebidas con la orden correspondiente."
+    },
+    {
+      "pregunta": "¿Cómo debe colocarse el hielo en las bebidas?",
+      "respuesta": "Utilizando únicamente el cucharón."
+    },
+    {
+      "pregunta": "¿Qué nunca debe hacerse con el hielo?",
+      "respuesta": "Tocarlo con las manos ni usar el vaso como cucharón."
+    },
+    {
+      "pregunta": "¿Cuándo debe utilizarse un portabebidas?",
+      "respuesta": "Cuando la orden incluya dos o más bebidas."
+    },
+    {
+      "pregunta": "¿Hasta dónde debe llegar el hielo en un refresco?",
+      "respuesta": "Hasta la primera línea del vaso."
+    },
+    {
+      "pregunta": "¿Hasta dónde debe llenarse el refresco?",
+      "respuesta": "Hasta la última línea indicada en el vaso."
+    },
+    {
+      "pregunta": "¿Qué se agrega primero al preparar un café con leche?",
+      "respuesta": "La leche."
+    },
+    {
+      "pregunta": "¿Cómo debe verificarse que la tapa del café esté correctamente colocada?",
+      "respuesta": "Observándola lateralmente para comprobar que no existan áreas levantadas."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo debe tardar el corredor en reunir una orden?",
+      "respuesta": "Entre 12 y 16 segundos."
+    },
+    {
+      "pregunta": "¿Qué características deben tener las papas antes de servirlas?",
+      "respuesta": "Deben estar crujientes, doradas, correctamente saladas y dentro de su tiempo de espera."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo máximo de espera de las papas?",
+      "respuesta": "7 minutos."
+    },
+    {
+      "pregunta": "¿Qué productos nunca deben servirse?",
+      "respuesta": "Los que hayan excedido su tiempo de espera."
+    },
+    {
+      "pregunta": "¿Cuándo debe estacionarse un vehículo?",
+      "respuesta": "Cuando la orden no estará lista entre 10 y 15 segundos."
+    },
+    {
+      "pregunta": "¿Qué botón utiliza el corredor para estacionar un vehículo?",
+      "respuesta": "El botón 'Hold'."
+    },
+    {
+      "pregunta": "¿Cómo deben colocarse las pajillas en las bolsas tamaño A?",
+      "respuesta": "Diagonalmente para poder doblar la bolsa dos veces."
+    },
+    {
+      "pregunta": "¿Cuántas servilletas deben agregarse?",
+      "respuesta": "Una por artículo, incluyendo bebidas, y dos por menú."
+    },
+    {
+      "pregunta": "¿Qué debe verificarse antes de cerrar una bolsa?",
+      "respuesta": "La exactitud completa de la orden."
+    },
+    {
+      "pregunta": "¿Cuál es la regla principal antes de servir un producto?",
+      "respuesta": "Si no está bien, no lo sirva."
+    },
+    {
+      "pregunta": "¿Cómo deben manipularse los conos de helado?",
+      "respuesta": "Con papel para cono o una servilleta, nunca directamente con las manos."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo debe tardar el cajero en cobrar una orden?",
+      "respuesta": "Entre 10 y 15 segundos."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el cajero durante una transacción en efectivo?",
+      "respuesta": "Mantener el dinero del cliente visible hasta entregar el cambio y revisar los billetes de mayor denominación."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si una tarjeta es rechazada?",
+      "respuesta": "Solicitar al cliente intentar nuevamente o utilizar otro método de pago."
+    },
+    {
+      "pregunta": "¿Qué debe entregar el cajero al finalizar el cobro?",
+      "respuesta": "La factura y el voucher si aplica."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el presentador antes de que llegue el cliente?",
+      "respuesta": "Leer el monitor, organizar la estación y verificar que todo esté listo."
+    },
+    {
+      "pregunta": "¿Qué debe entregarse primero al cliente?",
+      "respuesta": "Las bebidas y luego la comida."
+    },
+    {
+      "pregunta": "¿Cómo debe entregarse la bolsa al cliente?",
+      "respuesta": "Con el doblez hacia el presentador y los arcos hacia el cliente."
+    },
+    {
+      "pregunta": "¿Cuándo debe borrarse la orden del monitor?",
+      "respuesta": "Solo cuando haya sido entregada completamente."
+    },
+    {
+      "pregunta": "¿Cómo debe despedirse al cliente?",
+      "respuesta": "Sonriendo, agradeciendo su compra e invitándolo a regresar."
+    },
+    {
+      "pregunta": "¿Qué implementos de seguridad debe usar el tomador de órdenes externo?",
+      "respuesta": "Chaleco reflectivo, gorra, diadema y conos de seguridad."
+    },
+    {
+      "pregunta": "¿Por qué el tomador de órdenes externo debe usar diadema?",
+      "respuesta": "Porque necesita comunicarse constantemente con el resto del equipo."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el tomador de órdenes externo después de tomar la orden del segundo vehículo?",
+      "respuesta": "Esperar a que el primer vehículo avance antes de enviar la orden."
+    },
+    {
+      "pregunta": "¿Por qué debe esperar antes de enviar la orden del segundo vehículo?",
+      "respuesta": "Para mantener la secuencia correcta de las órdenes y evitar confusiones."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el tomador externo si un cliente desea ver el menú?",
+      "respuesta": "Dirigirlo al COD e informar al tomador interno."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si un cliente quiere ver los juguetes de la Cajita Feliz después de ordenar?",
+      "respuesta": "Informar al cajero mediante los headset para que los muestre en la ventanilla."
+    },
+    {
+      "pregunta": "¿Quién es responsable de garantizar que el iPad tenga suficiente carga?",
+      "respuesta": "El encargado del AutoMac."
+    },
+    {
+      "pregunta": "¿Cuántas personas se requieren para operar el AutoMac?",
+      "respuesta": "Seis personas si no hay Beverage Cell y cinco personas si el restaurante cuenta con Beverage Cell."
+    }
+  ]
+}
