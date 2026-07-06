@@ -1,0 +1,160 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Qué espera el cliente de los huevos preparados?",
+      "respuesta": "Que estén bien cocidos, con buena apariencia, calientes y húmedos."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo debe durar el lavado de manos?",
+      "respuesta": "20 segundos."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben lavarse nuevamente las manos?",
+      "respuesta": "Al menos una vez por hora."
+    },
+    {
+      "pregunta": "¿Qué puede ocurrir si la parrilla no tiene la programación correcta?",
+      "respuesta": "Los huevos pueden quedar crudos o demasiado cocidos."
+    },
+    {
+      "pregunta": "¿Qué utensilio debe utilizarse exclusivamente para los huevos?",
+      "respuesta": "La espátula Hutzler amarilla."
+    },
+    {
+      "pregunta": "¿Qué guantes deben utilizarse para manipular huevos?",
+      "respuesta": "Guantes azules."
+    },
+    {
+      "pregunta": "¿Se deben mezclar productos viejos y nuevos en una misma bandeja?",
+      "respuesta": "No."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben lavarse, enjuagarse y sanitizarse las bandejas del UHC?",
+      "respuesta": "Cada 4 horas."
+    },
+    {
+      "pregunta": "¿Cada cuánto deben limpiarse los utensilios y bandejas que tienen contacto con huevos?",
+      "respuesta": "Cada 2 horas."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con los productos que alcanzan el tiempo máximo de espera?",
+      "respuesta": "Desecharlos."
+    },
+    {
+      "pregunta": "¿Cuál es el período de conservación secundario para huevos en cascarón fuera del refrigerador?",
+      "respuesta": "30 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de los huevos redondos?",
+      "respuesta": "150 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los huevos redondos en el UHC?",
+      "respuesta": "20 minutos."
+    },
+    {
+      "pregunta": "¿Cuántos huevos redondos caben como máximo en una bandeja UHC?",
+      "respuesta": "16 huevos."
+    },
+    {
+      "pregunta": "¿Cómo debe quedar la yema de un huevo redondo correctamente cocido?",
+      "respuesta": "Bien cocida, gelatinosa y no líquida."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con huevos que tengan áreas crudas o suaves visibles?",
+      "respuesta": "Desecharlos."
+    },
+    {
+      "pregunta": "¿Cuántos huevos pueden batirse como máximo en una taza volumétrica?",
+      "respuesta": "10 huevos."
+    },
+    {
+      "pregunta": "¿Cuántos huevos batidos pueden mantenerse como máximo en el recipiente de retención?",
+      "respuesta": "60 huevos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo secundario de conservación para huevos batidos refrigerados?",
+      "respuesta": "2 horas."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida para huevos batidos surtidos en el área?",
+      "respuesta": "30 minutos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de cocción de los huevos doblados?",
+      "respuesta": "85 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los huevos doblados?",
+      "respuesta": "20 minutos."
+    },
+    {
+      "pregunta": "¿Cuántos huevos doblados caben por bandeja UHC?",
+      "respuesta": "6 huevos doblados."
+    },
+    {
+      "pregunta": "¿Cómo debe ser un huevo doblado de calidad?",
+      "respuesta": "Completamente cocido, textura suave, color amarillo con partes doradas y bien doblado."
+    },
+    {
+      "pregunta": "¿Qué cantidad de huevo batido se utiliza por huevo doblado?",
+      "respuesta": "Un cucharón de 2 oz."
+    },
+    {
+      "pregunta": "¿Qué utensilio se utiliza para retirar huevos doblados?",
+      "respuesta": "Una espátula Hutzler blanca dedicada para huevos."
+    },
+    {
+      "pregunta": "¿Cuál es la tanda máxima de huevos revueltos?",
+      "respuesta": "4 porciones."
+    },
+    {
+      "pregunta": "¿Cuántos huevos lleva cada porción de huevos revueltos?",
+      "respuesta": "2 huevos."
+    },
+    {
+      "pregunta": "¿Cuántas porciones máximas de huevos revueltos caben por bandeja?",
+      "respuesta": "4 porciones."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo de vida de los huevos revueltos?",
+      "respuesta": "20 minutos."
+    },
+    {
+      "pregunta": "¿Cómo deben verse los huevos revueltos correctamente cocidos?",
+      "respuesta": "Jugosos, esponjosos y de color amarillo claro."
+    },
+    {
+      "pregunta": "¿Qué color deben tener los huevos revueltos de calidad?",
+      "respuesta": "Amarillo claro sin partículas blancas."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con el exceso de huevo en los aros?",
+      "respuesta": "Eliminarlo con una espátula Hutzler plana dedicada para huevos."
+    },
+    {
+      "pregunta": "¿Cada cuánto debe trapearse el área de la parrilla?",
+      "respuesta": "Al menos 5 veces al día."
+    },
+    {
+      "pregunta": "¿Cuándo debe vaciarse la trampa para grasa?",
+      "respuesta": "Cuando alcance las tres cuartas partes (3/4) de su capacidad."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse para evitar quemaduras al manipular trampas de grasa?",
+      "respuesta": "Utilizar guantes y tener cuidado al levantarlas."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si faltan suministros durante períodos ocupados?",
+      "respuesta": "Solicitarlos a otros miembros del equipo sin abandonar el puesto."
+    },
+    {
+      "pregunta": "¿Cuántas veces al día deben afilarse las espátulas y raspadores?",
+      "respuesta": "5 veces al día."
+    },
+    {
+      "pregunta": "¿Cuáles son los momentos recomendados para afilar espátulas y raspadores?",
+      "respuesta": "Apertura, antes del almuerzo, después del almuerzo, antes de la cena y después de la cena."
+    }
+  ]
+}
