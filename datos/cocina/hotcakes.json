@@ -1,0 +1,152 @@
+{
+  "preguntas_respuestas": [
+    {
+      "pregunta": "¿Qué condiciones deben tener los utensilios para preparar Hot Cakes?",
+      "respuesta": "Deben estar limpios e higienizados."
+    },
+    {
+      "pregunta": "¿Qué tiempos de vida deben cumplirse durante la preparación?",
+      "respuesta": "El tiempo de vida primario y secundario de los ingredientes."
+    },
+    {
+      "pregunta": "¿Qué utensilios se utilizan para preparar la mezcla de Hot Cakes?",
+      "respuesta": "Dispensador de hotcake, espátula para hotcake, recipiente medidor, taza Brix, batidor de acero inoxidable, espátula de goma, plancha plana y plancha de hotcakes."
+    },
+    {
+      "pregunta": "¿A qué temperatura debe estar la plancha plana?",
+      "respuesta": "365°F."
+    },
+    {
+      "pregunta": "¿A qué temperatura debe estar la plancha para Hot Cakes?",
+      "respuesta": "375°F."
+    },
+    {
+      "pregunta": "¿Cuántas onzas de harina deben utilizarse para preparar la mezcla?",
+      "respuesta": "Un paquete de 38.5 onzas."
+    },
+    {
+      "pregunta": "¿En qué recipiente debe colocarse la harina para preparar la mezcla?",
+      "respuesta": "En un tazón de acero inoxidable limpio y sanitizado."
+    },
+    {
+      "pregunta": "¿Cuánta agua debe agregarse a la mezcla?",
+      "respuesta": "48 onzas fluidas de agua fría."
+    },
+    {
+      "pregunta": "¿Con qué utensilio debe mezclarse la harina y el agua?",
+      "respuesta": "Con un batidor de alambre de acero inoxidable."
+    },
+    {
+      "pregunta": "¿Durante cuánto tiempo debe batirse la mezcla?",
+      "respuesta": "Durante 2 minutos."
+    },
+    {
+      "pregunta": "¿Cómo debe batirse la mezcla?",
+      "respuesta": "Con un movimiento lento y constante hasta obtener una consistencia homogénea."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con las orillas del tazón durante la mezcla?",
+      "respuesta": "Rasparlas con una espátula pastelera para incorporar toda la mezcla."
+    },
+    {
+      "pregunta": "¿Dónde debe colocarse la mezcla una vez preparada?",
+      "respuesta": "En un recipiente con tapadera."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo puede permanecer la mezcla a temperatura ambiente?",
+      "respuesta": "2 horas."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo puede permanecer refrigerada la mezcla?",
+      "respuesta": "Durante todo el turno de desayuno."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con la mezcla al finalizar el turno de desayuno?",
+      "respuesta": "Desecharla."
+    },
+    {
+      "pregunta": "¿Con qué frecuencia debe calibrarse el dispensador de Hot Cakes?",
+      "respuesta": "Al menos una vez cada mañana."
+    },
+    {
+      "pregunta": "¿Cómo se verifica la calibración del dispensador?",
+      "respuesta": "Dispensando tres disparos de mezcla dentro de una taza Brix."
+    },
+    {
+      "pregunta": "¿Cuántas onzas líquidas deben obtenerse al realizar tres disparos de prueba?",
+      "respuesta": "5 onzas líquidas."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si el dispensador no entrega la cantidad correcta?",
+      "respuesta": "Ajustar el bloque de la palanca hacia adelante o hacia atrás."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse antes de encender la plancha?",
+      "respuesta": "Aplicar una tapadera de aceite y distribuirla sobre toda la superficie con la goma para planchas."
+    },
+    {
+      "pregunta": "¿Por qué debe aplicarse aceite sobre la plancha antes de usarla?",
+      "respuesta": "Para evitar que los Hot Cakes se peguen."
+    },
+    {
+      "pregunta": "¿Qué debe confirmarse antes de iniciar la producción?",
+      "respuesta": "El pedido de producción y la cantidad según los niveles del UHC."
+    },
+    {
+      "pregunta": "¿Cuánto dura el primer ciclo de cocción de los Hot Cakes?",
+      "respuesta": "90 segundos."
+    },
+    {
+      "pregunta": "¿Cuántas porciones de mezcla se sirven por cada orden?",
+      "respuesta": "Tres porciones."
+    },
+    {
+      "pregunta": "¿Cuál debe ser el diámetro de cada Hot Cake?",
+      "respuesta": "Entre 12 y 13.5 centímetros."
+    },
+    {
+      "pregunta": "¿Cómo se verifica que el tamaño del Hot Cake sea el correcto?",
+      "respuesta": "La mezcla debe expandirse hasta tocar casi las patas del dispensador."
+    },
+    {
+      "pregunta": "¿Cuándo deben voltearse los Hot Cakes?",
+      "respuesta": "Cuando suene el temporizador del primer ciclo."
+    },
+    {
+      "pregunta": "¿Qué características indican que un Hot Cake está listo para voltearse?",
+      "respuesta": "Que esté cubierto uniformemente de pequeñas burbujas que comienzan a reventarse y que las orillas estén ligeramente secas."
+    },
+    {
+      "pregunta": "¿Cuánto dura el segundo ciclo de cocción?",
+      "respuesta": "50 segundos."
+    },
+    {
+      "pregunta": "¿Con qué utensilio deben voltearse los Hot Cakes?",
+      "respuesta": "Con la espátula universal."
+    },
+    {
+      "pregunta": "¿Qué no debe hacerse al voltear los Hot Cakes?",
+      "respuesta": "No deben aplastarse ni sacarles el aire."
+    },
+    {
+      "pregunta": "¿Cómo debe ser el aspecto de un Hot Cake correctamente preparado?",
+      "respuesta": "Suave y esponjado."
+    },
+    {
+      "pregunta": "¿Qué debe prepararse mientras termina el segundo ciclo de cocción?",
+      "respuesta": "La bandeja del UHC con las bases de desayuno."
+    },
+    {
+      "pregunta": "¿En qué orden deben retirarse los Hot Cakes de la plancha?",
+      "respuesta": "En el mismo orden en que fueron preparados."
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si un Hot Cake se daña durante la preparación?",
+      "respuesta": "Debe desecharse."
+    },
+    {
+      "pregunta": "¿Cuál es la regla de calidad para servir Hot Cakes?",
+      "respuesta": "Si no está bien, no lo sirva."
+    }
+  ]
+}
