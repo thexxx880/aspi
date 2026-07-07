@@ -1,0 +1,5 @@
+¿Cómo se calibra el pirómetro?
+Con un vaso térmico de 8 onzas que contenga 50% agua y 50% hielo.
+
+¿A qué temperatura debe estabilizarse el pirómetro durante la calibración?
+32 °F ± 2 °F.

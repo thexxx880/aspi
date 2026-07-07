@@ -1,0 +1,17 @@
+¿Cuántas bolsas de McNuggets pueden cocinarse por cesta?
+Máximo 2 bolsas de 24 unidades.
+
+¿Cuál es el tiempo de cocción de los Nuggets?
+3 minutos con 30 segundos.
+
+¿Cuál es la vida útil de los Nuggets en el UHC?
+20 minutos.
+
+¿Cuántos McNuggets caben por bandeja del UHC?
+48 unidades.
+
+¿Es necesario que todos los compartimientos de la cesta tengan la misma carga de McNuggets?
+No.
+
+¿Qué debe hacerse con los McNuggets antes de colocarlos en el UHC?
+Vaciar primero en la cesta de transferencia.

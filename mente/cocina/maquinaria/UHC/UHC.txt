@@ -1,0 +1,23 @@
+¿Qué debe hacerse cuando se coloca un producto nuevo en el UHC?
+Oprimir inmediatamente el timer del UHC.
+
+¿Qué debe hacerse cuando el timer del UHC llega a "00"?
+Desechar el producto.
+
+¿Se debe reprogramar el timer del UHC?
+No, nunca.
+
+¿Para qué sirve la bandeja con rejilla de alambre?
+Para evitar que el empanizado crudo toque el producto cocido y mantener limpio el aceite.
+
+¿Se pueden mezclar filetes nuevos con filetes viejos en el UHC?
+No.
+
+¿A qué temperatura debe mantenerse el producto en el UHC?
+Por encima de 140 °F.
+
+¿Cuál es la temperatura del UHC para filetes?
+200 °F.
+
+
+
