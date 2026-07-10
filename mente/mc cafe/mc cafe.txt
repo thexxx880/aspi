@@ -1,0 +1,515 @@
+¿Cuál es el tiempo de vida primario del topping de fresa?
+120 días.
+
+¿Cuál es el tiempo de vida secundario del topping de fresa?
+7 días.
+
+¿Cuál es el tiempo de vida primario del dulce de leche?
+90 días.
+
+¿Cuál es el tiempo de vida secundario del dulce de leche?
+7 días.
+
+¿Cuál es el tiempo de vida primario del topping de mora?
+90 días.
+
+¿Cuál es el tiempo de vida secundario del topping de mora?
+7 días.
+
+¿Cuál es el tiempo de vida primario del smoothie?
+6 meses.
+
+¿Cuál es el tiempo de vida secundario del smoothie después de abierto?
+7 días.
+
+¿Cuál es el tiempo de vida secundario de la galleta Oreo?
+3 días.
+
+¿Cuál es el tiempo de vida primario del café Moro?
+2 meses.
+
+¿Cuánto tiempo dura el café Moro en la tolva?
+6 horas.
+
+¿Cuál es el tiempo de vida del café Moro después de abierto?
+3 días.
+
+¿Cuál es el tiempo de vida primario del café Región?
+2 meses.
+
+¿Cuánto tiempo dura el café Región en la tolva?
+6 horas.
+
+¿Cuál es el tiempo de vida del café Región después de abierto?
+3 días.
+
+¿Cuál es el tiempo de vida primario de la leche Delita?
+180 días.
+
+¿Cuál es el tiempo de vida secundario de la leche Delita?
+48 horas.
+
+¿Cuál es el tiempo de vida primario de la leche para McCafé?
+180 días.
+
+¿Cuál es el tiempo de vida secundario de la leche para McCafé?
+5 días.
+
+¿Cuál es el tiempo de vida primario del café descafeinado?
+30 días.
+
+¿Cuál es el tiempo de vida secundario del café descafeinado?
+15 días.
+
+¿Cuál es el tiempo de vida primario del jarabe de vainilla?
+3 años.
+
+¿Cuál es el tiempo de vida secundario del jarabe de vainilla?
+90 días.
+
+¿Cuál es el tiempo de vida primario del jarabe de caramelo?
+3 años.
+
+¿Cuál es el tiempo de vida secundario del jarabe de caramelo?
+90 días.
+
+¿Cuál es el tiempo de vida primario de la vainilla Sugar Free?
+3 años.
+
+¿Cuál es el tiempo de vida secundario de la vainilla Sugar Free?
+90 días.
+
+¿Cuál es el tiempo de vida primario del azúcar líquida?
+180 días.
+
+¿Cuál es el tiempo de vida secundario del azúcar líquida?
+7 días.
+
+¿Cuál es el tiempo de vida primario del té guatemalteco?
+60 días.
+
+¿Cuál es el tiempo de vida secundario del té guatemalteco?
+1 mes.
+
+¿Cuál es el tiempo de vida primario del té chai?
+2 años.
+
+¿Cuál es el tiempo de vida secundario del té chai?
+6 meses.
+
+¿Cuál es el tiempo de vida primario del McPops de avellana?
+542 días.
+
+¿Cuál es el tiempo de vida secundario del McPops de avellana?
+12 horas.
+
+¿Cuál es el tiempo de vida primario del McPops de chocolate?
+540 días.
+
+¿Cuál es el tiempo de vida secundario del McPops de chocolate?
+12 horas.
+
+¿Cuál es el tiempo de vida primario del Dots de chocolate?
+365 días.
+
+¿Cuál es el tiempo de vida secundario del Dots de chocolate?
+12 horas.
+
+¿Cuál es el tiempo de vida primario del Dots de fresa?
+365 días.
+
+¿Cuál es el tiempo de vida secundario del Dots de fresa?
+12 horas.
+
+¿Cuál es el tiempo de vida primario del Cheesecake?
+60 días.
+
+¿Cuál es el tiempo de vida secundario del Cheesecake?
+96 horas.
+
+¿Cuál es el tiempo de vida primario de la Macadamia?
+60 días.
+
+¿Cuál es el tiempo de vida secundario de la Macadamia?
+96 horas.
+
+¿Cuál es el tiempo de vida primario del pastel de Elote?
+60 días.
+
+¿Cuál es el tiempo de vida secundario del pastel de Elote?
+96 horas.
+
+¿Cuál es el tiempo de vida primario del pastel de Zanahoria?
+60 días.
+
+¿Cuál es el tiempo de vida secundario del pastel de Zanahoria?
+96 horas.
+
+¿Cuál es el tiempo de vida primario del pastel Tres Leches?
+60 días.
+
+¿Cuál es el tiempo de vida secundario del pastel Tres Leches?
+96 horas.
+
+¿Cuál es el tiempo de vida del chocolate caliente después de abierto?
+7 días.
+
+¿Cuál es el tiempo de vida de la mezcla de espresso para frappé?
+48 horas, incluyendo 1 hora de enfriamiento.
+
+¿Cuál es el tiempo de vida de la mezcla para Iced Café?
+12 horas.
+
+¿Cuánta leche lleva un Iced Café Original de 16 onzas?
+2 onzas.
+
+¿Cuánta azúcar lleva un Iced Café Original de 16 onzas?
+1.5 onzas.
+
+¿Cuántos disparos lleva un Iced Café Original de 16 onzas?
+3 disparos.
+
+¿Cuánta leche lleva un Iced Café Original de 20 onzas?
+3 onzas.
+
+¿Cuánta azúcar lleva un Iced Café Original de 20 onzas?
+2 onzas.
+
+¿Cuántos disparos lleva un Iced Café Original de 20 onzas?
+4 disparos.
+
+¿Cuánta leche lleva un Iced Café Saborizado de 16 onzas?
+2 onzas.
+
+¿Cuánto saborizante lleva un Iced Café Saborizado de 16 onzas?
+1.25 onzas.
+
+¿Cuántos disparos lleva un Iced Café Saborizado de 16 onzas?
+5 disparos.
+
+¿Cuánta leche lleva un Iced Café Saborizado de 20 onzas?
+3 onzas.
+
+¿Cuánto saborizante lleva un Iced Café Saborizado de 20 onzas?
+2 onzas.
+
+¿Cuántos disparos lleva un Iced Café Saborizado de 20 onzas?
+8 disparos.
+
+¿Cuánta azúcar lleva un Frappé Original de 16 onzas?
+1.5 onzas.
+
+¿Cuánta leche lleva un Frappé Original de 16 onzas?
+2 onzas.
+
+¿Cuánto espresso lleva un Frappé Original de 16 onzas?
+3 onzas.
+
+¿Cuánta azúcar lleva un Frappé Original de 20 onzas?
+1.5 onzas.
+
+¿Cuánta leche lleva un Frappé Original de 20 onzas?
+2 onzas.
+
+¿Cuánto espresso lleva un Frappé Original de 20 onzas?
+4 onzas.
+
+¿Cuánta azúcar lleva un Frappé Saborizado de 16 onzas?
+1 onza.
+
+¿Cuánto syrup lleva un Frappé Saborizado de 16 onzas?
+1 onza.
+
+¿Cuánta leche lleva un Frappé Saborizado de 16 onzas?
+2 onzas.
+
+¿Cuánto espresso lleva un Frappé Saborizado de 16 onzas?
+2 onzas.
+
+¿Cuánta azúcar lleva un Frappé Saborizado de 20 onzas?
+1 onza.
+
+¿Cuánto syrup lleva un Frappé Saborizado de 20 onzas?
+1.5 onzas.
+
+¿Cuánta leche lleva un Frappé Saborizado de 20 onzas?
+2 onzas.
+
+¿Cuánto espresso lleva un Frappé Saborizado de 20 onzas?
+3 onzas.
+
+¿Cuánta azúcar lleva un Frappé Oreo de 16 onzas?
+1.5 onzas.
+
+¿Cuánto chocolate lleva un Frappé Oreo de 16 onzas?
+1 onza.
+
+¿Cuánta galleta Oreo lleva un Frappé Oreo de 16 onzas?
+2 onzas.
+
+¿Cuánta leche lleva un Frappé Oreo de 16 onzas?
+2 onzas.
+
+¿Cuánto espresso lleva un Frappé Oreo de 16 onzas?
+3 onzas.
+
+¿Cuánta azúcar lleva un Frappé Oreo de 20 onzas?
+1.5 onzas.
+
+¿Cuánto chocolate lleva un Frappé Oreo de 20 onzas?
+1.5 onzas.
+
+¿Cuánta galleta Oreo lleva un Frappé Oreo de 20 onzas?
+2 onzas.
+
+¿Cuánta leche lleva un Frappé Oreo de 20 onzas?
+2 onzas.
+
+¿Cuánto espresso lleva un Frappé Oreo de 20 onzas?
+4 onzas.
+
+¿Cuánta agua o leche lleva un Smoothie de 16 onzas?
+4 onzas.
+
+¿Cuánta base de fruta lleva un Smoothie de 16 onzas?
+4 onzas.
+
+¿Cuánta agua o leche lleva un Smoothie de 20 onzas?
+4 onzas.
+
+¿Cuánta base de fruta lleva un Smoothie de 20 onzas?
+5 onzas.
+
+¿Cuántos cucharones de té chai lleva un Frappé Chai de 16 onzas?
+3 cucharones.
+
+¿Cuánta azúcar lleva un Frappé Chai de 16 onzas?
+1 onza.
+
+¿Cuánta leche lleva un Frappé Chai de 16 onzas?
+6 onzas.
+
+¿Cuántos cucharones de té chai lleva un Frappé Chai de 20 onzas?
+4 cucharones.
+
+¿Cuánta azúcar lleva un Frappé Chai de 20 onzas?
+1 onza.
+
+¿Cuánta leche lleva un Frappé Chai de 20 onzas?
+6 onzas.
+
+¿Cuántos cucharones de té chai lleva un Frappé Chai Sugar Free de 16 onzas?
+4 cucharones.
+
+¿Cuánta leche lleva un Frappé Chai Sugar Free de 16 onzas?
+6 onzas.
+
+¿Cuántos cucharones de té chai lleva un Frappé Chai Sugar Free de 20 onzas?
+5 cucharones.
+
+¿Cuánta leche lleva un Frappé Chai Sugar Free de 20 onzas?
+6 onzas.
+
+¿Cuánta leche lleva un Latte de 8 onzas?
+6 onzas.
+
+¿Cuánto espresso lleva un Latte de 8 onzas?
+1 onza.
+
+¿Cuánta leche lleva un Latte de 12 onzas?
+8 onzas.
+
+¿Cuánto espresso lleva un Latte de 12 onzas?
+1.5 onzas.
+
+¿Cuánta leche lleva un Latte de 16 onzas?
+10 onzas.
+
+¿Cuánto espresso lleva un Latte de 16 onzas?
+2 onzas.
+
+¿Cuánta leche lleva un Cappuccino de 8 onzas?
+5 onzas.
+
+¿Cuánto espresso lleva un Cappuccino de 8 onzas?
+1 onza.
+
+¿Cuánta leche lleva un Cappuccino de 12 onzas?
+7 onzas.
+
+¿Cuánto espresso lleva un Cappuccino de 12 onzas?
+1.5 onzas.
+
+¿Cuánta leche lleva un Cappuccino de 16 onzas?
+10 onzas.
+
+¿Cuánto espresso lleva un Cappuccino de 16 onzas?
+2 onzas.
+
+¿Cuánta leche lleva un Latte o Cappuccino saborizado de 8 onzas?
+4 onzas.
+
+¿Cuánto syrup lleva un Latte o Cappuccino saborizado de 8 onzas?
+0.75 onzas.
+
+¿Cuánto espresso lleva un Latte o Cappuccino saborizado de 8 onzas?
+1 onza.
+
+¿Cuánta leche lleva un Latte o Cappuccino saborizado de 12 onzas?
+6 onzas.
+
+¿Cuánto syrup lleva un Latte o Cappuccino saborizado de 12 onzas?
+1.5 onzas.
+
+¿Cuánto espresso lleva un Latte o Cappuccino saborizado de 12 onzas?
+1.5 onzas.
+
+¿Cuánta leche lleva un Latte o Cappuccino saborizado de 16 onzas?
+10 onzas.
+
+¿Cuánto syrup lleva un Latte o Cappuccino saborizado de 16 onzas?
+2 onzas.
+
+¿Cuánto espresso lleva un Latte o Cappuccino saborizado de 16 onzas?
+2 onzas.
+
+¿Cuánto espresso lleva un Café Guatemalteco de 8 onzas?
+1 onza.
+
+¿Cuánto espresso lleva un Café Guatemalteco de 12 onzas?
+1.5 onzas.
+
+¿Cuánto espresso lleva un Café Guatemalteco de 16 onzas?
+2 onzas.
+
+¿Cuánto chocolate lleva un Mocha de 8 onzas?
+1 onza.
+
+¿Cuánta leche lleva un Mocha de 8 onzas?
+4 onzas.
+
+¿Cuánto espresso lleva un Mocha de 8 onzas?
+1 onza.
+
+¿Cuánto chocolate lleva un Mocha de 12 onzas?
+1.5 onzas.
+
+¿Cuánta leche lleva un Mocha de 12 onzas?
+6 onzas.
+
+¿Cuánto espresso lleva un Mocha de 12 onzas?
+1.5 onzas.
+
+¿Cuánto chocolate lleva un Mocha de 16 onzas?
+2 onzas.
+
+¿Cuánta leche lleva un Mocha de 16 onzas?
+10 onzas.
+
+¿Cuánto espresso lleva un Mocha de 16 onzas?
+2 onzas.
+
+¿Cuánta leche lleva un Chocolate Caliente de 8 onzas?
+6 onzas.
+
+¿Cuánto chocolate lleva un Chocolate Caliente de 8 onzas?
+1 onza.
+
+¿Cuánta leche lleva un Chocolate Caliente de 12 onzas?
+8 onzas.
+
+¿Cuánto chocolate lleva un Chocolate Caliente de 12 onzas?
+1.5 onzas.
+
+¿Cuánta leche lleva un Chocolate Caliente de 16 onzas?
+10 onzas.
+
+¿Cuánto chocolate lleva un Chocolate Caliente de 16 onzas?
+2 onzas.
+
+¿Cuántos cucharones de chai lleva un Té Chai caliente de 8 onzas?
+1 cucharón.
+
+¿Cuánta azúcar lleva un Té Chai caliente de 8 onzas?
+0.5 onzas.
+
+¿Cuánta leche lleva un Té Chai caliente de 8 onzas?
+6 onzas.
+
+¿Cuántos cucharones de chai lleva un Té Chai caliente de 12 onzas?
+1 cucharón.
+
+¿Cuánta azúcar lleva un Té Chai caliente de 12 onzas?
+0.5 onzas.
+
+¿Cuánta leche lleva un Té Chai caliente de 12 onzas?
+8 onzas.
+
+¿Cuántos cucharones de chai lleva un Té Chai caliente de 16 onzas?
+1 cucharón.
+
+¿Cuánta azúcar lleva un Té Chai caliente de 16 onzas?
+1 onza.
+
+¿Cuánta leche lleva un Té Chai caliente de 16 onzas?
+10 onzas.
+
+¿Cuál debe ser la temperatura del espresso?
+Arriba de 170°F.
+
+¿Cuál debe ser la temperatura del Cappuccino, Latte y otras bebidas?
+165°F ±5°F.
+
+¿Cuál debe ser la temperatura de la vitrina?
+4°C (34°F a 40°F).
+
+¿Cuál debe ser la temperatura de la leche?
+150°F a 170°F.
+
+¿Cuál debe ser la temperatura del Café Guatemalteco?
+190°F ±5°F.
+
+¿Cuál debe ser la temperatura del té caliente?
+190°F ±5°F.
+
+¿Cuál debe ser la temperatura del Té Chai?
+160°F ±5°F.
+
+¿Cuántos gramos de café se utilizan para un espresso de 8, 12 y 16 onzas?
+17.5 gramos.
+
+¿Cuántas onzas de espresso lleva una bebida de 8 onzas?
+1 onza.
+
+¿Cuántas onzas de espresso lleva una bebida de 12 onzas?
+1.5 onzas.
+
+¿Cuántas onzas de espresso lleva una bebida de 16 onzas?
+2 onzas.
+
+¿Cuántas caídas de espresso se utilizan para una bebida de 8 onzas?
+1 caída.
+
+¿Cuántas caídas de espresso se utilizan para una bebida de 12 onzas?
+2 caídas.
+
+¿Cuántas caídas de espresso se utilizan para una bebida de 16 onzas?
+2 caídas.
+
+¿Cuáles son los cinco pilares de la hospitalidad?
+Bienvenida y agradecimiento sincero, limpieza, crear momentos dorados, todos somos embajadores de la hospitalidad y exactitud en la orden.
+
+¿Cuál es el primer pilar de la hospitalidad?
+Bienvenida y agradecimiento sincero.
+
+¿Cuál es el segundo pilar de la hospitalidad?
+Limpieza.
+
+¿Cuál es el tercer pilar de la hospitalidad?
+Crear momentos dorados.
+
+¿Cuál es el cuarto pilar de la hospitalidad?
+Todos somos embajadores de la hospitalidad.
+
+¿Cuál es el quinto pilar de la hospitalidad?
+Exactitud en la orden.
