@@ -1,0 +1,218 @@
+¿Qué novedades incluye el nuevo Manual del Té Chai?
+Nueva presentación del té chai en bolsas, un recipiente especial para cada sabor y depósitos con cierre al vacío para conservar los aromas.
+
+¿En qué presentación viene el nuevo té chai?
+En bolsas.
+
+¿Para qué se utiliza un recipiente especial en el té chai?
+Para almacenar cada sabor por separado.
+
+¿Por qué el depósito del té chai tiene cierre al vacío?
+Para evitar la fuga de aromas.
+
+¿Cuál es el código SAP del Tiger Spice?
+11002.
+
+¿Cuál es el código SAP del Elephant Vanilla?
+11003.
+
+¿Cuál es el código SAP del Tortoise Green Tea?
+11004.
+
+¿Cuál es el código SAP del Flamingo Vanilla?
+11011.
+
+¿Cuántas bolsas contiene una caja de Tiger Spice?
+4 bolsas de 1.82 kg cada una.
+
+¿Cuántas bolsas contiene una caja de Elephant Vanilla?
+4 bolsas de 1.82 kg cada una.
+
+¿Cuántas bolsas contiene una caja de Tortoise Green Tea?
+4 bolsas de 1.82 kg cada una.
+
+¿Cuántas bolsas contiene una caja de Flamingo Vanilla?
+4 bolsas de 1.36 kg cada una.
+
+¿Cuál es el rendimiento del Tiger Spice para bebidas de 12 onzas?
+46 bebidas.
+
+¿Cuál es el rendimiento del Tiger Spice para bebidas de 16 onzas?
+31 bebidas.
+
+¿Cuál es el rendimiento del Elephant Vanilla para bebidas de 12 onzas?
+47 bebidas.
+
+¿Cuál es el rendimiento del Elephant Vanilla para bebidas de 16 onzas?
+31 bebidas.
+
+¿Cuál es el rendimiento del Tortoise Green Tea para bebidas de 12 onzas?
+52 bebidas.
+
+¿Cuál es el rendimiento del Tortoise Green Tea para bebidas de 16 onzas?
+34 bebidas.
+
+¿Cuál es el rendimiento del Flamingo Vanilla para bebidas de 12 onzas?
+48 bebidas.
+
+¿Cuál es el rendimiento del Flamingo Vanilla para bebidas de 16 onzas?
+32 bebidas.
+
+¿Cuál es el tiempo de vida primario del té chai?
+730 días a temperatura ambiente.
+
+¿Cuál es el tiempo de vida secundario del té chai?
+6 meses en el depósito debidamente tapado.
+
+¿Qué cucharón debe utilizarse para medir el té chai?
+El cucharón boleador de 7/8 de onza.
+
+¿De qué color es el mango del cucharón del té chai?
+Morado.
+
+¿Qué utensilios se utilizan para preparar el té chai?
+Cucharón boleador de 7/8 de onza, jarrilla de acero para espumar leche, tijera y taza volumétrica.
+
+¿Cada cuánto deben lavarse las manos al manipular el té chai?
+Cada hora.
+
+¿Cada cuánto debe aplicarse gel antibacterial?
+Cada 30 minutos.
+
+¿Qué tipo de guantes deben utilizarse al preparar el té chai?
+Guantes desechables.
+
+¿Cómo deben mantenerse los utensilios?
+Limpios e higienizados.
+
+¿Qué tiempos de vida deben respetarse?
+El tiempo de vida primario y secundario de los ingredientes.
+
+¿Qué normas adicionales deben cumplirse durante el manejo del té chai?
+Todos los procedimientos de bioseguridad.
+
+¿Qué debe hacerse antes de surtir el té chai?
+Preparar el recipiente correspondiente al sabor.
+
+¿Cómo debe identificarse cada recipiente?
+Con el sabor del té correspondiente.
+
+¿Con qué debe abrirse la bolsa de té chai?
+Con una tijera limpia e higienizada.
+
+¿Cómo debe cortarse la bolsa de té chai?
+Completamente por un extremo para facilitar el surtido.
+
+¿Qué debe hacerse después de abrir la bolsa?
+Vaciar todo el contenido en el recipiente.
+
+¿Qué debe hacerse después de llenar el recipiente?
+Colocar la tapa.
+
+¿Qué tiempo de vida debe colocarse en el depósito del té chai?
+6 meses.
+
+¿Qué cuidado debe tenerse al cerrar el depósito?
+No aplicar demasiada fuerza.
+
+¿Por qué debe cerrarse correctamente el depósito?
+Para evitar la fuga de aromas.
+
+¿Cómo deben organizarse los depósitos del té chai?
+Tal como lo indica la imagen del manual.
+
+¿Qué modificación se realizará en los muebles de madera?
+Se ajustará la altura para los nuevos recipientes.
+
+¿Qué debe hacer el barista cuando aparece un pedido de té chai caliente en el KVS?
+Iniciar inmediatamente la preparación.
+
+¿Qué debe verificarse antes de utilizar la taza de acero inoxidable?
+Que esté limpia.
+
+¿Cuántos cucharones de té chai lleva una bebida caliente de 12 onzas?
+2 cucharones.
+
+¿Cuántos cucharones de té chai lleva una bebida caliente de 16 onzas?
+3 cucharones.
+
+¿Qué cucharón debe utilizarse para servir el té chai?
+El cucharón de 7/8 de onza con mango morado.
+
+¿Cuánta leche lleva un té chai caliente de 12 onzas?
+8 onzas.
+
+¿Cuánta leche lleva un té chai caliente de 16 onzas?
+10 onzas.
+
+¿Dónde debe agregarse la leche medida?
+En la taza de acero inoxidable.
+
+¿Qué debe hacerse con la lanceta antes de vaporizar?
+Limpiarla con un trapo limpio y sanitizado.
+
+¿Cómo debe limpiarse la lanceta?
+Con un trapo limpio y sanitizado.
+
+¿Cómo debe vaporizarse el té chai caliente?
+Realizando movimientos circulares con la jarrilla.
+
+¿Hasta qué temperatura debe vaporizarse el té chai caliente?
+140°F.
+
+¿Por qué es crítico vaporizar correctamente el té chai?
+Para evitar la formación de grumos.
+
+¿Qué debe hacerse después de vaporizar el té chai?
+Trasladarlo al vaso.
+
+¿Qué debe hacerse antes de entregar el té chai caliente?
+Tapar el vaso.
+
+¿Cómo debe servirse el té chai caliente?
+Con la mejor sonrisa.
+
+¿Qué debe hacer el barista cuando aparece un pedido de té chai frappé en el KVS?
+Iniciar inmediatamente la preparación.
+
+¿Qué puede utilizar el cliente como base para el té chai frappé?
+Leche o agua.
+
+¿Cuánta leche o agua lleva un frappé de 12 onzas?
+5 onzas.
+
+¿Cuánta leche o agua lleva un frappé de 16 onzas?
+7 onzas.
+
+¿Dónde debe colocarse la leche o el agua?
+En el vaso de la licuadora.
+
+¿Cuántas porciones de té chai lleva un frappé de 12 onzas?
+3 porciones.
+
+¿Cuántas porciones de té chai lleva un frappé de 16 onzas?
+4 porciones.
+
+¿Dónde debe agregarse el té chai?
+En el vaso de la licuadora.
+
+¿Cómo debe medirse el té chai para el frappé?
+Con el cucharón de 7/8 de onza con mango morado.
+
+¿Cómo debe agregarse el hielo al frappé?
+Llenando primero el vaso con hielo y luego vaciándolo en la licuadora.
+
+¿Cuánto tiempo debe licuarse el té chai frappé?
+15 segundos.
+
+¿Qué debe hacerse después de licuar la bebida?
+Trasladarla al vaso.
+
+¿Qué debe colocarse antes de servir el frappé?
+La tapadera.
+
+¿Cómo debe entregarse el té chai frappé al cliente?
+Con la mejor sonrisa.
+
+¿Qué debe hacerse si el té chai frappé no quedó bien preparado?
+No debe servirse.
