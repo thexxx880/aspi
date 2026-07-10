@@ -1,0 +1,767 @@
+¿Cuántas tazas volumétricas de acero inoxidable de 20 oz se necesitan para espumar leche?
+2.
+
+¿Para qué sirve la taza volumétrica de acero inoxidable de 20 oz?
+Para espumar leche.
+
+¿Cuántas tazas volumétricas de acero inoxidable de 33 oz se necesitan?
+2.
+
+¿Para qué sirve la taza volumétrica de acero inoxidable de 33 oz?
+Para espumar leche.
+
+¿Para qué sirve la taza volumétrica plástica?
+Para medir leche.
+
+¿Cuántas tazas volumétricas plásticas se utilizan?
+2.
+
+¿Para qué sirve la brocha?
+Para limpiar los grupos de la máquina.
+
+¿Cuántas brochas debe tener el barista?
+1.
+
+¿Para qué sirve el cronómetro?
+Para calibrar la caída del espresso.
+
+¿Para qué sirve el termómetro?
+Para medir la temperatura de la leche.
+
+¿Para qué sirve el limpiador de lanceta?
+Para limpiar la lanceta.
+
+¿Para qué sirve el tamper?
+Para compactar el café.
+
+¿Para qué sirve el vaso medidor de 4 oz?
+Para calibrar el espresso.
+
+¿Para qué sirve el PAD?
+Para apoyar el portafiltro al compactar el café.
+
+¿Cuál es el tiempo de vida del café surtido en la tolva?
+6 horas.
+
+¿Cuál es el tiempo de vida del café después de abierto?
+3 días.
+
+¿Cuánta cantidad máxima de café debe colocarse en la tolva?
+No más de una libra.
+
+¿Qué debe hacerse con una bolsa de café que queda parcialmente abierta?
+Debe embalarse correctamente con Reynolds e identificar su tiempo de vida.
+
+¿Qué debe hacerse cuando se utiliza una bolsa completa de café?
+Guardar la bolsa con el tiempo de vida primario como referencia.
+
+¿Qué debe revisarse al recibir las cajas de leche?
+Que estén en buen estado.
+
+¿Qué debe verificarse respecto a la cantidad de leche recibida?
+Que corresponda a lo solicitado.
+
+¿Qué número debe colocarse en las cajas de leche?
+El número del calendario gregoriano correspondiente.
+
+¿Dónde deben almacenarse inicialmente las cajas de leche?
+En la bodega seca.
+
+¿Qué método de rotación debe utilizarse con la leche?
+PDPF (Primero Dentro, Primero Fuera).
+
+¿Para cuántos días debe refrigerarse la leche destinada al área McCafé?
+Para 2 días de consumo.
+
+¿Cuál debe ser la temperatura del cuarto frío?
+Entre 34°F y 40°F.
+
+¿Qué nunca debe hacerse con las cajas de leche?
+Colocarlas directamente sobre el piso.
+
+¿Qué debe revisarse antes de surtir leche al área McCafé?
+Que exista suficiente cantidad según el nivel de ventas.
+
+¿Cuánto tiempo debe permanecer refrigerada la leche antes de utilizarla?
+Al menos 48 horas.
+
+¿Por qué es importante refrigerar la leche durante 48 horas?
+Porque es un procedimiento crítico para lograr un buen vaporizado.
+
+¿Cuál es la temperatura ideal para utilizar la leche en McCafé?
+Entre 34°F y 40°F.
+
+¿Por qué es importante mantener la leche entre 34°F y 40°F?
+Porque permite obtener una espuma cremosa y consistente.
+
+¿Qué botón debe presionarse primero para ingresar al menú?
+La flecha hacia arriba.
+
+¿Qué debe hacerse cuando la opción de tres líneas aparece en blanco?
+Presionar OK.
+
+¿Cuántas veces más debe presionarse el botón OK?
+Dos veces.
+
+¿Qué corresponde al botón 1 durante la configuración?
+Las bebidas de 8 y 16 onzas.
+
+¿Qué corresponde al botón 2?
+Las bebidas de 12 onzas.
+
+¿Cuál debe ser la configuración para bebidas de 8 y 16 onzas?
+90 cc.
+
+¿Cuál debe ser la configuración para bebidas de 12 onzas?
+70 cc.
+
+¿Con qué utensilio se verifica la cantidad de agua?
+Con el oncero.
+
+¿Cuánta agua debe dispensar una bebida de 8 o 16 onzas durante la verificación?
+100 ml.
+
+¿Cuánta agua debe dispensar una bebida de 12 onzas durante la verificación?
+80 ml.
+
+¿Qué debe hacerse si el restaurante utiliza el otro modelo de Simonelli?
+Solicitar apoyo al técnico de mantenimiento para calibrar la cantidad de agua.
+
+¿Cuántos gramos de café se utilizan para cualquier tamaño de bebida?
+17.5 gramos.
+
+¿Cuántas onzas de espresso lleva una bebida de 8 onzas?
+2 onzas.
+
+¿Cuántas onzas de espresso lleva una bebida de 12 onzas?
+1.5 onzas.
+
+¿Cuántas onzas de espresso lleva una bebida de 16 onzas?
+2 onzas.
+
+¿Qué portafiltro se utiliza para las bebidas de 8 onzas?
+El de 2 caídas.
+
+¿Qué portafiltro se utiliza para las bebidas de 12 onzas?
+El de 2 caídas.
+
+¿Qué portafiltro se utiliza para las bebidas de 16 onzas?
+El de 2 caídas.
+
+¿Qué botón dispensa 2 onzas de espresso?
+El botón para bebidas de 8 y 16 onzas.
+
+¿Qué botón dispensa 1.5 onzas de espresso?
+El botón para bebidas de 12 onzas.
+
+¿Durante cuánto tiempo debe erogarse la ducha después de cada uso?
+De 3 a 5 segundos.
+
+¿En cuál caída se realiza la calibración del espresso?
+Únicamente en la primera caída (8 y 16 onzas).
+
+¿Cuál debe ser el tiempo de caída del espresso?
+Entre 20 y 30 segundos.
+
+¿Cuánto espresso debe entregar el botón 1?
+2 onzas más 0.5 onzas de crema.
+
+¿Cuánto espresso debe entregar el botón 2?
+1.5 onzas más 0.5 onzas de crema.
+
+¿Cómo debe ser la caída correcta del espresso?
+Lenta, pesada, continua y con forma de cola de ratón.
+
+¿De qué color debe ser la crema del espresso?
+Color avellanado.
+
+¿Cómo debe ser la crema del espresso?
+Elástica y debe pegarse a la cuchara.
+
+¿Cómo debe ser el sabor del blend?
+Intenso a café, con mucho cuerpo, baja acidez, dulce y con aroma fragante.
+
+¿Qué debe validarse en la calibración de café y agua?
+Que tanto la cantidad de café como la cantidad de agua estén correctamente calibradas antes de preparar las bebidas.
+
+¿Cómo debe prepararse una bebida de 8 onzas cuando solo se solicita una?
+Se coloca un vaso de 8 onzas en una caída y en la otra un oncero para medir el espresso, luego se traslada el espresso a la jarrilla de espresso frío.
+
+¿Cómo deben prepararse dos bebidas de 8 onzas?
+Se coloca un vaso de 8 onzas en cada caída.
+
+¿Cómo debe prepararse una bebida de 12 onzas?
+Se utilizan las dos caídas de espresso para que ambas caigan dentro del mismo vaso.
+
+¿Cómo debe prepararse una bebida de 16 onzas?
+Se utilizan las dos caídas de espresso para que ambas caigan dentro del mismo vaso.
+
+¿Qué debe hacer el cajero cuando recibe un pedido de una bebida especial?
+Debe marcar correctamente la bebida en caja según la solicitud del cliente y preguntar qué tipo de azúcar desea.
+
+¿Qué debe hacer el barista al observar una bebida especial en el monitor?
+Debe identificar el tipo de bebida utilizando un marcador Sharpie negro permanente.
+
+¿Qué debe marcarse en el vaso cuando una bebida lleva leche descremada, deslactosada o es descafeinada?
+Debe marcarse esa característica en el vaso antes de preparar la bebida.
+
+¿Qué debe marcar el barista además del tipo de leche?
+El tipo de bebida, como cappuccino, latte, mocha, té, entre otras.
+
+¿Cómo se identifica una bebida endulzada con Equal?
+Utilizando la simbología correspondiente para endulzante Equal.
+
+¿Qué debe hacer el crew del lobby al entregar una bebida especial?
+Debe indicar al cliente qué bebida especial está entregando.
+
+¿Con qué marcador deben identificarse las bebidas?
+Con un marcador Sharpie permanente color negro.
+
+¿Cuándo deben identificarse los vasos?
+Antes de iniciar la preparación de la bebida.
+
+¿Cuánta azúcar se entrega con un espresso?
+Únicamente si el cliente la solicita.
+
+¿Qué indica la tabla de bebidas dobles?
+La cantidad de espresso adicional que debe llevar cada bebida cuando el cliente solicita doble espresso.
+
+¿Cuánto espresso lleva un Latte, Cappuccino o Café Negro doble de 8 onzas?
+2 onzas.
+
+¿Cuánto espresso lleva un Latte, Cappuccino o Café Negro doble de 12 onzas?
+3 onzas.
+
+¿Cuánto espresso lleva un Latte, Cappuccino o Café Negro doble de 16 onzas?
+4 onzas.
+
+¿Cada cuánto deben lavarse las manos durante la preparación de bebidas?
+Cada hora.
+
+¿Cada cuánto debe aplicarse gel antibacterial?
+Cada 30 minutos.
+
+¿Cómo deben mantenerse los utensilios?
+Limpios e higienizados.
+
+¿Qué tiempos de vida deben respetarse siempre?
+Los tiempos de vida primario y secundario de los ingredientes.
+
+¿Cómo se prepara el molino para un espresso?
+Se presiona el botón correspondiente según la cantidad de café a moler.
+
+¿Qué icono debe utilizarse para preparar espresso?
+El icono con las dos tazas.
+
+¿Dónde debe colocarse el portafiltro?
+Sobre las guías correspondientes del molino.
+
+¿Qué debe hacerse después de colocar el portafiltro?
+Esperar a que el molino dispense el café molido.
+
+¿Cómo debe nivelarse el café molido?
+Con el dedo.
+
+¿Qué debe garantizarse mientras se nivela el café?
+La higiene en todo momento.
+
+¿Dónde debe apoyarse el portafiltro antes de compactar el café?
+En el tapete de esquina.
+
+¿Con qué utensilio se compacta el café?
+Con el tamper.
+
+¿Por qué es importante la presión aplicada con el tamper?
+Porque influye directamente en las propiedades sensoriales del café.
+
+¿Qué debe hacerse después de compactar el café?
+Retirar los residuos del borde del portafiltro.
+
+¿Cómo se instala el portafiltro en la máquina?
+Se coloca en la máquina y se gira ligeramente hasta asegurarlo.
+
+¿Qué botón debe presionarse para extraer un espresso?
+El botón con el ícono de una taza.
+
+¿Cuánto espresso contiene un Espresso sencillo?
+1 onza.
+
+¿Cuánto espresso contiene un Espresso doble?
+2 onzas.
+
+¿Qué vaso debe utilizarse para servir un espresso?
+El vaso de 8 onzas.
+
+¿Qué debe colocarse en la bandeja mientras cae el espresso?
+Una servilleta y un removedor.
+
+¿Qué debe llevarse junto con el espresso al cliente?
+El recipiente con los tres tipos de azúcar.
+
+¿Qué debe retirarse al servir la bebida en mesa?
+El número de la mesa.
+
+¿Qué pasos iniciales del Cortadito son iguales a los del Espresso?
+Preparar el molino, colocar el portafiltro, esperar el café molido, nivelar el café, compactarlo y preparar la extracción.
+
+¿Cuánta leche se utiliza para preparar un Cortadito?
+2 onzas de leche.
+
+¿En qué recipiente se vaporiza la leche del Cortadito?
+En la jarra pequeña.
+
+¿Cómo debe ser la espuma del Cortadito?
+Fina y sin burbujas grandes.
+
+¿Cómo se agrega la leche al Cortadito?
+Se vierte la leche vaporizada sobre el espresso y únicamente se agrega la espuma con una cuchara pequeña.
+
+¿Qué debe hacerse después de preparar un Cortadito?
+Tapar el vaso y servirlo.
+
+¿Qué debe acompañar al Cortadito al entregarlo?
+Una servilleta, un removedor y el recipiente con los tres tipos de azúcar.
+
+¿Qué debe retirarse antes de entregar el Cortadito en mesa?
+El número de la mesa.
+
+¿Qué debe hacer el barista antes de preparar un Café Guatemalteco, Salvadoreño, Hondureño o Nicaragüense?
+Estar atento al monitor e iniciar la preparación inmediatamente cuando aparezca el pedido.
+
+¿Qué botón debe utilizarse para una bebida de 8 onzas de Café Guatemalteco?
+El primer botón.
+
+¿Qué botón debe utilizarse para una bebida de 12 onzas de Café Guatemalteco?
+El segundo botón.
+
+¿Qué botón debe utilizarse para una bebida de 16 onzas de Café Guatemalteco?
+El primer botón.
+
+¿Cuánto espresso lleva un Café Guatemalteco de 8 onzas?
+1 onza de espresso.
+
+¿Cuánto espresso lleva un Café Guatemalteco de 12 onzas?
+1.5 onzas de espresso.
+
+¿Cuánto espresso lleva un Café Guatemalteco de 16 onzas?
+2 onzas de espresso.
+
+¿Cómo debe observarse la caída del espresso?
+Debe ser consistente y similar a una cola de ratón.
+
+¿De qué color debe ser la crema del espresso?
+Color avellana clara.
+
+¿Hasta dónde debe llenarse el vaso con agua caliente?
+Hasta la línea de seguridad del vaso.
+
+¿Cuándo debe detenerse la caída del agua caliente?
+Cuando llegue a la línea de seguridad del vaso.
+
+¿Cuál es la temperatura ideal para servir un Café Guatemalteco?
+190°F +/- 5°F.
+
+¿Qué debe hacerse antes de servir el café?
+Tapar el vaso.
+
+¿Cómo debe servirse el café al cliente?
+Con una sonrisa.
+
+¿Cada cuánto deben lavarse las manos durante la preparación de Cappuccino?
+Cada hora.
+
+¿Cada cuánto debe aplicarse gel antibacterial durante la preparación del Cappuccino?
+Cada 30 minutos.
+
+¿Cómo deben mantenerse los utensilios para preparar Cappuccino?
+Limpios e higienizados.
+
+¿Qué tiempos de vida deben respetarse durante la preparación del Cappuccino?
+Los tiempos de vida primario y secundario de los ingredientes.
+
+¿Qué debe hacer el barista cuando aparece un Cappuccino en el monitor?
+Iniciar inmediatamente su preparación.
+
+¿Qué botón se utiliza para un Cappuccino de 8 y 16 onzas?
+El primer botón.
+
+¿Qué botón se utiliza para un Cappuccino de 12 onzas?
+El segundo botón.
+
+¿Cuánto espresso lleva un Cappuccino de 8 onzas?
+1 onza.
+
+¿Cuánto espresso lleva un Cappuccino de 12 onzas?
+1.5 onzas.
+
+¿Cuánto espresso lleva un Cappuccino de 16 onzas?
+2 onzas.
+
+¿Cuánta leche lleva un Cappuccino sencillo de 8 onzas?
+5 onzas.
+
+¿Cuánta leche lleva un Cappuccino sencillo de 12 onzas?
+7 onzas.
+
+¿Cuánta leche lleva un Cappuccino sencillo de 16 onzas?
+10 onzas.
+
+¿Cuánta leche lleva un Cappuccino doble de 8 onzas?
+4 onzas.
+
+¿Cuánta leche lleva un Cappuccino doble de 12 onzas?
+5 onzas.
+
+¿Cuánta leche lleva un Cappuccino doble de 16 onzas?
+10 onzas.
+
+¿Cómo debe ser la espuma de la leche para un Cappuccino?
+Fina y sin burbujas grandes.
+
+¿Qué debe hacerse con la leche una vez vaporizada?
+Agregarla sobre el espresso.
+
+¿Qué debe colocarse en la bandeja al servir un Cappuccino?
+Una servilleta y un removedor.
+
+¿Qué debe acompañar siempre al Cappuccino?
+El recipiente con los tres tipos de azúcar.
+
+¿Qué debe retirarse antes de entregar el Cappuccino en mesa?
+El número de la mesa.
+
+¿Cada cuánto deben lavarse las manos durante la preparación del Latte?
+Cada hora.
+
+¿Cada cuánto debe aplicarse gel antibacterial durante la preparación del Latte?
+Cada 30 minutos.
+
+¿Cómo deben mantenerse los utensilios para preparar Latte?
+Limpios e higienizados.
+
+¿Qué debe hacer el barista cuando aparece un Latte en el monitor?
+Iniciar inmediatamente la preparación.
+
+¿Qué botón se utiliza para un Latte de 8 y 16 onzas?
+El primer botón.
+
+¿Qué botón se utiliza para un Latte de 12 onzas?
+El segundo botón.
+
+¿Cuánto espresso lleva un Latte de 8 onzas?
+1 onza.
+
+¿Cuánto espresso lleva un Latte de 12 onzas?
+1.5 onzas.
+
+¿Cuánto espresso lleva un Latte de 16 onzas?
+2 onzas.
+
+¿Cuánta leche lleva un Latte sencillo de 8 onzas?
+6 onzas.
+
+¿Cuánta leche lleva un Latte sencillo de 12 onzas?
+8 onzas.
+
+¿Cuánta leche lleva un Latte sencillo de 16 onzas?
+10 onzas.
+
+¿Cuánta leche lleva un Latte doble de 8 onzas?
+4 onzas.
+
+¿Cuánta leche lleva un Latte doble de 12 onzas?
+6 onzas.
+
+¿Cuánta leche lleva un Latte doble de 16 onzas?
+10 onzas.
+
+¿Cómo debe ser la espuma de la leche para un Latte?
+Fina y sin burbujas grandes.
+
+¿Qué debe hacerse después de vaporizar la leche del Latte?
+Agregarla sobre el espresso.
+
+¿Qué debe colocarse en la bandeja al servir un Latte?
+Una servilleta y un removedor.
+
+¿Qué debe acompañar siempre al Latte?
+El recipiente con los tres tipos de azúcar.
+
+¿Qué debe retirarse antes de entregar el Latte en mesa?
+El número de la mesa.
+
+¿Cuánto syrup lleva un Cappuccino o Latte saborizado de 8 onzas?
+0.75 onzas (3 disparos).
+
+¿Cuánto syrup lleva un Cappuccino o Latte saborizado de 12 onzas?
+1.25 onzas (5 disparos).
+
+¿Cuánto syrup lleva un Cappuccino o Latte saborizado de 16 onzas?
+1.50 onzas (6 disparos).
+
+¿Qué debe hacerse después de agregar el syrup?
+Agregar el espresso.
+
+¿Por qué debe mezclarse el espresso con el syrup?
+Para lograr una mejor integración de sabores.
+
+¿Cuánta leche lleva un Cappuccino saborizado de 8 onzas?
+4 onzas.
+
+¿Cuánta leche lleva un Cappuccino saborizado de 12 onzas?
+5 onzas.
+
+¿Cuánta leche lleva un Cappuccino saborizado de 16 onzas?
+10 onzas.
+
+¿Cuánta leche lleva un Latte saborizado de 8 onzas?
+4 onzas.
+
+¿Cuánta leche lleva un Latte saborizado de 12 onzas?
+6 onzas.
+
+¿Cuánta leche lleva un Latte saborizado de 16 onzas?
+10 onzas.
+
+¿Qué debe hacerse después de vaporizar la leche en una bebida saborizada?
+Agregar la leche al vaso.
+
+¿Por qué debe homogenizarse la bebida?
+Para crear un balance de sabor entre la leche y el café.
+
+¿Cómo debe entregarse una bebida saborizada?
+Tapada y con una sonrisa.
+
+¿Cuánto chocolate lleva un Mocha de 8 onzas?
+1 onza.
+
+¿Cuánto chocolate lleva un Mocha de 12 onzas?
+1.5 onzas.
+
+¿Cuánto chocolate lleva un Mocha de 16 onzas?
+2 onzas.
+
+¿Cuánto espresso lleva un Mocha de 8 onzas?
+1 onza.
+
+¿Cuánto espresso lleva un Mocha de 12 onzas?
+1.5 onzas.
+
+¿Cuánto espresso lleva un Mocha de 16 onzas?
+2 onzas.
+
+¿Cuántos movimientos deben realizarse para mezclar el chocolate y el espresso?
+Al menos 12 movimientos.
+
+¿Por qué debe mezclarse bien el chocolate con el espresso?
+Para que el cliente disfrute correctamente ambos sabores.
+
+¿Cuánta leche lleva un Mocha de 8 onzas?
+4 onzas.
+
+¿Cuánta leche lleva un Mocha de 12 onzas?
+5 onzas.
+
+¿Cuánta leche lleva un Mocha de 16 onzas?
+8 onzas.
+
+¿A qué profundidad debe introducirse la lanceta al vaporizar la leche del Mocha?
+A 1 cm dentro de la leche.
+
+¿Hasta qué temperatura debe calentarse la leche del Mocha?
+Hasta 140°F.
+
+¿Cómo debe agregarse la leche al Mocha?
+Primero una pequeña cantidad mezclando en movimientos circulares y luego el resto.
+
+¿Qué ingrediente adicional lleva un Mocha Oreo?
+1 onza de galleta Oreo sobre la bebida terminada.
+
+¿Cómo debe servirse un Mocha al cliente?
+Con una sonrisa.
+
+¿Cuánto chocolate lleva un Chocolate Caliente de 8 onzas?
+1 onza.
+
+¿Cuánto chocolate lleva un Chocolate Caliente de 12 onzas?
+1.5 onzas.
+
+¿Cuánto chocolate lleva un Chocolate Caliente de 16 onzas?
+2 onzas.
+
+¿Cuánta leche lleva un Chocolate Caliente de 8 onzas?
+6 onzas.
+
+¿Cuánta leche lleva un Chocolate Caliente de 12 onzas?
+8 onzas.
+
+¿Cuánta leche lleva un Chocolate Caliente de 16 onzas?
+10 onzas.
+
+¿Cuánto tiempo debe introducirse inicialmente la lanceta para el Chocolate Caliente?
+De 5 a 8 segundos.
+
+¿A qué profundidad debe introducirse inicialmente la lanceta?
+1 cm debajo de la leche.
+
+¿Hasta qué temperatura debe llegar inicialmente la leche?
+140°F.
+
+¿Cuál debe ser la temperatura final de la mezcla antes de servir?
+Entre 150°F y 170°F.
+
+¿Cómo debe quedar la mezcla del Chocolate Caliente?
+Cremosa y sin burbujas.
+
+¿Cuál debe ser la temperatura final del Chocolate Caliente servido?
+165°F +/- 5°F.
+
+¿Qué debe acompañar al Chocolate Caliente al servirlo?
+Una servilleta, un removedor y el recipiente con los tres tipos de azúcar.
+
+¿Qué debe retirarse antes de entregar el Chocolate Caliente en mesa?
+El número de la mesa.
+
+¿Qué ingredientes contiene el té Manzanilla Relax?
+Mezcla de manzanilla, menta y flor de caléndula.
+
+¿Cuál es la principal propiedad del té Manzanilla Relax?
+Es relajante.
+
+¿Cuáles son los beneficios del té Manzanilla Relax?
+Ayuda a aliviar dolores, resfriados, fiebre, mejora el sueño y favorece la digestión.
+
+¿Qué ingredientes contiene el té Melocotón Mix?
+Té negro de Cobán, trozos de melocotón deshidratado y jengibre.
+
+¿Cuál es la principal propiedad del té Melocotón Mix?
+Es estimulante.
+
+¿Cuáles son los beneficios del té Melocotón Mix?
+Estimula las células antioxidantes y es fuente de vitamina C, vitamina E, potasio, magnesio y fósforo.
+
+¿En qué ayuda el té Melocotón Mix gracias a sus minerales?
+Actúa como diurético y ayuda a prevenir la anemia.
+
+¿Dónde es cosechado y producido el Té Utopía?
+En Guatemala.
+
+¿De qué están elaborados los tés Utopía?
+Con ingredientes 100% naturales.
+
+¿Qué es la caléndula mencionada en el Té Utopía?
+Una flor medicinal.
+
+¿Qué debe hacer el barista cuando aparece un pedido de té en el KVS?
+Iniciar inmediatamente la preparación.
+
+¿Qué debe hacerse después de observar el pedido en el KVS?
+Tomar la bolsita del sabor de té solicitado.
+
+¿Dónde debe introducirse la bolsita de té?
+En un vaso térmico de 12 onzas.
+
+¿Con qué debe llenarse el vaso después de colocar la bolsita de té?
+Con agua caliente.
+
+¿Hasta dónde debe llenarse el vaso con agua caliente?
+Hasta la línea de seguridad.
+
+¿Cómo debe colocarse la tapa del vaso?
+Dejando el hilo de la bolsita por fuera.
+
+¿Con qué debe servirse el té al cliente?
+Con una servilleta y dos sobres de azúcar.
+
+¿Cómo debe entregarse el té al cliente?
+Con una sonrisa.
+
+¿Qué debe hacerse con el depósito de los tés después de cada preparación?
+Taparlo nuevamente.
+
+¿Por qué debe mantenerse tapado el depósito de los tés?
+Para evitar que se pierdan los aromas.
+
+¿Cuál debe ser la temperatura del espresso?
+Arriba de 170°F.
+
+¿Cuál debe ser la temperatura final del Cappuccino?
+165°F +/- 5°F.
+
+¿Cuál debe ser la temperatura final del Latte?
+165°F +/- 5°F.
+
+¿Cuál debe ser la temperatura final de las demás bebidas calientes?
+165°F +/- 5°F.
+
+¿Cuál debe ser la temperatura del agua caliente de la máquina?
+195°F +/- 5°F.
+
+¿A qué temperatura debe mantenerse la vitrina?
+4°C.
+
+¿Cuál debe ser la temperatura de la leche vaporizada?
+Entre 150°F y 170°F.
+
+¿Cuál debe ser la temperatura del Té Chai?
+160°F +/- 5°F.
+
+¿Cuál debe ser la temperatura del Café Guatemalteco?
+190°F +/- 5°F.
+
+¿Cuál debe ser la temperatura del té caliente?
+190°F +/- 5°F.
+
+¿Qué temperatura debe alcanzar inicialmente la leche durante el vaporizado del Chocolate Caliente?
+140°F.
+
+¿A qué temperatura final debe quedar la mezcla del Chocolate Caliente antes de servir?
+Entre 150°F y 170°F.
+
+¿Cuál es la temperatura final del Chocolate Caliente servido?
+165°F +/- 5°F.
+
+¿Qué característica debe tener la mezcla del Chocolate Caliente?
+Debe ser cremosa y sin burbujas.
+
+¿Qué característica debe tener la espuma utilizada en Cappuccino?
+Debe ser fina y sin burbujas grandes.
+
+¿Qué característica debe tener la espuma utilizada en Latte?
+Debe ser fina y sin burbujas grandes.
+
+¿Qué característica debe tener la espuma utilizada en Cortadito?
+Debe ser fina y sin burbujas grandes.
+
+¿Cómo debe ser la caída correcta del espresso?
+Lenta, continua, pesada y con apariencia de cola de ratón.
+
+¿De qué color debe ser la crema del espresso?
+Color avellana clara.
+
+¿Qué debe hacerse siempre antes de entregar cualquier bebida caliente?
+Tapar el vaso.
+
+¿Qué debe acompañar la mayoría de bebidas calientes al momento de servir?
+Una servilleta, un removedor y el recipiente con los tres tipos de azúcar.
+
+¿Qué debe retirarse antes de entregar una bebida en mesa?
+El número de la mesa.
+
+¿Cuál es una regla de higiene que aplica para todas las bebidas calientes?
+Lavarse las manos cada hora.
+
+¿Cuál es otra regla de higiene que aplica para todas las bebidas calientes?
+Aplicar gel antibacterial cada 30 minutos.
+
+¿Cómo deben mantenerse todos los utensilios del área McCafé?
+Limpios e higienizados.
+
+¿Qué tiempos de vida deben respetarse en todos los ingredientes?
+El tiempo de vida primario y el tiempo de vida secundario.
+
+¿Cuál es el objetivo de respetar las temperaturas de preparación y servicio?
+Garantizar la calidad, consistencia y seguridad de las bebidas.
+
+¿Con qué actitud deben entregarse todas las bebidas al cliente?
+Con una sonrisa.
