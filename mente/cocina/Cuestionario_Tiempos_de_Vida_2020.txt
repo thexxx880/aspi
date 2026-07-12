@@ -1,0 +1,1572 @@
+¿Cuál es el tiempo de vida primario del aceite Inolasa?
+365 días.
+
+¿Dónde debe almacenarse el aceite Inolasa?
+Bodega seca.
+
+¿A qué temperatura debe almacenarse el aceite Inolasa?
+Temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario del aderezo de yogurt pepino?
+30 días.
+
+¿Dónde debe almacenarse el aderezo de yogurt pepino?
+Cuarto frío.
+
+¿A qué temperatura debe almacenarse el aderezo de yogurt pepino?
+34° a 40°F.
+
+¿Cuál es el tiempo de vida primario del aderezo Mil Islas?
+90 días.
+
+¿Dónde debe almacenarse el aderezo Mil Islas?
+Temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario del aderezo Ranch?
+90 días.
+
+¿Dónde debe almacenarse el aderezo Ranch?
+Temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario del aderezo Vinagreta?
+30 días.
+
+¿Dónde debe almacenarse el aderezo Vinagreta?
+Temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario de los arándanos?
+18 meses.
+
+¿Cuál es la temperatura de almacenamiento de los arándanos?
+0° a -10°F.
+
+¿Dónde deben almacenarse los arándanos?
+Congelador.
+
+¿Cuál es el tiempo secundario de los arándanos durante el descongelamiento?
+3 días.
+
+¿Cuál es el tiempo de vida primario del atún en lata?
+2 años.
+
+¿Dónde debe almacenarse el atún en lata?
+Bodega seca.
+
+¿A qué temperatura debe almacenarse el atún en lata?
+Temperatura ambiente.
+
+¿Cuánto tiempo puede permanecer el atún en lata en la mesa de preparación?
+2 horas.
+
+¿Cuál es el tiempo de vida primario del puré de banano?
+20 días.
+
+¿Dónde debe almacenarse el puré de banano?
+Cuarto frío.
+
+¿A qué temperatura debe almacenarse el puré de banano?
+34° a 40°F.
+
+¿Cuál es el tiempo de vida primario del batter?
+151 días.
+
+¿Dónde debe almacenarse el batter?
+Bodega seca.
+
+¿A qué temperatura debe almacenarse el batter?
+Temperatura ambiente.
+
+¿Cuánto tiempo dura el batter una vez preparado?
+2 horas.
+
+¿Cuál es el tiempo de vida primario del breading?
+151 días.
+
+¿Dónde debe almacenarse el breading?
+Bodega seca.
+
+¿A qué temperatura debe almacenarse el breading?
+Temperatura ambiente.
+
+¿Cuándo debe desecharse el breading?
+Los domingos o cuando ocurra rompimiento de la cadena de conservación.
+
+¿Cuál es el tiempo de vida primario del breading Crispy?
+274 días.
+
+¿Dónde debe almacenarse el breading Crispy?
+Bodega seca.
+
+¿A qué temperatura debe almacenarse el breading Crispy?
+Temperatura ambiente.
+
+¿Cuándo debe desecharse el breading Crispy?
+Los domingos o cuando ocurra rompimiento de la cadena de conservación.
+
+¿Cuál es el tiempo de vida primario de la carne 10:1?
+90 días.
+
+¿Dónde debe almacenarse la carne 10:1?
+Congelador.
+
+¿A qué temperatura debe almacenarse la carne 10:1?
+0° a -10°F.
+
+¿Cuál es el tiempo secundario de la carne 10:1 en el congelador auxiliar?
+2 horas.
+
+¿Cuándo debe utilizarse la carne 10:1 después de pasar al congelador auxiliar?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida de la carne 10:1 en el UHC?
+15 minutos.
+
+¿Cuál es el tiempo de vida primario de la carne 3:1?
+90 días.
+
+¿Dónde debe almacenarse la carne 3:1?
+Congelador.
+
+¿A qué temperatura debe almacenarse la carne 3:1?
+0° a -10°F.
+
+¿Cuál es el tiempo secundario de la carne 3:1 en el congelador auxiliar?
+2 horas.
+
+¿Cuándo debe utilizarse la carne 3:1 después de pasar al congelador auxiliar?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida de la carne 3:1 en el UHC?
+15 minutos.
+
+¿Cuál es el tiempo de vida primario de la carne 4:1?
+90 días.
+
+¿Dónde debe almacenarse la carne 4:1?
+Congelador.
+
+¿A qué temperatura debe almacenarse la carne 4:1?
+0° a -10°F.
+
+¿Cuál es el tiempo secundario de la carne 4:1 en el congelador auxiliar?
+2 horas.
+
+¿Cuándo debe utilizarse la carne 4:1 después de pasar al congelador auxiliar?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida de la carne 4:1 en el UHC?
+15 minutos.
+
+¿Cuál es el tiempo de vida primario de la carne 7:1?
+90 días.
+
+¿Dónde debe almacenarse la carne 7:1?
+Congelador.
+
+¿A qué temperatura debe almacenarse la carne 7:1?
+0° a -10°F.
+
+¿Cuál es el tiempo secundario de la carne 7:1 en el congelador auxiliar?
+2 horas.
+
+¿Cuándo debe utilizarse la carne 7:1 después de pasar al congelador auxiliar?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida de la carne 7:1 en el UHC?
+15 minutos.
+
+¿Cuál es el tiempo de vida primario de la carne Angus?
+90 días.
+
+¿Dónde debe almacenarse la carne Angus?
+Congelador.
+
+¿A qué temperatura debe almacenarse la carne Angus?
+0° a -10°F.
+
+¿Cuál es el tiempo secundario de la carne Angus en el congelador auxiliar?
+2 horas.
+
+¿Cuándo debe utilizarse la carne Angus después de pasar al congelador auxiliar?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida de la carne Angus en el UHC?
+30 minutos.
+
+¿Cuál es el tiempo de vida primario de la cebolla cuarto?
+10 días.
+
+¿Dónde debe almacenarse la cebolla cuarto?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la cebolla cuarto?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario de la cebolla cuarto en la mesa de preparación?
+2 horas.
+
+¿Cuál es el tiempo de vida primario de la cebolla morada?
+10 días.
+
+¿Dónde debe almacenarse la cebolla morada?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la cebolla morada?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario de la cebolla morada en la mesa de preparación?
+2 horas.
+
+¿Cuál es el tiempo de vida primario del chile pimiento?
+10 días.
+
+¿Dónde debe almacenarse el chile pimiento?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el chile pimiento?
+De 34° a 40°F.
+
+¿Cuánto tiempo puede conservarse el chile pimiento después de abierto?
+Dentro de su período de conservación.
+
+¿Cuál es el tiempo de vida primario del chirmol en copitas?
+20 días.
+
+¿Dónde debe almacenarse el chirmol en copitas?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el chirmol en copitas?
+De 34° a 40°F.
+
+¿Cuándo debe desecharse el chirmol en copitas?
+Al final del turno de desayuno.
+
+¿Cuál es el tiempo de vida primario del chocolate caliente?
+180 días.
+
+¿Dónde debe almacenarse el chocolate caliente?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el chocolate caliente?
+Temperatura ambiente.
+
+¿Cuándo debe desecharse el chocolate caliente?
+Los domingos o cuando ocurra rompimiento de la cadena de conservación.
+
+¿Cuál es el tiempo de vida primario del concentrado de jamaica?
+90 días.
+
+¿Dónde debe almacenarse el concentrado de jamaica?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el concentrado de jamaica?
+Temperatura ambiente.
+
+¿Cuál es el tiempo secundario del concentrado de jamaica después de abierto?
+3 días.
+
+¿Cuál es el tiempo de vida primario del concentrado de jugo de naranja?
+120 días.
+
+¿Dónde debe almacenarse el concentrado de jugo de naranja?
+En congelador.
+
+¿A qué temperatura debe almacenarse el concentrado de jugo de naranja?
+De 0° a -10°F.
+
+¿Qué debe hacerse con el concentrado de jugo de naranja durante el rompimiento bacteriológico?
+Desechar lo surtido en las tolvas los domingos.
+
+¿Cuál es el tiempo de vida primario del condimento especial Grilled?
+5 meses.
+
+¿Dónde debe almacenarse el condimento especial Grilled?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el condimento especial Grilled?
+Temperatura ambiente.
+
+¿Cuándo debe desecharse el condimento especial Grilled?
+Los domingos o cuando ocurra rompimiento de la cadena de conservación.
+
+¿Cuál es el tiempo de vida primario de la crema en copitas?
+20 días.
+
+¿Dónde debe almacenarse la crema en copitas?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la crema en copitas?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida primario de los Danoninos?
+25 días.
+
+¿Dónde deben almacenarse los Danoninos?
+En cuarto frío.
+
+¿A qué temperatura deben almacenarse los Danoninos?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida primario de los fideos de arroz en bolsa?
+30 días.
+
+¿Dónde deben almacenarse los fideos de arroz en bolsa?
+A temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario del filete de pollo (Grill o Crispy)?
+8 días.
+
+¿Dónde debe almacenarse el filete de pollo (Grill o Crispy)?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el filete de pollo (Grill o Crispy)?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida del filete de pollo (Grill o Crispy) una vez cocinado?
+60 minutos.
+
+¿Cuál es el tiempo de vida primario de la fresa en cuadros?
+8 días.
+
+¿Dónde debe almacenarse la fresa en cuadros?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la fresa en cuadros?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida primario del frijol en bolsa parados?
+8 meses.
+
+¿Dónde debe almacenarse el frijol en bolsa parados?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el frijol en bolsa parados?
+Temperatura ambiente.
+
+¿Cuál es el tiempo secundario del frijol en bolsa parados en refrigeración?
+5 días.
+
+¿Cuál es el tiempo de vida primario del frijol en bolsa PPA?
+50 días.
+
+¿Dónde debe almacenarse el frijol en bolsa PPA?
+En freezer.
+
+¿A qué temperatura debe almacenarse el frijol en bolsa PPA?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del frijol en bolsa PPA?
+2 días, incluyendo 24 horas de descongelación.
+
+¿Cuánto tiempo puede permanecer abierto el frijol en bolsa PPA?
+24 horas.
+
+¿Cuál es el tiempo de vida del frijol en bolsa PPA una vez cocinado?
+120 minutos.
+
+¿Cuál es el tiempo de vida primario del frijol en lata?
+24 meses.
+
+¿Dónde debe almacenarse el frijol en lata?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el frijol en lata?
+Temperatura ambiente.
+
+¿Cuál es el tiempo de vida del frijol en lata una vez preparado?
+120 minutos.
+
+¿Cuál es el tiempo de vida primario del guacamol?
+180 días.
+
+¿Dónde debe almacenarse el guacamol?
+En congelador.
+
+¿A qué temperatura debe almacenarse el guacamol?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del guacamol después del descongelamiento?
+5 días.
+
+¿Cuánto tiempo puede permanecer abierto el guacamol en refrigeración?
+24 horas.
+
+¿Cuánto tiempo puede permanecer el guacamol en la mesa de preparación?
+8 horas.
+
+¿Cuál es el tiempo de vida primario de la harina para Hot Cake?
+180 días.
+
+¿Dónde debe almacenarse la harina para Hot Cake?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse la harina para Hot Cake?
+Temperatura ambiente.
+
+¿Cuánto tiempo dura la mezcla de harina para Hot Cake a temperatura ambiente?
+2 horas.
+
+¿Cuánto tiempo puede permanecer la mezcla de harina para Hot Cake en cuarto frío durante el desayuno?
+Todo el período de desayuno.
+
+¿Cuál es el tiempo de vida de la harina para Hot Cake en UHC?
+20 minutos.
+
+¿Cuál es el tiempo de vida primario del Hash Brown?
+180 días.
+
+¿Dónde debe almacenarse el Hash Brown?
+En congelador.
+
+¿A qué temperatura debe almacenarse el Hash Brown?
+De 0° a -10°F.
+
+¿Cuándo debe utilizarse el Hash Brown después de descongelarlo?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida del Hash Brown en UHC?
+10 minutos.
+
+¿Cuál es el tiempo de vida primario del Hot Cake congelado?
+180 días.
+
+¿Dónde debe almacenarse el Hot Cake congelado?
+En congelador.
+
+¿A qué temperatura debe almacenarse el Hot Cake congelado?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del Hot Cake congelado?
+48 horas, incluyendo 24 horas de descongelación.
+
+¿Cuál es el tiempo de vida del Hot Cake en UHC?
+20 minutos.
+
+¿Cuál es el tiempo de vida primario de los huevos duros?
+8 días.
+
+¿Dónde deben almacenarse los huevos duros?
+En cuarto frío.
+
+¿A qué temperatura deben almacenarse los huevos duros?
+De 34° a 40°F.
+
+¿Cuánto tiempo pueden conservarse los huevos duros en su bolsa original abierta?
+24 horas.
+
+¿Cuánto tiempo pueden permanecer los huevos duros en la mesa de preparación?
+4 horas.
+
+¿Cuál es el tiempo de vida primario de los huevos Muffin, revueltos y doblados?
+30 días.
+
+¿Dónde deben almacenarse los huevos Muffin, revueltos y doblados?
+En cuarto frío.
+
+¿A qué temperatura deben almacenarse los huevos Muffin, revueltos y doblados?
+De 34° a 40°F.
+
+¿Cuánto tiempo pueden permanecer los huevos Muffin, revueltos y doblados a temperatura ambiente?
+30 minutos.
+
+¿Cuál es el tiempo de vida de los huevos Muffin, revueltos y doblados en UHC?
+20 minutos.
+
+¿Cuál es el tiempo de vida primario del jarabe para sodas?
+75 días.
+
+¿Dónde debe almacenarse el jarabe para sodas?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el jarabe para sodas?
+Temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario del kétchup a granel?
+180 días.
+
+¿Dónde debe almacenarse el kétchup a granel?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el kétchup a granel?
+Temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario de la leche (bodega seca)?
+180 días.
+
+¿Dónde debe almacenarse la leche antes de abrirse?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse la leche antes de abrirse?
+Temperatura ambiente.
+
+¿Cuánto tiempo puede permanecer la leche en la lechera del restaurante?
+2 horas.
+
+¿Cuál es el tiempo de vida primario de la lechuga escarola?
+10 días.
+
+¿Dónde debe almacenarse la lechuga escarola?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la lechuga escarola?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario de la lechuga escarola en la mesa de preparación?
+2 horas.
+
+¿Cuánto tiempo puede conservarse la lechuga escarola después de abierta?
+Dentro de su período de conservación.
+
+¿Cuál es el tiempo de vida primario de la lechuga rallada?
+10 días.
+
+¿Dónde debe almacenarse la lechuga rallada?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la lechuga rallada?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario de la lechuga rallada en la mesa de preparación?
+2 horas.
+
+¿Cuánto tiempo puede conservarse la lechuga rallada después de abierta?
+Dentro de su período de conservación.
+
+¿Cuál es el tiempo de vida primario del lomo canadiense?
+60 días.
+
+¿Dónde debe almacenarse el lomo canadiense?
+En congelador.
+
+¿A qué temperatura debe almacenarse el lomo canadiense?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del lomo canadiense durante el descongelamiento?
+40 días.
+
+¿Cuánto tiempo puede permanecer abierto el lomo canadiense?
+72 horas.
+
+¿Cuál es el tiempo de vida del lomo canadiense en UHC?
+30 minutos.
+
+¿Cuál es el tiempo de vida primario del maíz dulce?
+12 meses.
+
+¿Dónde debe almacenarse el maíz dulce?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el maíz dulce?
+Temperatura ambiente.
+
+¿Cuál es el tiempo secundario del maíz dulce en refrigeración?
+3 días.
+
+¿Cuánto tiempo puede permanecer el maíz dulce en la mesa de preparación?
+2 horas.
+
+¿Cuál es el tiempo de vida primario de la mantequilla en copitas?
+120 días.
+
+¿Dónde debe almacenarse la mantequilla en copitas?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la mantequilla en copitas?
+De 34° a 40°F.
+
+¿Cuándo debe utilizarse la mantequilla en copitas?
+Durante el período de desayuno.
+
+¿Cuál es el tiempo de vida primario de la manzana en cuadros?
+10 días.
+
+¿Dónde debe almacenarse la manzana en cuadros?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la manzana en cuadros?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida primario de la margarina Vitina?
+6 meses.
+
+¿Dónde debe almacenarse la margarina Vitina?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse la margarina Vitina?
+Temperatura ambiente.
+
+¿Cuánto tiempo puede permanecer abierta la margarina Vitina?
+72 horas.
+
+¿Cuál es el tiempo de vida primario del McGriddles?
+270 días.
+
+¿Dónde debe almacenarse el McGriddles?
+En congelador.
+
+¿A qué temperatura debe almacenarse el McGriddles?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del McGriddles después de horneado?
+3 horas.
+
+¿Cuándo debe utilizarse el McGriddles después de horneado?
+Usar primero al día siguiente.
+
+¿Cuánto tiempo puede permanecer el McGriddles en UHC?
+3 horas, incluyendo 20 minutos.
+
+¿Cuál es el tiempo de vida primario de los McNuggets?
+120 días.
+
+¿Dónde deben almacenarse los McNuggets?
+En congelador.
+
+¿A qué temperatura deben almacenarse los McNuggets?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario de los McNuggets en el congelador auxiliar?
+2 horas.
+
+¿Cuándo deben utilizarse los McNuggets después de pasar al congelador auxiliar?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida de los McNuggets en UHC?
+20 minutos.
+
+¿Cuál es el tiempo de vida primario de las McPatatas?
+180 días.
+
+¿Dónde deben almacenarse las McPatatas?
+En congelador.
+
+¿A qué temperatura deben almacenarse las McPatatas?
+De 0° a -10°F.
+
+¿Cuándo deben utilizarse las McPatatas después de descongelarse?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida de las McPatatas en UHC?
+7 minutos.
+
+¿Cuál es el tiempo de vida primario del McPollo?
+180 días.
+
+¿Dónde debe almacenarse el McPollo?
+En congelador.
+
+¿A qué temperatura debe almacenarse el McPollo?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del McPollo en el congelador auxiliar?
+2 horas.
+
+¿Cuándo debe utilizarse el McPollo después de pasar al congelador auxiliar?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida del McPollo en UHC?
+30 minutos.
+
+¿Cuál es el tiempo de vida primario del melocotón en trozos?
+12 meses.
+
+¿Dónde debe almacenarse el melocotón en trozos?
+En congelador.
+
+¿A qué temperatura debe almacenarse el melocotón en trozos?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del melocotón en trozos durante el descongelamiento?
+3 días.
+
+¿Cuál es el tiempo de vida primario de la mezcla de lechuga?
+10 días.
+
+¿Dónde debe almacenarse la mezcla de lechuga?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la mezcla de lechuga?
+De 34° a 40°F.
+
+¿Cuánto tiempo puede conservarse la mezcla de lechuga?
+Dentro de su período de conservación.
+
+¿Cuál es el tiempo de vida primario de la mezcla de sundae?
+10 días.
+
+¿Dónde debe almacenarse la mezcla de sundae?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la mezcla de sundae?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida primario de la mezcla de sundae chocolate?
+10 días.
+
+¿Dónde debe almacenarse la mezcla de sundae chocolate?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la mezcla de sundae chocolate?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida primario de la mezcla de zanahoria y repollo para ensalada?
+12 días.
+
+¿Dónde debe almacenarse la mezcla de zanahoria y repollo?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la mezcla de zanahoria y repollo?
+De 34° a 40°F.
+
+¿Cuánto tiempo puede conservarse la mezcla de zanahoria y repollo?
+Dentro de su período de conservación.
+
+¿Cuál es el tiempo de vida primario de la mezcla de sundae congelada?
+180 días.
+
+¿Dónde debe almacenarse la mezcla de sundae congelada?
+En freezer.
+
+¿A qué temperatura debe almacenarse la mezcla de sundae congelada?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario de la mezcla de sundae congelada?
+12 días, incluyendo 3 días de descongelación.
+
+¿Cuál es el tiempo de vida primario de la mostaza a granel?
+12 meses.
+
+¿Dónde debe almacenarse la mostaza a granel?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse la mostaza a granel?
+Temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario del néctar de fresa mora?
+180 días.
+
+¿Dónde debe almacenarse el néctar de fresa mora?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el néctar de fresa mora?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario del néctar de fresa mora después de abierto?
+3 días.
+
+¿Cuál es el tiempo de vida primario del pan congelado?
+90 días.
+
+¿Dónde debe almacenarse el pan congelado?
+En congelador.
+
+¿A qué temperatura debe almacenarse el pan congelado?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del pan congelado?
+48 horas, incluyendo 12 horas de descongelación.
+
+¿Cuál es el tiempo de vida primario del pan de agua?
+80 días.
+
+¿Dónde debe almacenarse el pan de agua?
+En congelador.
+
+¿A qué temperatura debe almacenarse el pan de agua?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del pan de agua?
+48 horas, incluyendo 12 horas de descongelación.
+
+¿Cuál es el tiempo de vida del pan de agua en UHC?
+20 minutos.
+
+¿Cuál es el tiempo de vida primario del pan fresco?
+6 días desde la entrega.
+
+¿Dónde debe almacenarse el pan fresco?
+En racks de pan.
+
+¿A qué temperatura debe almacenarse el pan fresco?
+Temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario del pan Muffin?
+90 días.
+
+¿Dónde debe almacenarse el pan Muffin?
+En congelador.
+
+¿A qué temperatura debe almacenarse el pan Muffin?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del pan Muffin?
+48 horas, incluyendo 12 horas de descongelación.
+
+¿Cuál es el tiempo de vida del pan Muffin en UHC?
+20 minutos.
+
+¿Cuál es el tiempo de vida primario de las papas?
+270 días.
+
+¿Dónde deben almacenarse las papas?
+En congelador.
+
+¿A qué temperatura deben almacenarse las papas?
+De 0° a -10°F.
+
+¿Cuánto tiempo pueden permanecer las papas antes de freírse?
+30 minutos como máximo.
+
+¿Cuándo deben utilizarse las papas después de descongelarse?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida de las papas en UHC?
+7 minutos.
+
+¿Cuál es el tiempo de vida primario de los pepinillos?
+180 días.
+
+¿Dónde deben almacenarse los pepinillos?
+En bodega seca.
+
+¿A qué temperatura deben almacenarse los pepinillos?
+Temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario del pepino?
+7 días.
+
+¿Dónde debe almacenarse el pepino?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el pepino?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario del pepino en la mesa de preparación?
+2 horas.
+
+¿Cuál es el tiempo de vida primario del Pie (todos los sabores)?
+90 días.
+
+¿Dónde debe almacenarse el Pie?
+En congelador.
+
+¿A qué temperatura debe almacenarse el Pie?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del Pie en el congelador auxiliar?
+2 horas.
+
+¿Cuál es el tiempo de vida del Pie después de horneado?
+90 minutos, incluyendo 20 minutos de enfriamiento.
+
+¿Cuál es el tiempo de vida primario del plátano?
+180 días.
+
+¿Dónde debe almacenarse el plátano?
+En congelador.
+
+¿A qué temperatura debe almacenarse el plátano?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario del plátano?
+72 horas, incluyendo 12 horas de descongelación.
+
+¿Cuánto tiempo puede permanecer abierto el plátano?
+Las mismas 72 horas, incluyendo 12 horas de descongelación.
+
+¿Cuál es el tiempo de vida del plátano en UHC?
+60 minutos.
+
+¿Cuál es el tiempo de vida primario del pollo en piezas?
+6 días.
+
+¿Dónde debe almacenarse el pollo en piezas?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el pollo en piezas?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida del pollo en piezas después de cocinarse?
+45 minutos en horno de conservación.
+
+¿Cuál es el tiempo de vida primario del queso cheddar líquido?
+540 días.
+
+¿Dónde debe almacenarse el queso cheddar líquido?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el queso cheddar líquido?
+Temperatura ambiente.
+
+¿Cuál es el tiempo secundario del queso cheddar líquido?
+72 horas en refrigeración.
+
+¿Cuánto tiempo puede permanecer el queso cheddar líquido en el área de cocina?
+Todo el día.
+
+¿Cuándo debe desecharse el queso cheddar líquido?
+Al finalizar el día.
+
+¿Cuál es el tiempo de vida primario del queso en capas?
+22 días.
+
+¿Dónde debe almacenarse el queso en capas?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el queso en capas?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario del queso en capas en la mesa de preparación?
+2 horas.
+
+¿Cuánto tiempo puede permanecer abierto el queso en capas?
+5 días en bandeja abierta en refrigeración.
+
+¿Cuál es el tiempo de vida primario del queso cheddar en cuadros?
+30 días.
+
+¿Dónde debe almacenarse el queso cheddar en cuadros?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el queso cheddar en cuadros?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida primario del queso Emmental?
+120 días.
+
+¿Dónde debe almacenarse el queso Emmental?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el queso Emmental?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario del queso Emmental en la mesa de preparación?
+2 horas.
+
+¿Cuál es el tiempo de vida primario del queso Mozzarella en cuadros?
+30 días.
+
+¿Dónde debe almacenarse el queso Mozzarella en cuadros?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el queso Mozzarella en cuadros?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida primario del queso Schiber (americano)?
+120 días.
+
+¿Dónde debe almacenarse el queso Schiber (americano)?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el queso Schiber (americano)?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario del queso Schiber (americano)?
+4 horas.
+
+¿Cuál es el tiempo de vida primario de la sal de mesa?
+12 meses.
+
+¿Dónde debe almacenarse la sal de mesa?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse la sal de mesa?
+Temperatura ambiente.
+
+¿Cuándo debe desecharse la sal de mesa?
+Los domingos o cuando ocurra rompimiento de la cadena de conservación.
+
+¿Cuál es el tiempo de vida primario de la sal pimentada?
+12 meses.
+
+¿Dónde debe almacenarse la sal pimentada?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse la sal pimentada?
+Temperatura ambiente.
+
+¿Cuándo debe desecharse la sal pimentada?
+Los domingos o cuando ocurra rompimiento de la cadena de conservación.
+
+¿Cuál es el tiempo de vida primario de la salchicha?
+90 días.
+
+¿Dónde debe almacenarse la salchicha?
+En congelador.
+
+¿A qué temperatura debe almacenarse la salchicha?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario de la salchicha en el congelador auxiliar?
+2 horas.
+
+¿Cuándo debe utilizarse la salchicha después de pasar al congelador auxiliar?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida de la salchicha en UHC?
+60 minutos.
+
+¿Cuál es el tiempo de vida primario de la salsa Big Tasty?
+90 días.
+
+¿Dónde debe almacenarse la salsa Big Tasty?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la salsa Big Tasty?
+De 34° a 40°F.
+
+¿Cuánto tiempo puede permanecer abierta la salsa Big Tasty?
+8 horas, incluyendo 2 horas de mesa de preparación.
+
+¿Cuál es el tiempo de vida primario de la salsa Ranchera?
+90 días.
+
+¿Dónde debe almacenarse la salsa Ranchera?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse la salsa Ranchera?
+Temperatura ambiente.
+
+¿Cuál es el tiempo secundario de la salsa Ranchera después de abrir la bolsa?
+7 días.
+
+¿Cuánto tiempo puede permanecer la salsa Ranchera en la mesa de preparación?
+6 horas.
+
+¿Cuál es el tiempo de vida primario del sazonador Angus?
+182 días.
+
+¿Dónde debe almacenarse el sazonador Angus?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el sazonador Angus?
+Temperatura ambiente.
+
+¿Hasta cuándo puede utilizarse el sazonador Angus?
+Dentro de su período de conservación.
+
+¿Cuándo debe desecharse el sazonador Angus?
+Los domingos o cuando ocurra rompimiento de la cadena de conservación.
+
+¿Cuál es el tiempo de vida primario del sirope de batidos?
+3 meses.
+
+¿Dónde debe almacenarse el sirope de batidos?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el sirope de batidos?
+Temperatura ambiente.
+
+¿Cuál es el tiempo secundario del sirope de batidos después de abierto?
+7 días.
+
+¿Cuál es el tiempo de vida primario del té frío?
+180 días.
+
+¿Dónde debe almacenarse el té frío?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el té frío?
+Temperatura ambiente.
+
+¿Cuál es el tiempo secundario del té frío?
+21 días.
+
+¿Cuál es el tiempo de vida primario del tocino en tiras?
+180 días.
+
+¿Dónde debe almacenarse el tocino en tiras?
+En congelador.
+
+¿A qué temperatura debe almacenarse el tocino en tiras?
+De 0° a -10°F.
+
+¿Cuándo debe utilizarse el tocino después de descongelarlo?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida del tocino cocinado?
+4 horas.
+
+¿Cuál es el tiempo de vida primario del tomate Cherry?
+12 días.
+
+¿Dónde debe almacenarse el tomate Cherry?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el tomate Cherry?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida primario de la tortilla de 10 pulgadas?
+120 días.
+
+¿Dónde debe almacenarse la tortilla de 10 pulgadas?
+En congelador.
+
+¿A qué temperatura debe almacenarse la tortilla de 10 pulgadas?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario de la tortilla de 10 pulgadas?
+48 horas, incluyendo 12 horas de descongelación.
+
+¿Cuál es el tiempo de vida primario de la tortilla de 8 pulgadas?
+120 días.
+
+¿Dónde debe almacenarse la tortilla de 8 pulgadas?
+En congelador.
+
+¿A qué temperatura debe almacenarse la tortilla de 8 pulgadas?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario de la tortilla de 8 pulgadas?
+48 horas, incluyendo 12 horas de descongelación.
+
+¿Cuál es el tiempo de vida primario de la tortilla de maíz?
+14 días.
+
+¿Dónde debe almacenarse la tortilla de maíz?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la tortilla de maíz?
+De 34° a 40°F.
+
+¿Cuánto tiempo puede permanecer abierta la tortilla de maíz?
+24 horas.
+
+¿Cuál es el tiempo de vida de la tortilla de maíz en UHC?
+30 minutos.
+
+¿Cuál es el tiempo de vida primario de las tortillas chips en bolsa?
+120 días.
+
+¿Dónde deben almacenarse las tortillas chips en bolsa?
+A temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario de los tubos de mayonesa?
+120 días.
+
+¿Dónde deben almacenarse los tubos de mayonesa?
+En cuarto frío.
+
+¿A qué temperatura deben almacenarse los tubos de mayonesa?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario de los tubos de mayonesa?
+4 horas de temporización.
+
+¿Cuánto tiempo pueden permanecer abiertos los tubos de mayonesa?
+24 horas, incluyendo el tiempo de temporización.
+
+¿Cuál es el tiempo de vida primario de los tubos de salsa Big Mac?
+90 días.
+
+¿Dónde deben almacenarse los tubos de salsa Big Mac?
+En cuarto frío.
+
+¿A qué temperatura deben almacenarse los tubos de salsa Big Mac?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario de los tubos de salsa Big Mac?
+4 horas de temporización.
+
+¿Cuánto tiempo pueden permanecer abiertos los tubos de salsa Big Mac?
+24 horas, incluyendo el tiempo de temporización.
+
+¿Cuál es el tiempo de vida primario del yogurt (Haas)?
+45 días.
+
+¿Dónde debe almacenarse el yogurt (Haas)?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el yogurt (Haas)?
+De 34° a 40°F.
+
+¿Cuál es el tiempo secundario del yogurt (Haas) después de abierto?
+5 días.
+
+¿Cuál es el tiempo de vida del yogurt preparado?
+8 horas.
+
+¿Cuál es el tiempo de vida primario de las tortas Junior?
+180 días.
+
+¿Dónde deben almacenarse las tortas Junior?
+En congelador.
+
+¿A qué temperatura deben almacenarse las tortas Junior?
+De 0° a -10°F.
+
+¿Cuál es el tiempo secundario de las tortas Junior?
+2 horas en congelado.
+
+¿Cuándo deben utilizarse las tortas Junior?
+Usar primero al día siguiente.
+
+¿Cuál es el tiempo de vida de las tortas Junior en UHC?
+30 minutos.
+
+¿Cuál es el tiempo de vida primario de la quesadilla?
+3 días.
+
+¿Dónde debe almacenarse la quesadilla?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse la quesadilla?
+Temperatura ambiente.
+
+¿Cuál es el tiempo secundario de la quesadilla después de abierta?
+3 días.
+
+¿Cuál es el tiempo de vida primario de la lechuga?
+7 días.
+
+¿Dónde debe almacenarse la lechuga?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la lechuga?
+De 34° a 40°F.
+
+¿Hasta cuándo debe utilizarse la lechuga?
+Dentro de su período de conservación.
+
+¿Cuál es el tiempo máximo que puede permanecer la lechuga en la mesa de preparación?
+2 horas.
+
+¿Cuál es el tiempo de vida primario de la cebolla?
+7 días.
+
+¿Dónde debe almacenarse la cebolla?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la cebolla?
+De 34° a 40°F.
+
+¿Hasta cuándo debe utilizarse la cebolla?
+Dentro de su período de conservación.
+
+¿Cuál es el tiempo máximo que puede permanecer la cebolla en la mesa de preparación?
+2 horas.
+
+¿Cuál es el tiempo de vida primario del queso Camoapan?
+30 días.
+
+¿Dónde debe almacenarse el queso Camoapan?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el queso Camoapan?
+De 34° a 40°F.
+
+¿Hasta cuándo debe utilizarse el queso Camoapan?
+Dentro de su período de conservación.
+
+¿Cuál es el tiempo de vida del queso Camoapan una vez cocinado?
+20 minutos.
+
+¿Cuál es el tiempo de vida primario del gallo pinto?
+2 meses.
+
+¿Dónde debe almacenarse el gallo pinto?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el gallo pinto?
+De 34° a 40°F.
+
+¿Hasta cuándo debe utilizarse el gallo pinto?
+Dentro de su período de conservación.
+
+¿Cuál es el tiempo de vida del gallo pinto una vez cocinado?
+60 minutos.
+
+¿Cuál es el tiempo de vida primario del pan Pirujo?
+7 días.
+
+¿Dónde debe almacenarse el pan Pirujo?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el pan Pirujo?
+Temperatura ambiente.
+
+¿Hasta cuándo debe utilizarse el pan Pirujo?
+Dentro de su período de conservación.
+
+¿Cuál es el tiempo de vida primario de la tortilla de maíz (productos especiales)?
+7 días.
+
+¿Dónde debe almacenarse la tortilla de maíz (productos especiales)?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la tortilla de maíz (productos especiales)?
+De 34° a 40°F.
+
+¿Hasta cuándo debe utilizarse la tortilla de maíz (productos especiales)?
+Dentro de su período de conservación.
+
+¿Cuál es el tiempo de vida primario de los tubos de Salsa Big Mac (productos especiales)?
+90 días.
+
+¿Dónde deben almacenarse los tubos de Salsa Big Mac?
+En bodega seca.
+
+¿A qué temperatura deben almacenarse los tubos de Salsa Big Mac?
+Temperatura ambiente.
+
+¿Cuál es el tiempo secundario de los tubos de Salsa Big Mac después de abiertos?
+48 horas.
+
+¿Cuánto tiempo deben temporizarse los tubos de Salsa Big Mac cuando se utilizan?
+1 hora.
+
+¿Cuál es el tiempo de vida primario de los frijoles colorados?
+2 años.
+
+¿Dónde deben almacenarse los frijoles colorados?
+En bodega seca.
+
+¿A qué temperatura deben almacenarse los frijoles colorados?
+Temperatura ambiente.
+
+¿Cuál es el tiempo de vida primario del arroz?
+365 días.
+
+¿Dónde debe almacenarse el arroz?
+En bodega seca.
+
+¿A qué temperatura debe almacenarse el arroz?
+Temperatura ambiente.
+
+¿Cuál es el tiempo secundario del arroz cocinado en refrigeración?
+48 horas.
+
+¿Cuál es el tiempo de vida primario de las McDoraditas?
+5 días.
+
+¿Dónde deben almacenarse las McDoraditas?
+En cuarto frío.
+
+¿A qué temperatura deben almacenarse las McDoraditas?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida de las McDoraditas en UHC?
+45 minutos.
+
+¿Cuál es el tiempo de vida primario del Chicken Filete (Grill)?
+5 días.
+
+¿Dónde debe almacenarse el Chicken Filete (Grill)?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el Chicken Filete (Grill)?
+De 34° a 40°F.
+
+¿Cuál es el tiempo de vida del Chicken Filete (Grill) una vez cocinado?
+60 minutos.
+
+¿Cuál es el tiempo de vida primario de la lechuga para ensaladas?
+4 días.
+
+¿Dónde debe almacenarse la lechuga para ensaladas?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la lechuga para ensaladas?
+De 34° a 40°F.
+
+¿Cuál es el tiempo máximo que puede permanecer la lechuga para ensaladas en la mesa de preparación?
+2 horas.
+
+¿Cuál es el tiempo de vida primario de la cebolla morada para ensaladas?
+4 días.
+
+¿Dónde debe almacenarse la cebolla morada para ensaladas?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la cebolla morada para ensaladas?
+De 34° a 40°F.
+
+¿Cuál es el tiempo máximo que puede permanecer la cebolla morada para ensaladas en la mesa de preparación?
+2 horas.
+
+¿Cuál es el tiempo de vida primario de la mezcla de repollo y zanahoria?
+4 días.
+
+¿Dónde debe almacenarse la mezcla de repollo y zanahoria?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse la mezcla de repollo y zanahoria?
+De 34° a 40°F.
+
+¿Cuánto tiempo puede conservarse la mezcla de repollo y zanahoria una vez preparada?
+12 horas como ensalada.
+
+¿Cuál es el tiempo de vida primario del pepino para ensaladas?
+4 días.
+
+¿Dónde debe almacenarse el pepino para ensaladas?
+En cuarto frío.
+
+¿A qué temperatura debe almacenarse el pepino para ensaladas?
+De 34° a 40°F.
+
+¿Cuál es el tiempo máximo que puede permanecer el pepino para ensaladas en la mesa de preparación?
+2 horas.
+
+¿Cuál es el tiempo de cocción de la carne 10:1?
+38 segundos.
+
+¿Cuál es el GAP de la carne 10:1?
+0.255.
+
+¿Cuál es el tiempo de vida de la carne 10:1 en el UHC?
+15 minutos.
+
+¿Cuál es el tiempo de cocción de la carne 4:1?
+104 segundos.
+
+¿Cuál es el GAP de la carne 4:1?
+0.415.
+
+¿Cuál es el tiempo de vida de la carne 4:1 en el UHC?
+15 minutos.
+
+¿Cuál es el tiempo de cocción de la carne 3:1?
+157 segundos.
+
+¿Cuál es el GAP de la carne 3:1?
+0.534.
+
+¿Cuál es el tiempo de vida de la carne 3:1 en el UHC?
+15 minutos.
+
+¿Cuál es el tiempo de cocción de los bordes irregulares?
+82 segundos.
+
+¿Cuál es el GAP de los bordes irregulares?
+0.350.
+
+¿Cuál es el tiempo de vida de los bordes irregulares en el UHC?
+1 hora.
+
+¿Cuál es el tiempo de cocción de la salchicha?
+90 ± 5 segundos.
+
+¿Cuál es el GAP de la salchicha?
+0.265.
+
+¿Cuál es el tiempo de vida de la salchicha en el UHC?
+4 horas.
+
+¿Cuál es el tiempo de cocción del nuevo tocino en medias tiras?
+130 ± 5 segundos.
+
+¿Cuál es el GAP del nuevo tocino en medias tiras?
+0.265.
+
+¿Cuál es el tiempo de vida del nuevo tocino en medias tiras en el UHC?
+4 horas.
+
+¿Cuál es el tiempo de cocción de las papas?
+3 minutos con 10 segundos.
+
+¿A qué temperatura se cocinan las papas?
+335 °F.
+
+¿Cada cuánto deben agitarse las papas durante la cocción?
+Cada 30 segundos.
+
+¿Cuál es el tiempo de cocción de las McPatatas?
+3 minutos.
+
+¿A qué temperatura se cocinan las McPatatas?
+335 °F.
+
+¿Cada cuánto deben agitarse las McPatatas durante la cocción?
+Cada 30 segundos.
+
+¿Cuál es el tiempo de cocción del plátano?
+75 segundos.
+
+¿A qué temperatura se cocina el plátano?
+360 °F.
+
+¿Cuánto tiempo debe enfriarse el plátano antes de utilizarlo?
+20 minutos.
+
+¿Cuál es el tiempo de cocción del Pie?
+6 minutos.
+
+¿A qué temperatura se cocina el Pie?
+360 °F.
+
+¿Cuál es el tiempo de cocción del McPollo?
+3 minutos.
+
+¿A qué temperatura se cocina el McPollo?
+360 °F.
+
+¿Cuál es el tiempo de cocción de los McNuggets?
+3 minutos con 30 segundos.
+
+¿A qué temperatura se cocinan los McNuggets?
+360 °F.
+
+¿Cuál es el tiempo de cocción del Crispy (tina abierta)?
+5 minutos con 45 segundos.
+
+¿A qué temperatura se cocina el Crispy (tina abierta)?
+360 °F.
+
+¿Cuál es el tiempo de cocción del Hash Brown?
+2 minutos con 45 segundos.
+
+¿A qué temperatura se cocina el Hash Brown?
+360 °F.
+
+¿Cuál es el tiempo de cocción del pollo Crispy en la tina de pollo?
+12 minutos.
+
+¿A qué temperatura se cocina el pollo Crispy en la tina de pollo?
+325 °F.
+
+¿Cuál es el tiempo de vida del pollo Crispy en UHC?
+6 minutos.
+
+¿A qué temperatura debe mantenerse el UHC de desayuno?
+175 °F.
+
+¿A qué temperatura debe mantenerse el UHC de carnes?
+185 °F.
+
+¿A qué temperatura debe mantenerse el UHC para productos de pollo?
+200 °F.
+
+¿Cuál es el tiempo de vida del pan Muffin?
+20 minutos.
+
+¿Cuál es el tiempo de vida del Hot Cake?
+20 minutos.
+
+¿Cuál es el tiempo de vida de los huevos revueltos?
+20 minutos.
+
+¿Cuál es el tiempo de vida de los huevos Muffin?
+20 minutos.
+
+¿Cuál es el tiempo de vida de los huevos doblados?
+20 minutos.
+
+¿Cuál es el tiempo de vida de los huevos Huerto?
+20 minutos.
+
+¿Cuál es el tiempo de vida de la tortilla?
+30 minutos.
+
+¿Cuál es el tiempo de vida del jamón?
+30 minutos.
+
+¿Cuál es el tiempo de vida del frijol?
+60 minutos.
+
+¿Cuál es el tiempo de vida del plátano en UHC?
+60 minutos.
+
+¿Cuál es el tiempo de vida de los burritos?
+20 minutos.
+
